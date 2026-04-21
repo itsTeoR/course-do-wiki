@@ -12,6 +12,7 @@
 - [Эффектуация (effectuation)](frameworks/effectuation.md)
 - [Конечные и бесконечные игры (finite and infinite games)](frameworks/finite_and_infinite_games.md)
 - [Четыре типажа (Four Tendencies)](frameworks/four_tendencies.md)
+- [Системное мышление (thinking in systems)](frameworks/thinking_in_systems.md)
 
 ### Concepts — отдельные идеи
 Единичные операциональные понятия, которые можно вырвать из родного
@@ -25,6 +26,10 @@
 - [Внешние и внутренние ожидания (outer vs inner expectations)](concepts/outer_vs_inner_expectations.md)
 - [Внешняя подотчётность (external accountability)](concepts/external_accountability.md)
 - [Obliger-rebellion (бунт угодника)](concepts/obliger_rebellion.md)
+- [Запасы и потоки (stocks and flows)](concepts/stocks_and_flows.md)
+- [Обратные связи (feedback loops)](concepts/feedback_loops.md)
+- [Точки воздействия (leverage points)](concepts/leverage_points.md)
+- [Системные ловушки (system traps)](concepts/system_traps.md)
 
 ### People — ключевые авторы
 Короткие справки о людях, чьи идеи мы используем. Не биографии — а
@@ -33,6 +38,7 @@
 - [Сарас Сарасвати (Saras D. Sarasvathy)](people/sarasvathy.md)
 - [Джеймс П. Карс (James P. Carse)](people/carse.md)
 - [Гретхен Рубин (Gretchen Rubin)](people/rubin.md)
+- [Донелла Медоуз (Donella H. Meadows)](people/meadows.md)
 
 ### Bridges — где разные традиции говорят об одном
 Самый ценный слой для курса. Карма-йога и эффектуация, Юнг и

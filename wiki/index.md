@@ -14,6 +14,7 @@
 - [Четыре типажа (Four Tendencies)](frameworks/four_tendencies.md)
 - [Tiny Habits (Фогг)](frameworks/tiny_habits.md)
 - [Внутренняя игра (Inner Game)](frameworks/inner_game.md)
+- [Lean Startup](frameworks/lean_startup.md)
 - [Системное мышление (thinking in systems)](frameworks/thinking_in_systems.md)
 
 ### Concepts — отдельные идеи
@@ -34,6 +35,9 @@
 - [Self 1 и Self 2](concepts/self_1_self_2.md)
 - [Инструмент STOP](concepts/stop_tool.md)
 - [Треугольник работы (performance, learning, enjoyment)](concepts/work_triangle.md)
+- [Build-Measure-Learn и validated learning](concepts/build_measure_learn.md)
+- [MVP (minimum viable product)](concepts/mvp.md)
+- [Pivot или persevere](concepts/pivot_or_persevere.md)
 - [Запасы и потоки (stocks and flows)](concepts/stocks_and_flows.md)
 - [Обратные связи (feedback loops)](concepts/feedback_loops.md)
 - [Точки воздействия (leverage points)](concepts/leverage_points.md)
@@ -48,6 +52,7 @@
 - [Гретхен Рубин (Gretchen Rubin)](people/rubin.md)
 - [BJ Фогг (BJ Fogg)](people/fogg.md)
 - [Тимоти Голлвей (W. Timothy Gallwey)](people/gallwey.md)
+- [Эрик Рис (Eric Ries)](people/ries.md)
 - [Донелла Медоуз (Donella H. Meadows)](people/meadows.md)
 
 ### Bridges — где разные традиции говорят об одном

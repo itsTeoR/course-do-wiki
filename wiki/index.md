@@ -10,6 +10,7 @@
 психология Юнга).
 
 - [Эффектуация (effectuation)](frameworks/effectuation.md)
+- [Конечные и бесконечные игры (finite and infinite games)](frameworks/finite_and_infinite_games.md)
 
 ### Concepts — отдельные идеи
 Единичные операциональные понятия, которые можно вырвать из родного
@@ -17,12 +18,16 @@
 
 - [Affordable loss](concepts/affordable_loss.md)
 - [Контроль вместо прогноза (control vs prediction)](concepts/control_vs_prediction.md)
+- [Бесконечная игра (infinite game)](concepts/infinite_game.md)
+- [Горизонт и граница (horizon vs boundary)](concepts/horizon_vs_boundary.md)
+- [Власть и сила (power vs strength)](concepts/power_vs_strength.md)
 
 ### People — ключевые авторы
 Короткие справки о людях, чьи идеи мы используем. Не биографии — а
 то, что из их работы релевантно курсу.
 
 - [Сарас Сарасвати (Saras D. Sarasvathy)](people/sarasvathy.md)
+- [Джеймс П. Карс (James P. Carse)](people/carse.md)
 
 ### Bridges — где разные традиции говорят об одном
 Самый ценный слой для курса. Карма-йога и эффектуация, Юнг и

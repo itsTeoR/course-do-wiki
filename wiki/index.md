@@ -13,6 +13,7 @@
 - [Конечные и бесконечные игры (finite and infinite games)](frameworks/finite_and_infinite_games.md)
 - [Четыре типажа (Four Tendencies)](frameworks/four_tendencies.md)
 - [Tiny Habits (Фогг)](frameworks/tiny_habits.md)
+- [Внутренняя игра (Inner Game)](frameworks/inner_game.md)
 - [Системное мышление (thinking in systems)](frameworks/thinking_in_systems.md)
 
 ### Concepts — отдельные идеи
@@ -30,6 +31,9 @@
 - [Fogg Behavior Model (B=MAP)](concepts/fogg_behavior_model.md)
 - [Рецепт Tiny Habits (ABC)](concepts/tiny_habits_recipe.md)
 - [Celebration: привычка прошивается положительной эмоцией](concepts/celebration_wires_habit.md)
+- [Self 1 и Self 2](concepts/self_1_self_2.md)
+- [Инструмент STOP](concepts/stop_tool.md)
+- [Треугольник работы (performance, learning, enjoyment)](concepts/work_triangle.md)
 - [Запасы и потоки (stocks and flows)](concepts/stocks_and_flows.md)
 - [Обратные связи (feedback loops)](concepts/feedback_loops.md)
 - [Точки воздействия (leverage points)](concepts/leverage_points.md)
@@ -43,6 +47,7 @@
 - [Джеймс П. Карс (James P. Carse)](people/carse.md)
 - [Гретхен Рубин (Gretchen Rubin)](people/rubin.md)
 - [BJ Фогг (BJ Fogg)](people/fogg.md)
+- [Тимоти Голлвей (W. Timothy Gallwey)](people/gallwey.md)
 - [Донелла Медоуз (Donella H. Meadows)](people/meadows.md)
 
 ### Bridges — где разные традиции говорят об одном

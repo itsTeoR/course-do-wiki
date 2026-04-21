@@ -27,6 +27,7 @@
 - [ADD / ADHD по Хэлловеллу](frameworks/add_hallowell.md)
 - [Conversations for Action (Flores)](frameworks/conversations_for_action.md)
 - [Онтология языка (Echeverría)](frameworks/ontology_of_language.md)
+- [Leadership Dojo (Strozzi-Heckler)](frameworks/leadership_dojo.md)
 
 ### Concepts — отдельные идеи
 Единичные операциональные понятия, которые можно вырвать из родного
@@ -78,6 +79,10 @@
 - [Четыре типа разговоров при breakdown](concepts/four_types_of_conversation.md)
 - [Три первичных домена (тело/эмоция/язык)](concepts/three_primary_domains.md)
 - [Наблюдатель и интерпретация](concepts/observer_and_interpretation.md)
+- [You are what you practice](concepts/you_are_what_you_practice.md)
+- [Диапазон воплощённых поведений (рефлекс/привычка/рутина/практика/генеративная)](concepts/range_of_embodied_behaviors.md)
+- [Пять доменов тела лидера (действие/настроение/координация/обучение/достоинство)](concepts/body_of_leader_domains.md)
+- [Пять принципов Leadership Presence (центрирование/поворот/расширение/вхождение/слияние)](concepts/leadership_presence_principles.md)
 
 ### People — ключевые авторы
 Короткие справки о людях, чьи идеи мы используем. Не биографии — а

@@ -18,6 +18,7 @@
 - [Теория ограничений (Theory of Constraints)](frameworks/theory_of_constraints.md)
 - [Искусство действия (The Art of Action)](frameworks/art_of_action.md)
 - [Иммунитет к изменениям (Immunity to Change)](frameworks/immunity_to_change.md)
+- [Peak Performance (Stulberg & Magness)](frameworks/peak_performance.md)
 - [Системное мышление (thinking in systems)](frameworks/thinking_in_systems.md)
 
 ### Concepts — отдельные идеи
@@ -49,6 +50,8 @@
 - [Immunity Map (карта иммунитета)](concepts/immunity_map.md)
 - [Адаптивные и технические вызовы](concepts/adaptive_vs_technical.md)
 - [Big Assumptions](concepts/big_assumptions.md)
+- [Stress + Rest = Growth](concepts/stress_plus_rest.md)
+- [Цель как усилитель производительности](concepts/purpose_as_performance.md)
 - [Запасы и потоки (stocks and flows)](concepts/stocks_and_flows.md)
 - [Обратные связи (feedback loops)](concepts/feedback_loops.md)
 - [Точки воздействия (leverage points)](concepts/leverage_points.md)
@@ -67,6 +70,7 @@
 - [Элияху Голдратт (Eliyahu M. Goldratt)](people/goldratt.md)
 - [Стивен Бангей (Stephen Bungay)](people/bungay.md)
 - [Роберт Киган и Лайза Лейски](people/kegan.md)
+- [Брэд Стульберг и Стив Мэгнесс](people/stulberg_magness.md)
 - [Донелла Медоуз (Donella H. Meadows)](people/meadows.md)
 
 ### Bridges — где разные традиции говорят об одном

@@ -30,6 +30,7 @@
 - [Leadership Dojo (Strozzi-Heckler)](frameworks/leadership_dojo.md)
 - [Somatic Coaching (Strozzi-Heckler)](frameworks/somatic_coaching.md)
 - [Refuse to Choose (сканеры, Sher)](frameworks/refuse_to_choose.md)
+- [Креативность как системное явление (Csikszentmihalyi)](frameworks/creativity_csikszentmihalyi.md)
 
 ### Concepts — отдельные идеи
 Единичные операциональные понятия, которые можно вырвать из родного
@@ -96,6 +97,10 @@
 - [Good Enough Job (работа, которая финансирует мечты)](concepts/good_enough_job.md)
 - [LTTL System — Learn/Try/Teach/Leave](concepts/learn_try_teach_leave.md)
 - [Best Work project (Sher)](concepts/best_work_project.md)
+- [Domain / Field / Person — системный состав креативности](concepts/domain_field_person.md)
+- [Десять диалектических пар творческой личности](concepts/creative_personality_ten_dialectics.md)
+- [Пять фаз творческого процесса](concepts/creative_process_five_phases.md)
+- [Flow и условия его возникновения в творческой работе](concepts/flow_conditions_for_creativity.md)
 
 ### People — ключевые авторы
 Короткие справки о людях, чьи идеи мы используем. Не биографии — а
@@ -120,6 +125,7 @@
 - [Рафаэль Эчеверрия (Rafael Echeverría)](people/echeverria.md)
 - [Ричард Строцци-Хэклер (Richard Strozzi-Heckler)](people/strozzi_heckler.md)
 - [Барбара Шер (Barbara Sher)](people/sher.md)
+- [Михай Чиксентмихайи (Mihaly Csikszentmihalyi)](people/csikszentmihalyi.md)
 
 ### Bridges — где разные традиции говорят об одном
 Самый ценный слой для курса. Карма-йога и эффектуация, Юнг и

@@ -22,6 +22,8 @@
 - [Четыре темперамента (Keirsey)](frameworks/four_temperaments_keirsey.md)
 - [Психологические типы (Psychologische Typen, Юнг)](frameworks/psychological_types_jung.md)
 - [Системное мышление (thinking in systems)](frameworks/thinking_in_systems.md)
+- [Redemptive Self (Макадамс)](frameworks/redemptive_self.md)
+- [Narrative identity (Макадамс)](frameworks/narrative_identity.md)
 
 ### Concepts — отдельные идеи
 Единичные операциональные понятия, которые можно вырвать из родного
@@ -60,6 +62,9 @@
 - [Обратные связи (feedback loops)](concepts/feedback_loops.md)
 - [Точки воздействия (leverage points)](concepts/leverage_points.md)
 - [Системные ловушки (system traps)](concepts/system_traps.md)
+- [Generativity (Эриксон, Макадамс)](concepts/generativity.md)
+- [Redemption и contamination sequences](concepts/redemption_and_contamination_sequences.md)
+- [Agency и communion](concepts/agency_and_communion.md)
 
 ### People — ключевые авторы
 Короткие справки о людях, чьи идеи мы используем. Не биографии — а
@@ -78,6 +83,7 @@
 - [Дэвид Кирси (David W. Keirsey)](people/keirsey.md)
 - [Карл Густав Юнг (C. G. Jung)](people/jung.md)
 - [Донелла Медоуз (Donella H. Meadows)](people/meadows.md)
+- [Дэн Макадамс (Dan P. McAdams)](people/mcadams.md)
 
 ### Bridges — где разные традиции говорят об одном
 Самый ценный слой для курса. Карма-йога и эффектуация, Юнг и

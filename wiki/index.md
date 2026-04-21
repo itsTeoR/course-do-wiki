@@ -12,6 +12,7 @@
 - [Эффектуация (effectuation)](frameworks/effectuation.md)
 - [Конечные и бесконечные игры (finite and infinite games)](frameworks/finite_and_infinite_games.md)
 - [Четыре типажа (Four Tendencies)](frameworks/four_tendencies.md)
+- [Tiny Habits (Фогг)](frameworks/tiny_habits.md)
 - [Системное мышление (thinking in systems)](frameworks/thinking_in_systems.md)
 
 ### Concepts — отдельные идеи
@@ -26,6 +27,9 @@
 - [Внешние и внутренние ожидания (outer vs inner expectations)](concepts/outer_vs_inner_expectations.md)
 - [Внешняя подотчётность (external accountability)](concepts/external_accountability.md)
 - [Obliger-rebellion (бунт угодника)](concepts/obliger_rebellion.md)
+- [Fogg Behavior Model (B=MAP)](concepts/fogg_behavior_model.md)
+- [Рецепт Tiny Habits (ABC)](concepts/tiny_habits_recipe.md)
+- [Celebration: привычка прошивается положительной эмоцией](concepts/celebration_wires_habit.md)
 - [Запасы и потоки (stocks and flows)](concepts/stocks_and_flows.md)
 - [Обратные связи (feedback loops)](concepts/feedback_loops.md)
 - [Точки воздействия (leverage points)](concepts/leverage_points.md)
@@ -38,6 +42,7 @@
 - [Сарас Сарасвати (Saras D. Sarasvathy)](people/sarasvathy.md)
 - [Джеймс П. Карс (James P. Carse)](people/carse.md)
 - [Гретхен Рубин (Gretchen Rubin)](people/rubin.md)
+- [BJ Фогг (BJ Fogg)](people/fogg.md)
 - [Донелла Медоуз (Donella H. Meadows)](people/meadows.md)
 
 ### Bridges — где разные традиции говорят об одном

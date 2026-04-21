@@ -28,6 +28,7 @@
 - [Conversations for Action (Flores)](frameworks/conversations_for_action.md)
 - [Онтология языка (Echeverría)](frameworks/ontology_of_language.md)
 - [Leadership Dojo (Strozzi-Heckler)](frameworks/leadership_dojo.md)
+- [Somatic Coaching (Strozzi-Heckler)](frameworks/somatic_coaching.md)
 
 ### Concepts — отдельные идеи
 Единичные операциональные понятия, которые можно вырвать из родного
@@ -83,6 +84,9 @@
 - [Диапазон воплощённых поведений (рефлекс/привычка/рутина/практика/генеративная)](concepts/range_of_embodied_behaviors.md)
 - [Пять доменов тела лидера (действие/настроение/координация/обучение/достоинство)](concepts/body_of_leader_domains.md)
 - [Пять принципов Leadership Presence (центрирование/поворот/расширение/вхождение/слияние)](concepts/leadership_presence_principles.md)
+- [Rhythm of Energy (пробуждение/нарастание/удержание/завершение)](concepts/rhythm_of_energy.md)
+- [Somatic Arc of Transformation (историческая форма/несвязанное/новая форма/воплощение)](concepts/somatic_arc_of_transformation.md)
+- [Conditioned Tendency (выученная телесная реакция на давление)](concepts/conditioned_tendency.md)
 
 ### People — ключевые авторы
 Короткие справки о людях, чьи идеи мы используем. Не биографии — а
@@ -105,6 +109,7 @@
 - [Эдвард Хэлловелл (Edward M. Hallowell)](people/hallowell.md)
 - [Фернандо Флорес (Fernando Flores)](people/flores.md)
 - [Рафаэль Эчеверрия (Rafael Echeverría)](people/echeverria.md)
+- [Ричард Строцци-Хэклер (Richard Strozzi-Heckler)](people/strozzi_heckler.md)
 
 ### Bridges — где разные традиции говорят об одном
 Самый ценный слой для курса. Карма-йога и эффектуация, Юнг и

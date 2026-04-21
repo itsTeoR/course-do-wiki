@@ -29,6 +29,7 @@
 - [Онтология языка (Echeverría)](frameworks/ontology_of_language.md)
 - [Leadership Dojo (Strozzi-Heckler)](frameworks/leadership_dojo.md)
 - [Somatic Coaching (Strozzi-Heckler)](frameworks/somatic_coaching.md)
+- [Refuse to Choose (сканеры, Sher)](frameworks/refuse_to_choose.md)
 
 ### Concepts — отдельные идеи
 Единичные операциональные понятия, которые можно вырвать из родного
@@ -91,6 +92,10 @@
 - [Crazy quilt (стейкхолдеры самоотбираются)](concepts/crazy_quilt.md)
 - [Lemonade principle (сюрприз как ресурс)](concepts/lemonade_principle.md)
 - [The ask (приглашение к коммитменту)](concepts/the_ask.md)
+- [Rewards и Durations (метафора пчелы, Sher)](concepts/rewards_and_durations.md)
+- [Good Enough Job (работа, которая финансирует мечты)](concepts/good_enough_job.md)
+- [LTTL System — Learn/Try/Teach/Leave](concepts/learn_try_teach_leave.md)
+- [Best Work project (Sher)](concepts/best_work_project.md)
 
 ### People — ключевые авторы
 Короткие справки о людях, чьи идеи мы используем. Не биографии — а
@@ -114,6 +119,7 @@
 - [Фернандо Флорес (Fernando Flores)](people/flores.md)
 - [Рафаэль Эчеверрия (Rafael Echeverría)](people/echeverria.md)
 - [Ричард Строцци-Хэклер (Richard Strozzi-Heckler)](people/strozzi_heckler.md)
+- [Барбара Шер (Barbara Sher)](people/sher.md)
 
 ### Bridges — где разные традиции говорят об одном
 Самый ценный слой для курса. Карма-йога и эффектуация, Юнг и

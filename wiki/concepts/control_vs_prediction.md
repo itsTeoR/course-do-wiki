@@ -1,0 +1,81 @@
+---
+type: concept
+tradition: [sarasvathy]
+week: []
+p-j-stance: p-mode
+related: [[effectuation]], [[affordable_loss]]
+---
+
+# Контроль вместо прогноза (control vs prediction)
+
+Четвёртый принцип [[effectuation|эффектуации]] у Сарасвати (2001)
+и — в её собственной аргументации — глубинная логика, к которой
+сводятся остальные три. Формулировка зеркальна причинной:
+
+> To the extent that we can predict the future, we can control
+> it. (логика каузации)
+>
+> To the extent that we can control the future, we do not need
+> to predict it. (логика эффектуации)
+
+Различие не в том, хочет ли принимающий решение опираться на
+будущее, а в том, каким способом будущее превращается для него в
+материал решения. Каузальная поза требует модели будущего, с
+которой сверяется стратегия; эффектуальная строит будущее из
+обязательств, собранных в настоящем, и тем самым делает прогноз
+избыточным.
+
+Сарасвати иллюстрирует это через метафору урны из статистики
+принятия решений. Классическая урна с известным распределением
+шаров отвечает decisions under risk; урна с неизвестным
+распределением — decisions under uncertainty (Knight, 1921). В
+обоих случаях decision maker ведёт себя как наблюдатель
+распределения: либо вычисляет, либо оценивает. Эффектуатор в её
+описании занимает третью позицию:
+
+> I do not care what color the balls are in the urn or what their
+> underlying distribution is. If I am playing a game where
+> drawing a red ball wins $50, I will go acquire red balls and
+> put them in the urn. I will also look for other people who have
+> red balls and induce them to put them in the urn and play the
+> game as my partners. As time goes by, there will be so many
+> red balls in the distribution as to make almost every draw a
+> red ball. Furthermore, if neither I nor my acquaintances have
+> red balls, but only green ones, we will put enough of them in
+> the urn so as to make the original game obsolete and create a
+> new game where green balls win.
+
+Ключевой шаг — отказ от вопроса «какое будущее нас ждёт?» в
+пользу вопроса «какое будущее мы можем сами собрать из наличных
+обязательств?».
+
+## Что принцип не утверждает
+
+Принцип легко прочитать как сильный тезис «будущее всегда
+контролируемо» — но Сарасвати этого не говорит. Её разграничение
+идёт по линии предметной области. В природе «regular causes that
+can be analyzed and understood» — там причинно-следственная работа
+и прогноз уместны. Человеческое действие, напротив, «abounds in
+contingencies that cannot easily be analyzed and predicted but
+can only be seized and exploited» — там уместна эффектуация.
+Принцип контроля применим к тому классу будущего, которое
+складывается из действий самих участников; он не претендует на
+то, что отдельный актор способен управлять природными или
+макроэкономическими процессами, на которые он почти не влияет.
+
+## U-Haul как иллюстрация
+
+Шён в 1945 году не мог прогнозировать рынок межгородской аренды
+прицепов — рынка ещё не было. Вместо прогноза он собирал
+обязательства: с сетей заправочных станций — что они будут
+держать трейлеры; с друзей и клиентов — что они внесут взнос за
+трейлер и дадут его в пользование; с первых арендаторов — что они
+найдут дилера в городе назначения. Каждое обязательство — кусочек
+будущего рынка, который уже не нужно угадывать, потому что он
+частично состоялся. Разбор случая — в [[effectuation]].
+
+## Источник
+
+- Sarasvathy, S. D. (2001). Causation and Effectuation. *Academy
+  of Management Review*, 26(2), 243–263. Четвёртый принцип; Table
+  1; пассажи про urn metaphor и контраст risk/uncertainty.

@@ -16,6 +16,7 @@
 - [Внутренняя игра (Inner Game)](frameworks/inner_game.md)
 - [Lean Startup](frameworks/lean_startup.md)
 - [Теория ограничений (Theory of Constraints)](frameworks/theory_of_constraints.md)
+- [Искусство действия (The Art of Action)](frameworks/art_of_action.md)
 - [Системное мышление (thinking in systems)](frameworks/thinking_in_systems.md)
 
 ### Concepts — отдельные идеи
@@ -42,6 +43,8 @@
 - [Пять шагов фокусировки (Five Focusing Steps)](concepts/five_focusing_steps.md)
 - [Throughput, Inventory, Operating Expense](concepts/throughput_inventory_operating_expense.md)
 - [Bottleneck и Drum-Buffer-Rope](concepts/bottleneck_and_drum_buffer_rope.md)
+- [Три разрыва (three gaps)](concepts/three_gaps.md)
+- [Directed opportunism / Auftragstaktik](concepts/directed_opportunism.md)
 - [Запасы и потоки (stocks and flows)](concepts/stocks_and_flows.md)
 - [Обратные связи (feedback loops)](concepts/feedback_loops.md)
 - [Точки воздействия (leverage points)](concepts/leverage_points.md)
@@ -58,6 +61,7 @@
 - [Тимоти Голлвей (W. Timothy Gallwey)](people/gallwey.md)
 - [Эрик Рис (Eric Ries)](people/ries.md)
 - [Элияху Голдратт (Eliyahu M. Goldratt)](people/goldratt.md)
+- [Стивен Бангей (Stephen Bungay)](people/bungay.md)
 - [Донелла Медоуз (Donella H. Meadows)](people/meadows.md)
 
 ### Bridges — где разные традиции говорят об одном

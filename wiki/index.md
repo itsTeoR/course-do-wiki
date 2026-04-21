@@ -26,6 +26,7 @@
 - [Narrative identity (Макадамс)](frameworks/narrative_identity.md)
 - [ADD / ADHD по Хэлловеллу](frameworks/add_hallowell.md)
 - [Conversations for Action (Flores)](frameworks/conversations_for_action.md)
+- [Онтология языка (Echeverría)](frameworks/ontology_of_language.md)
 
 ### Concepts — отдельные идеи
 Единичные операциональные понятия, которые можно вырвать из родного
@@ -73,6 +74,10 @@
 - [Conversation for possibilities](concepts/conversations_for_possibilities.md)
 - [Assessments vs assertions](concepts/assessments_vs_assertions.md)
 - [Moods и trust (Flores)](concepts/moods_and_trust.md)
+- [Шесть личных деклараций (Echeverría)](concepts/personal_declarations.md)
+- [Четыре типа разговоров при breakdown](concepts/four_types_of_conversation.md)
+- [Три первичных домена (тело/эмоция/язык)](concepts/three_primary_domains.md)
+- [Наблюдатель и интерпретация](concepts/observer_and_interpretation.md)
 
 ### People — ключевые авторы
 Короткие справки о людях, чьи идеи мы используем. Не биографии — а
@@ -94,6 +99,7 @@
 - [Дэн Макадамс (Dan P. McAdams)](people/mcadams.md)
 - [Эдвард Хэлловелл (Edward M. Hallowell)](people/hallowell.md)
 - [Фернандо Флорес (Fernando Flores)](people/flores.md)
+- [Рафаэль Эчеверрия (Rafael Echeverría)](people/echeverria.md)
 
 ### Bridges — где разные традиции говорят об одном
 Самый ценный слой для курса. Карма-йога и эффектуация, Юнг и

@@ -24,6 +24,7 @@
 - [Системное мышление (thinking in systems)](frameworks/thinking_in_systems.md)
 - [Redemptive Self (Макадамс)](frameworks/redemptive_self.md)
 - [Narrative identity (Макадамс)](frameworks/narrative_identity.md)
+- [ADD / ADHD по Хэлловеллу](frameworks/add_hallowell.md)
 
 ### Concepts — отдельные идеи
 Единичные операциональные понятия, которые можно вырвать из родного
@@ -65,6 +66,7 @@
 - [Generativity (Эриксон, Макадамс)](concepts/generativity.md)
 - [Redemption и contamination sequences](concepts/redemption_and_contamination_sequences.md)
 - [Agency и communion](concepts/agency_and_communion.md)
+- [Моральная vs нейробиологическая модель (Хэлловелл)](concepts/moral_vs_neurobiological_model.md)
 
 ### People — ключевые авторы
 Короткие справки о людях, чьи идеи мы используем. Не биографии — а
@@ -84,6 +86,7 @@
 - [Карл Густав Юнг (C. G. Jung)](people/jung.md)
 - [Донелла Медоуз (Donella H. Meadows)](people/meadows.md)
 - [Дэн Макадамс (Dan P. McAdams)](people/mcadams.md)
+- [Эдвард Хэлловелл (Edward M. Hallowell)](people/hallowell.md)
 
 ### Bridges — где разные традиции говорят об одном
 Самый ценный слой для курса. Карма-йога и эффектуация, Юнг и

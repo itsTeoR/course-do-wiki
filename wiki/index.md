@@ -87,6 +87,10 @@
 - [Rhythm of Energy (пробуждение/нарастание/удержание/завершение)](concepts/rhythm_of_energy.md)
 - [Somatic Arc of Transformation (историческая форма/несвязанное/новая форма/воплощение)](concepts/somatic_arc_of_transformation.md)
 - [Conditioned Tendency (выученная телесная реакция на давление)](concepts/conditioned_tendency.md)
+- [Bird-in-hand (стартовать с того, что уже есть)](concepts/bird_in_hand.md)
+- [Crazy quilt (стейкхолдеры самоотбираются)](concepts/crazy_quilt.md)
+- [Lemonade principle (сюрприз как ресурс)](concepts/lemonade_principle.md)
+- [The ask (приглашение к коммитменту)](concepts/the_ask.md)
 
 ### People — ключевые авторы
 Короткие справки о людях, чьи идеи мы используем. Не биографии — а

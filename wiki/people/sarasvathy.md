@@ -40,5 +40,10 @@ wiki.
   [raw/sarasvathy/](../../raw/sarasvathy/sarasvathy_2001_causation_and_effectuation.pdf).
 
 - Read, S., Sarasvathy, S., Dew, N., & Wiltbank, R. (2016).
-  *Effectual Entrepreneurship*. Routledge. EPUB в [raw/sarasvathy/](../../raw/sarasvathy/).
-  Ещё не обработана в wiki.
+  *Effectual Entrepreneurship* (2nd ed.). Routledge. Учебник, в
+  котором четыре принципа эффектуации из статьи 2001 года получают
+  практические имена — [[bird_in_hand]], [[affordable_loss]],
+  [[crazy_quilt]], [[lemonade_principle]] — и дополняются
+  мета-принципом pilot-in-the-plane ([[control_vs_prediction]]).
+  Туда же входит отдельная концепция [[the_ask]]. EPUB в
+  [raw/sarasvathy/](../../raw/sarasvathy/).

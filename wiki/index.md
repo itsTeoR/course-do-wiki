@@ -17,6 +17,7 @@
 - [Lean Startup](frameworks/lean_startup.md)
 - [Теория ограничений (Theory of Constraints)](frameworks/theory_of_constraints.md)
 - [Искусство действия (The Art of Action)](frameworks/art_of_action.md)
+- [Иммунитет к изменениям (Immunity to Change)](frameworks/immunity_to_change.md)
 - [Системное мышление (thinking in systems)](frameworks/thinking_in_systems.md)
 
 ### Concepts — отдельные идеи
@@ -45,6 +46,9 @@
 - [Bottleneck и Drum-Buffer-Rope](concepts/bottleneck_and_drum_buffer_rope.md)
 - [Три разрыва (three gaps)](concepts/three_gaps.md)
 - [Directed opportunism / Auftragstaktik](concepts/directed_opportunism.md)
+- [Immunity Map (карта иммунитета)](concepts/immunity_map.md)
+- [Адаптивные и технические вызовы](concepts/adaptive_vs_technical.md)
+- [Big Assumptions](concepts/big_assumptions.md)
 - [Запасы и потоки (stocks and flows)](concepts/stocks_and_flows.md)
 - [Обратные связи (feedback loops)](concepts/feedback_loops.md)
 - [Точки воздействия (leverage points)](concepts/leverage_points.md)
@@ -62,6 +66,7 @@
 - [Эрик Рис (Eric Ries)](people/ries.md)
 - [Элияху Голдратт (Eliyahu M. Goldratt)](people/goldratt.md)
 - [Стивен Бангей (Stephen Bungay)](people/bungay.md)
+- [Роберт Киган и Лайза Лейски](people/kegan.md)
 - [Донелла Медоуз (Donella H. Meadows)](people/meadows.md)
 
 ### Bridges — где разные традиции говорят об одном

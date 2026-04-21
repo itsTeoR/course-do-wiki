@@ -25,6 +25,7 @@
 - [Redemptive Self (Макадамс)](frameworks/redemptive_self.md)
 - [Narrative identity (Макадамс)](frameworks/narrative_identity.md)
 - [ADD / ADHD по Хэлловеллу](frameworks/add_hallowell.md)
+- [Conversations for Action (Flores)](frameworks/conversations_for_action.md)
 
 ### Concepts — отдельные идеи
 Единичные операциональные понятия, которые можно вырвать из родного
@@ -67,6 +68,11 @@
 - [Redemption и contamination sequences](concepts/redemption_and_contamination_sequences.md)
 - [Agency и communion](concepts/agency_and_communion.md)
 - [Моральная vs нейробиологическая модель (Хэлловелл)](concepts/moral_vs_neurobiological_model.md)
+- [Речевые акты (speech acts)](concepts/speech_acts.md)
+- [Conditions of satisfaction](concepts/conditions_of_satisfaction.md)
+- [Conversation for possibilities](concepts/conversations_for_possibilities.md)
+- [Assessments vs assertions](concepts/assessments_vs_assertions.md)
+- [Moods и trust (Flores)](concepts/moods_and_trust.md)
 
 ### People — ключевые авторы
 Короткие справки о людях, чьи идеи мы используем. Не биографии — а
@@ -87,6 +93,7 @@
 - [Донелла Медоуз (Donella H. Meadows)](people/meadows.md)
 - [Дэн Макадамс (Dan P. McAdams)](people/mcadams.md)
 - [Эдвард Хэлловелл (Edward M. Hallowell)](people/hallowell.md)
+- [Фернандо Флорес (Fernando Flores)](people/flores.md)
 
 ### Bridges — где разные традиции говорят об одном
 Самый ценный слой для курса. Карма-йога и эффектуация, Юнг и

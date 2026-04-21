@@ -15,6 +15,7 @@
 - [Tiny Habits (Фогг)](frameworks/tiny_habits.md)
 - [Внутренняя игра (Inner Game)](frameworks/inner_game.md)
 - [Lean Startup](frameworks/lean_startup.md)
+- [Теория ограничений (Theory of Constraints)](frameworks/theory_of_constraints.md)
 - [Системное мышление (thinking in systems)](frameworks/thinking_in_systems.md)
 
 ### Concepts — отдельные идеи
@@ -38,6 +39,9 @@
 - [Build-Measure-Learn и validated learning](concepts/build_measure_learn.md)
 - [MVP (minimum viable product)](concepts/mvp.md)
 - [Pivot или persevere](concepts/pivot_or_persevere.md)
+- [Пять шагов фокусировки (Five Focusing Steps)](concepts/five_focusing_steps.md)
+- [Throughput, Inventory, Operating Expense](concepts/throughput_inventory_operating_expense.md)
+- [Bottleneck и Drum-Buffer-Rope](concepts/bottleneck_and_drum_buffer_rope.md)
 - [Запасы и потоки (stocks and flows)](concepts/stocks_and_flows.md)
 - [Обратные связи (feedback loops)](concepts/feedback_loops.md)
 - [Точки воздействия (leverage points)](concepts/leverage_points.md)
@@ -53,6 +57,7 @@
 - [BJ Фогг (BJ Fogg)](people/fogg.md)
 - [Тимоти Голлвей (W. Timothy Gallwey)](people/gallwey.md)
 - [Эрик Рис (Eric Ries)](people/ries.md)
+- [Элияху Голдратт (Eliyahu M. Goldratt)](people/goldratt.md)
 - [Донелла Медоуз (Donella H. Meadows)](people/meadows.md)
 
 ### Bridges — где разные традиции говорят об одном

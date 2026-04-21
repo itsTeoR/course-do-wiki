@@ -19,6 +19,7 @@
 - [Искусство действия (The Art of Action)](frameworks/art_of_action.md)
 - [Иммунитет к изменениям (Immunity to Change)](frameworks/immunity_to_change.md)
 - [Peak Performance (Stulberg & Magness)](frameworks/peak_performance.md)
+- [Четыре темперамента (Keirsey)](frameworks/four_temperaments_keirsey.md)
 - [Системное мышление (thinking in systems)](frameworks/thinking_in_systems.md)
 
 ### Concepts — отдельные идеи
@@ -52,6 +53,7 @@
 - [Big Assumptions](concepts/big_assumptions.md)
 - [Stress + Rest = Growth](concepts/stress_plus_rest.md)
 - [Цель как усилитель производительности](concepts/purpose_as_performance.md)
+- [Pygmalion Project](concepts/pygmalion_project.md)
 - [Запасы и потоки (stocks and flows)](concepts/stocks_and_flows.md)
 - [Обратные связи (feedback loops)](concepts/feedback_loops.md)
 - [Точки воздействия (leverage points)](concepts/leverage_points.md)
@@ -71,6 +73,7 @@
 - [Стивен Бангей (Stephen Bungay)](people/bungay.md)
 - [Роберт Киган и Лайза Лейски](people/kegan.md)
 - [Брэд Стульберг и Стив Мэгнесс](people/stulberg_magness.md)
+- [Дэвид Кирси (David W. Keirsey)](people/keirsey.md)
 - [Донелла Медоуз (Donella H. Meadows)](people/meadows.md)
 
 ### Bridges — где разные традиции говорят об одном

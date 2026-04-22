@@ -64,9 +64,12 @@
 - [Bottleneck и Drum-Buffer-Rope](concepts/bottleneck_and_drum_buffer_rope.md)
 - [Три разрыва (three gaps)](concepts/three_gaps.md)
 - [Directed opportunism / Auftragstaktik](concepts/directed_opportunism.md)
+- [Friction по Клаузевицу](concepts/friction_clausewitz.md)
+- [Briefing и backbriefing (Бангей)](concepts/briefing_and_backbriefing.md)
 - [Immunity Map (карта иммунитета)](concepts/immunity_map.md)
 - [Адаптивные и технические вызовы](concepts/adaptive_vs_technical.md)
 - [Big Assumptions](concepts/big_assumptions.md)
+- [Стадии ментальной сложности и subject-object shift (Киган)](concepts/mental_complexity_stages.md)
 - [Stress + Rest = Growth](concepts/stress_plus_rest.md)
 - [Цель как усилитель производительности](concepts/purpose_as_performance.md)
 - [Pygmalion Project](concepts/pygmalion_project.md)
@@ -158,6 +161,7 @@
 разные, а операциональная идея одна.
 
 - [Affordable loss ≈ карма-йога](bridges/affordable_loss_karma_yoga.md) _(seed)_
+- [Via negativa: Taleb, Goldratt, Gallwey](bridges/via_negativa_goldratt_gallwey.md)
 
 ### Tensions — где фреймворки противоречат друг другу
 Тоже очень ценно. Fogg проектирует среду под поведение — Юнг говорит,
@@ -165,6 +169,7 @@
 среда? Такие противоречия не сглаживаем, а фиксируем.
 
 - [Эффектуация vs постановка целей](tensions/effectuation_vs_goal_setting.md) _(seed)_
+- [Проектирование среды под поведение vs типологическое разнообразие (Fogg vs Юнг/Кирси)](tensions/environment_design_vs_temperament.md)
 
 ## По неделям курса
 

@@ -1,175 +1,221 @@
 ---
+name: Психологические типы (Psychologische Typen, Юнг)
+description: Юнговская типология сознания — две установки (extraversion/introversion) × четыре функции (T, F, S, N) + компенсация бессознательным
 type: framework
 tradition: [jung]
-related: [[rational_vs_irrational_functions]], [[jung]]
+density: high
+related: [[jung]], [[four_functions_jung]], [[rational_vs_irrational_functions]], [[compensation_by_unconscious]], [[individuation_jung]], [[four_temperaments_keirsey]]
 ---
 
 # Психологические типы (Psychologische Typen, Юнг)
 
-Карл Густав Юнг (Carl Gustav Jung, 1875–1961) опубликовал
-*Psychologische Typen* в 1921 году, через несколько лет после
-разрыва с Фрейдом. Книга написана на сложном академическом
-немецком, с большими историческими экскурсами (спор между
-номиналистами и реалистами в средневековой схоластике, Ницше против
-Вагнера, Шиллер, Уильям Джемс как prototype «tough-minded» против
-«tender-minded», Федор и Аполлон Ницше, и пр.). Центральная —
-типологическая — часть даётся в X главе («General Description of
-the Types»).
+*Psychologische Typen* опубликована в 1921 году, через несколько лет
+после разрыва Юнга с Фрейдом. В английском переводе H. G. Baynes
+(1923) — *Psychological Types*. В Собрании сочинений Юнга — том VI.
+
+Центральная — собственно типологическая — часть концентрируется в
+главе X (с. 412–517 английского издания) и в главе XI с определениями
+(с. 518 и далее). Всё предшествующее (главы I–IX) — не теория типов,
+а историческое расследование: Юнг показывает, что типологическое
+противостояние обнаруживалось в споре гностиков с ортодоксами, в
+средневековом споре номиналистов и реалистов, в эстетике Шиллера, у
+Ницше, у Уильяма Джемса и многих других. Его интерес — показать, что
+различие типов не изобретено, а давно замечено под разными именами.
+
+Эта статья — о центральной типологической конструкции. Детали —
+в статьях, на которые она ссылается.
 
 ## Предмет
 
-Юнг обосновывает типологию в контексте ключевого для него спора:
-как получается, что два разумных и образованных человека,
-столкнувшись с одной и той же реальностью, приходят к
-несовместимым её прочтениям — и каждый из них *прав*, внутри
-своего понимания? Его ответ: они *по-разному устроены*. Их
-сознание — не tabula rasa, принимающая впечатления, а активный
-аппарат с *предустановленной* ориентацией. Задача психологии —
-описать эти ориентации и их взаимодействие.
+Юнг обосновывает типологию в контексте ключевого для него наблюдения:
+два разумных и образованных человека, столкнувшись с одной и той же
+реальностью, приходят к несовместимым её прочтениям — и каждый из них
+прав, внутри собственной установки. Ответ Юнга: они по-разному
+устроены психически. Сознание — не tabula rasa; оно имеет
+*предустановленную ориентацию*, и описать эти ориентации — задача
+психологии.
 
-Важно: для Юнга типы — *не* ящики, в которые раскладываются люди,
-и *не* диагнозы. Это описания функционирования сознания; каждый
-человек имеет *все* функции и обе установки, но одна установка и
-одна функция доминируют, а остальные присутствуют в подчинённом
-или бессознательном виде.
+> The names and forms in which the mechanism of introversion and
+> extraversion has been conceived are extremely diverse, and are, as
+> a rule, adapted only to the standpoint of the individual observer.
+> Notwithstanding the diversity of the formulations, the common
+> basis or fundamental idea shines constantly through; namely, in
+> the one case an outward movement of interest toward the object,
+> and in the other a movement of interest away from the object,
+> towards the subject and his own psychological processes.
+> (raw/jung/psychological-types.pdf, с. 11)
 
 ## Две установки: Extraversion и Introversion
 
-Первое различение — *Einstellung* (установка), направление
-психической энергии (либидо в юнговском смысле — не только
-сексуальной, а витальной).
+Первое различение — *Einstellung* (установка), направление психической
+энергии (либидо — не в узко-сексуальном смысле, а в юнговском: общая
+витальная энергия). Юнг даёт формальное определение в главе XI:
 
-**Extraversion** — энергия направлена *вовне*, к объекту. Объект
-воспринимается как первичный; субъект формируется в отношении к
-нему и через него. Экстраверт лучше живёт в контакте с миром,
-социально-реактивен, находит себя в действии и обмене.
+> Extraversion means an outward-turning of the libido. With this
+> concept I denote a manifest relatedness of subject to object in the
+> sense of a positive movement of subjective interest towards the
+> object.
+> (raw/jung/psychological-types.pdf, с. 542)
 
-**Introversion** — энергия направлена *внутрь*, к субъекту. Объект
-воспринимается как вторичный; субъект первичен и формируется из
-внутренних процессов. Интроверт лучше живёт в контакте с собой,
-рефлексивен, находит себя в одиночестве, глубине, переработке
-впечатлений.
+> Introversion means a turning inwards of the libido, whereby a
+> negative relation of subject to object is expressed. Interest does
+> not move towards the object, but recedes towards the subject.
+> Everyone whose attitude is introverted thinks, feels, and acts in
+> a way that clearly demonstrates that the subject is the chief
+> factor of motivation while the object at most receives only a
+> secondary value.
+> (raw/jung/psychological-types.pdf, с. 567)
 
-Юнг настаивает: это *не* о социальной экстраверсии/интроверсии в
-популярном смысле (общительный/замкнутый), хотя эти черты часто
-коррелируют. Это о *предпочтительной точке опоры* психики.
+Экстраверт живёт «из объекта»: его решения, действия и даже
+самоощущение определяются внешними данностями. Юнг подчёркивает, что
+это не о социальной общительности в бытовом смысле, а о *точке опоры*
+психики:
+
+> His entire consciousness looks outwards to the world, because the
+> important and decisive determination always comes to him from
+> without. But it comes to him from without, only because that is
+> where he expects it.
+> (raw/jung/psychological-types.pdf, с. 417)
+
+Интроверт, напротив, живёт «из субъекта»: внешний факт сталкивается
+не с пустотой, а с уже существующей внутренней структурой, которая
+определяет, как факт будет усвоен:
+
+> Whereas the extraverted type refers pre-eminently to that which
+> reaches him from the object, the introvert principally relies upon
+> that which the outer impression constellates in the subject.
+> (raw/jung/psychological-types.pdf, с. 472)
+
+Юнг настаивает, что ни одна из двух установок не лучше другой.
+Оценочный язык («эгоцентричный», «самовлюблённый» по адресу
+интроверта, «поверхностный» по адресу экстраверта) он отвергает как
+выражение типовой пристрастности самого наблюдателя (с. 472–474).
+
+Подробнее о различении — в [[extraversion_introversion_jung]] (если
+статья будет создана; пока — в [[rational_vs_irrational_functions]]
+и в [[four_functions_jung]]).
 
 ## Четыре функции
 
-Второе различение — *функции сознания*. Юнг выделяет четыре,
-попарно расположенных на двух осях: рациональная ось и иррациональная
-ось (подробно — в [[rational_vs_irrational_functions]]).
+Второе различение — *функции сознания*. Их четыре, разложенных по
+двум осям:
 
-**Thinking (мышление).** Функция, устанавливающая *что это такое*
-через категории и логические связи. Связывает данные с понятиями,
-понятия друг с другом, строит системы. Рациональная функция.
+- **Thinking** (мышление) и **Feeling** (чувство) — *рациональные*
+  функции; обе *судят* (см. [[rational_vs_irrational_functions]]).
+- **Sensation** (ощущение) и **Intuition** (интуиция) — *иррациональные*
+  функции; обе *воспринимают*.
 
-**Feeling (чувство).** Функция, устанавливающая *что это для меня*
-через оценку. Связывает данные с шкалой ценностей (приятно/неприятно,
-правильно/неправильно, мое/чужое). Рациональная функция — Юнг
-особенно подчёркивает, что feeling у него *не* эмоция и *не*
-аффект. Это *суждение-через-ценность*, столь же структурированное,
-как и thinking, просто на другой основе.
-
-**Sensation (ощущение).** Функция, регистрирующая *что есть прямо
-сейчас* через чувственное восприятие. Цвет, звук, запах,
-прикосновение, положение тела. Иррациональная функция — в смысле
-«не-судящая», просто принимающая.
-
-**Intuition (интуиция).** Функция, воспринимающая *что
-возможно, что потенциально*, через непосредственное схватывание
-паттерна. Иррациональная функция — тоже не-судящая.
-
-«Рациональные» и «иррациональные» у Юнга — не оценочные
-термины. Это технические категории: судит функция (даёт
-определение/оценку) или воспринимает (регистрирует). Подробно и
-важно для центральной гипотезы курса — в
-[[rational_vs_irrational_functions]].
+Развёрнутые определения и механика — в [[four_functions_jung]].
+Распределение «судит — воспринимает» и его связь с J/P-маркировкой
+Майерс — в [[rational_vs_irrational_functions]].
 
 ## Восемь типов
 
 Каждая установка комбинируется с каждой функцией в качестве
-*доминирующей*. Отсюда восемь типов:
+*доминирующей*, откуда восемь базовых типов:
 
-- Extraverted Thinking (Te)
-- Introverted Thinking (Ti)
-- Extraverted Feeling (Fe)
-- Introverted Feeling (Fi)
-- Extraverted Sensation (Se)
-- Introverted Sensation (Si)
-- Extraverted Intuition (Ne)
-- Introverted Intuition (Ni)
+- Extraverted Thinking (Te) — с. 434
+- Extraverted Feeling (Fe) — с. 448
+- Extraverted Sensation (Se) — с. 457
+- Extraverted Intuition (Ne) — с. 464
+- Introverted Thinking (Ti) — с. 484
+- Introverted Feeling (Fi) — с. 492
+- Introverted Sensation (Si) — с. 500
+- Introverted Intuition (Ni) — с. 508
 
-Это *типы* по Юнгу. В его описании каждому из них посвящён
-отдельный раздел с подробным портретом: как они видят мир, какие
-профессии и ситуации им даются легко, где их типичные неврозы,
-какой у них характер бессознательного.
+Номера страниц — главные разделы главы X в английском переводе 1923 г.
+(raw/jung/psychological-types.pdf). В этих разделах Юнг даёт
+развёрнутый портрет каждого типа: как он воспринимает мир, в каких
+профессиях и ситуациях ему легко, какие у него типичные неврозы, как
+у него устроено бессознательное.
+
+Важная оговорка самого Юнга: чистых типов в жизни почти не бывает.
+
+> In the foregoing descriptions I have no desire to give my readers
+> the impression that such pure types occur at all frequently in
+> actual practice. They are, as it were, only Galtonesque
+> family-portraits, which sum up in a cumulative image the common
+> and therefore typical characters, stressing these disproportionately,
+> while the individual features are just as disproportionately
+> effaced.
+> (raw/jung/psychological-types.pdf, с. 513)
 
 ## Вспомогательная функция
 
-Юнг добавляет, что доминирующей функции сопутствует
-*вспомогательная* — одна из тех, что с другой оси. Это даёт
-возможность комбинаций: например, Thinking с Sensation (логика плюс
-конкретные факты), Thinking с Intuition (логика плюс паттерны),
-и т.д. Эту идею Майерс в 1940-х развила в 16 типов MBTI: к парной
-формуле (dominant + auxiliary) добавив обозначение крайних —
-экстравертированной или интровертированной — через букву J/P
-(подробно — в [[rational_vs_irrational_functions]]).
+Наряду с доминантой у каждого человека работает *вспомогательная*
+функция — с другой оси, чем доминирующая:
+
+> Accurate investigation of the individual case consistently reveals
+> the fact that, in conjunction with the most differentiated function,
+> another function of secondary importance, and therefore of inferior
+> differentiation in consciousness, is constantly present, and is a
+> relatively determining factor.
+> (raw/jung/psychological-types.pdf, с. 513)
+
+То есть: доминанта задаёт главный режим сознания; вспомогательная
+функция — второй режим, который не противоречит первому. Если
+доминирует Thinking (судящая функция), вспомогательной не может быть
+Feeling (тоже судящая и противоположная); она будет либо Sensation,
+либо Intuition. Юнг объясняет, почему:
+
+> Feeling can never act as the second function by the side of
+> thinking, because its nature stands in too strong a contrast to
+> thinking. Thinking, if it is to be real thinking and true to its
+> own principle, must scrupulously exclude feeling.
+> (raw/jung/psychological-types.pdf, с. 514)
+
+Из этого рождаются знакомые комбинации: *практический интеллект*
+(Thinking + Sensation), *спекулятивный интеллект* (Thinking + Intuition),
+*художественная интуиция* (Intuition + Feeling), *философская
+интуиция* (Intuition + Thinking), и так далее (с. 515–516). Именно
+эту идею — dominant + auxiliary — Изабель Майерс в 1940-х развернула
+в 16 типов MBTI.
 
 ## Компенсация бессознательным
 
 Ключевой механизм динамики у Юнга. Функции и установки, которые
-в сознании подавлены, не исчезают — они уходят в бессознательное и
-оттуда *компенсируют* доминирующую установку. Экстраверт с
-Thinking-ом как доминантой содержит в бессознательном
-интровертированное Feeling — именно в его «подпольной» форме
-(незрелом, архаичном, импульсивном).
+сознание подавляет, не исчезают — они уходят в бессознательное и
+оттуда *компенсируют* доминирующую установку.
 
-Это объясняет, по Юнгу, такие наблюдения: «жёсткий рациональный
-директор» внезапно взрывается неуправляемой эмоцией; «мягкий
-чувствующий женщина» в стрессе выдаёт холодно-жестокую рацио; и
-т.д. Компенсация не злонамеренная — она *автоматическая*, и её
-сила пропорциональна степени подавления противоположной функции.
+> The unconscious is relatively undeveloped as compared with the
+> conscious function. ... The unconscious egoism, infantilism, and
+> archaism lose their original compensatory characters, and appear in
+> more or less open opposition to the conscious attitude.
+> (raw/jung/psychological-types.pdf, с. 424–425)
+
+Экстраверт с доминирующим Thinking содержит в бессознательном
+интровертированное Feeling — в архаичной, импульсивной, «подпольной»
+форме. Отсюда привычные клинические наблюдения: «жёсткий рациональный
+директор» срывается в неконтролируемый аффект; «мягкий ценностно-
+ориентированный человек» в стрессе выдаёт холодно-жестокий рассудок.
+Компенсация не злонамеренная — она автоматическая, и её сила растёт
+с силой подавления. Подробнее — в [[compensation_by_unconscious]].
 
 ## Individuation
 
-Общее развитие взрослого — *индивидуация* (Individuation) — по
-Юнгу состоит в постепенной интеграции подавленных функций, в том,
-чтобы доминанта перестала вытеснять остальные, а научилась с ними
-жить. Это не означает «стать симметричным»: доминанта остаётся
-доминантой всю жизнь. Индивидуация — о том, чтобы *не быть своей
-доминантой целиком*, а владеть ею.
-
-## Юнг и центральная гипотеза курса
-
-Центральная гипотеза курса работает с парой J/P. Эта пара — *не*
-из Юнга. J/P — это обозначение, введённое Изабель Майерс для
-различения того, *какая функция у человека проявляется в
-контакте с внешним миром* — судящая (J, thinking или feeling) или
-воспринимающая (P, sensation или intuition).
-
-У Юнга это различение есть, но он говорит о нём иначе: через
-термины «рациональные функции» (thinking, feeling) и
-«иррациональные функции» (sensation, intuition), и через то, какая
-из них — дominant или auxiliary — выходит в контакт с внешней
-средой.
-
-Подробно и с академической точностью — в
-[[rational_vs_irrational_functions]]. Для курса важно одно: то,
-что в современной литературе называется «P-mode» и «J-mode»,
-имеет свою историю и свои точные определения у Юнга. Их
-нельзя автоматически отождествлять с бытовыми «импульсивностью» и
-«организованностью», не теряя содержание.
+Общее развитие взрослого по Юнгу — *индивидуация* (Individuation) —
+состоит в постепенной интеграции подавленных функций. Не в том,
+чтобы сделать сознание симметричным (доминанта остаётся доминантой
+всю жизнь), а в том, чтобы доминанта перестала вытеснять остальные.
+Подробнее — в [[individuation_jung]].
 
 ## Связи
 
-- См. [[tensions/environment_design_vs_temperament]] — структура
-  типов у Юнга против универсальности поведенческой инженерии
-  Фогга.
+- [[jung]] — справка об авторе, структура книги, регистр.
+- [[four_functions_jung]] — развёрнутые портреты функций T, F, S, N.
+- [[rational_vs_irrational_functions]] — о том, почему T/F рациональны,
+  а S/N иррациональны, и откуда берётся MBTI-маркировка J/P.
+- [[compensation_by_unconscious]] — механизм компенсации.
+- [[individuation_jung]] — индивидуация как долгосрочная траектория.
+- [[four_temperaments_keirsey]] — Кирси как развитие линии Юнга →
+  Майерс → Кирси, но с другим акцентом (темперамент вместо функции).
+- [[tensions/environment_design_vs_temperament]] — Юнг и Кирси против
+  универсальной поведенческой инженерии Фогга.
 
 ## Источник
 
-- Jung, C. G. (1921/1923). *Psychologische Typen* /
-  *Psychological Types*. Translated by H. G. Baynes. Zürich:
-  Rascher Verlag / London: Routledge & Kegan Paul. PDF в
-  [raw/jung/](../../raw/jung/). В Collected Works — том 6.
+- Jung, C. G. (1921/1923). *Psychological Types* (Collected Works,
+  vol. 6). Перевод H. G. Baynes. PDF в [raw/jung/](../../raw/jung/).
+  Основной материал для этой статьи — глава X
+  («General Description of the Types», с. 412–517) и глава XI
+  («Definitions», с. 518 и далее).

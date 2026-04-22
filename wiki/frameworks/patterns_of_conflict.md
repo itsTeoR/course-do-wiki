@@ -1,0 +1,181 @@
+---
+name: Patterns of Conflict (Бойд)
+description: Исторический синтез Бойда — от Сунь-цзы до XX в., из которого выводятся три категории конфликта и центральный тезис о проникновении в moral–mental–physical противника
+type: framework
+tradition: [boyd]
+week: []
+p-j-stance: unclear
+density: high
+related: [[boyd]], [[ooda_loop]], [[categories_of_conflict]], [[destruction_and_creation]], [[implicit_orientation_and_schwerpunkt]], [[directed_opportunism]]
+---
+
+# Patterns of Conflict (Бойд)
+
+«Patterns of Conflict» — самая большая часть «Discourse», 193 слайда,
+выросшая из 90-минутного брифинга в многочасовую работу. Формально —
+обзор военной истории; по существу — индуктивный путь, которым Бойд
+вытаскивает из 2500 лет войн свой центральный тезис о природе
+конфликта. Логика брифинга: от конкретных примеров — к ритмам и
+приёмам — к [[categories_of_conflict|трём категориям конфликта]] — к
+центральной теме.
+
+## Mission и intent, которые Бойд ставит сам себе
+
+Бойд формулирует цель работы как:
+
+> To make manifest the nature of moral–mental–physical conflict;
+> discern a pattern for successful operations; help generalize tactics
+> and strategy; find a basis for grand strategy
+> (raw/boyd/discourse.pdf, с. 19).
+
+Итог он даёт на первых слайдах — прежде чем начинается исторический
+материал. Это не риторика, а метод: он сначала называет то, что
+обнаружится в конце, затем показывает, как это обнаруживается в
+истории.
+
+## Исторические пласты
+
+Брифинг проходит через несколько «эпох»:
+
+- **Сунь-цзы и ранние командиры** (ок. 400 до н. э. — Чингисхан,
+  Велизарий, Тамерлан): cheng/ch'i — ortodoxal/extraordinary —
+  комбинация обычных и неожиданных манёвров. Восточная традиция,
+  согласно Бойду, ближе к сущности maneuver и moral conflict, чем
+  большая часть западной (raw/boyd/discourse.pdf, с. 31–32, 71).
+- **Европейские регуляризаторы XVIII–XIX вв.** (Saxe, Bourcet,
+  Guibert, Фридрих Великий, Наполеон): превращение армии в
+  инструмент, способный быстрее противника перераспределять силы;
+  идея plans with several branches, план-вилка, которую нельзя
+  предугадать (raw/boyd/discourse.pdf, с. 47–53).
+- **Клаузевиц, Жомини**: канонизация западной стратегии, её
+  критическая точка — переоценка решающего сражения, attrition-
+  мышление, единственный «center of gravity». Бойд считает этот
+  слой тупиковым (raw/boyd/discourse.pdf, с. 55–59).
+- **Американская гражданская война, Бурская, Первая мировая**:
+  тупик окопной войны, истощение, paths of hardened resistance
+  (raw/boyd/discourse.pdf, с. 66, 73–74).
+- **Ludendorff, Lawrence, инфильтрация Первой мировой и партизанские
+  стратегии**: маневрирование через слабые точки, отказ от фронтов,
+  внедрение в территорию (raw/boyd/discourse.pdf, с. 75, 77).
+- **Blitzkrieg (Гудериан, Манштейн)**: синтез нескольких линий —
+  envelopment Cannae, flying columns монголов, танковая атака
+  Фуллера, инфильтрация Людендорфа. Схема: Schwerpunkt
+  (focus of main effort) устанавливается и сдвигается во время боя,
+  обходя силу, бьющей по слабости; Nebenpunkte поддерживают
+  (raw/boyd/discourse.pdf, с. 102–107).
+- **Партизанская война (Мао)**: политический, экономический,
+  социальный и военный фрейм одновременно — партизан действует в
+  среде populace, становится от неё неотличим, изолирует режим от
+  собственного народа (raw/boyd/discourse.pdf, с. 114–120).
+
+## Ключевой переход — от приёмов к категориям
+
+После партизанского раздела Бойд ставит себе вопрос — можем ли мы,
+оглядываясь назад, назвать три рода конфликта? И отвечает:
+
+> Attrition warfare — Maneuver conflict — Moral conflict
+> (raw/boyd/discourse.pdf, с. 131).
+
+Это не три вида войны, а три разные логики, которые часто наложены
+друг на друга. [[categories_of_conflict|Подробнее в отдельной статье]].
+Главное: каждая из трёх имеет свою «создавай и эксплуатируй»-сторону
+и свою «payoff»-сторону. Attrition создаёт destructive force,
+protection, mobility и даёт frightful attrition; maneuver создаёт
+ambiguity, deception, novelty, fast transients, effort в комбинации
+cheng/ch'i или Nebenpunkte/Schwerpunkt — и даёт disorientation,
+surprise, shock, disruption; moral conflict создаёт menace,
+uncertainty, mistrust — и порождает fear, anxiety, alienation в
+противнике (raw/boyd/discourse.pdf, с. 133, 135, 142–145).
+
+## Blitz и Guerrilla как родственные формы
+
+Блицкриг и партизанская война для Бойда — не противоположности, а
+родня:
+
+> Blitz and guerrillas infiltrate a nation or regime at all levels to
+> soften and shatter the moral fiber of the nation
+> (raw/boyd/discourse.pdf, с. 80).
+
+И те, и другие: изолируют противника от союзников, создают множество
+не-кооперирующихся центров гравитации, проникают в moral–mental–
+physical структуру, разрушают связность. Различие только в
+масштабе и в видимости: блицкриг — быстро и механизированно, партизан —
+медленно и политически.
+
+## Принципы войны — критика
+
+Бойд доходит до традиционного списка principles of war (mass,
+maneuver, unity of command и т. п.) и критикует его:
+
+> A list of principles does not reveal how individual principles
+> interact nor the mechanism for doing so. [...] They do not make
+> evident the importance of variety/rapidity/harmony/initiative as
+> basis to shape and adapt to circumstances
+> (raw/boyd/discourse.pdf, с. 204).
+
+То есть канонические principles of war — не принципы, а (дрейфующий)
+чек-лист. Принципы, по Бойду, должны быть *связаны* и *динамичны*.
+Взамен он предлагает четвёрку:
+
+- **Variety** — разнообразие способов действия.
+- **Rapidity** — скорость перехода между ними.
+- **Harmony** — согласованность между уровнями.
+- **Initiative** — внутренний источник действия без внешнего толчка.
+
+Без harmony/initiative variety/rapidity ведут к хаосу; без
+variety/rapidity harmony/initiative ведут к предсказуемости и
+не-адаптивности (raw/boyd/discourse.pdf, с. 226). Это первая явная
+натяжка, которую Бойд оставляет неснятой: четвёрка не
+операционализируется в алгоритм.
+
+## Центральная тема
+
+Финальный слайд Patterns of Conflict собирает всю работу в одно:
+
+> Evolve and exploit insight/initiative/adaptability/harmony together
+> with a unifying vision, via a grand ideal or an overarching theme
+> or a noble philosophy, as basis to: shape or influence events so
+> that we not only amplify our spirit and strength but also influence
+> the uncommitted or potential adversaries so that they are drawn
+> toward our philosophy and are empathetic toward our success, yet be
+> able to operate inside adversary's observation–orientation–decision–
+> action loops or get inside his mind–time–space as basis to:
+> penetrate adversary's moral–mental–physical being in order to
+> isolate him from his allies, pull him apart, and collapse his will
+> to resist
+> (raw/boyd/discourse.pdf, с. 207).
+
+Две стороны — конструктивная (привлечение, unifying vision) и
+разрушительная (проникновение, изоляция, коллапс). Бойд не уводит
+одну в тень другой. Обе — часть одного и того же движения: чтобы
+сохранять свою целостность перед непредсказуемым миром, нужно
+одновременно тянуть к себе и разрушать то, что противостоит. Для
+CEO-читателя это важный акцент: у Бойда нет чистой «позитивной»
+стратегии без компонента проникновения и разрушения — равно как нет
+чистой «атакующей», которая не держалась бы на собственной
+объединяющей философии.
+
+## Pattern for successful operations
+
+На конкретном уровне Бойд даёт компактный паттерн (goal, plan,
+action, support, command). Цель: уменьшить свободу манёвра противника
+и увеличить свою (raw/boyd/discourse.pdf, с. 148). План — проверять
+противника, вплетать menace–uncertainty–mistrust в ambiguity–
+deception–novelty; выбирать инициативу, которой меньше всего ждут;
+устанавливать Schwerpunkt и другие усилия так, чтобы открывались
+много ветвей; двигаться путями наименьшего сопротивления; эксплуатировать
+внутренние трения противника, не пытаясь их разрушить напрямую.
+Действие — observe–orient–decide–act незаметнее, быстрее, с большей
+нерегулярностью. Команда — децентрализована тактически,
+централизована стратегически (raw/boyd/discourse.pdf, с. 148–149).
+
+Это не алгоритм, а *чек-сет* координат, по которым проверяется, что
+замысел одновременно удовлетворяет четвёрке variety/rapidity/
+harmony/initiative.
+
+## Плотность
+
+Слайдовая форма сжатая. Цитаты Бойда уместно оставлять в оригинале
+или близкой к оригиналу передаче. Сглаживать его телеграфность в
+плавную прозу — значит терять то, что в ней держится на паузах и
+тире.

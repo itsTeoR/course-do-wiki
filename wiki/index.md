@@ -32,6 +32,8 @@
 - [Refuse to Choose (сканеры, Sher)](frameworks/refuse_to_choose.md)
 - [Креативность как системное явление (Csikszentmihalyi)](frameworks/creativity_csikszentmihalyi.md)
 - [Антихрупкость (Taleb)](frameworks/antifragile.md)
+- [OODA-петля (Boyd)](frameworks/ooda_loop.md)
+- [Patterns of Conflict (Boyd)](frameworks/patterns_of_conflict.md)
 
 ### Concepts — отдельные идеи
 Единичные операциональные понятия, которые можно вырвать из родного
@@ -110,6 +112,10 @@
 - [Lindy effect (Taleb)](concepts/lindy_effect.md)
 - [Skin in the game (Taleb)](concepts/skin_in_the_game_taleb.md)
 - [Ecological vs ludic знание (Taleb)](concepts/ecological_vs_ludic.md)
+- [Destruction and Creation (Boyd)](concepts/destruction_and_creation.md)
+- [Conceptual Spiral (Boyd)](concepts/conceptual_spiral.md)
+- [Категории конфликта — attrition/maneuver/moral (Boyd)](concepts/categories_of_conflict.md)
+- [Ориентация как Schwerpunkt и неявное командование (Boyd)](concepts/implicit_orientation_and_schwerpunkt.md)
 
 ### People — ключевые авторы
 Короткие справки о людях, чьи идеи мы используем. Не биографии — а
@@ -136,6 +142,7 @@
 - [Барбара Шер (Barbara Sher)](people/sher.md)
 - [Михай Чиксентмихайи (Mihaly Csikszentmihalyi)](people/csikszentmihalyi.md)
 - [Нассим Николас Талеб (Nassim Nicholas Taleb)](people/taleb.md)
+- [Джон Бойд (John R. Boyd)](people/boyd.md)
 
 ### Bridges — где разные традиции говорят об одном
 Самый ценный слой для курса. Карма-йога и эффектуация, Юнг и

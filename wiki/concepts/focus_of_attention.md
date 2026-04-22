@@ -1,0 +1,146 @@
+---
+name: Focus of Attention — внимание на критические переменные
+description: Центральный рабочий приём Inner Game — направить внимание на нейтральную критическую переменную и отпустить Self 1
+type: concept
+tradition: [gallwey]
+week: []
+p-j-stance: unclear
+density: medium
+related: [[inner_game]], [[self_1_self_2]], [[stop_tool]]
+---
+
+# Focus of Attention
+
+Центральный рабочий приём Inner Game. Голлвей посвящает ему целую
+главу и делает в ней одно из самых сильных утверждений книги:
+
+> Focus is the quintessential component of superior performance in
+> every activity, no matter what the level of skill or the age of
+> the performer.
+> (raw/gallwey/inner-game-of-work.epub, гл. 3 «Focus of Attention»)
+
+И, ещё более фундаментально:
+
+> Focus is what distracts us from whatever is distracting us.
+> (raw/gallwey/inner-game-of-work.epub, гл. 3, «Self 1 Distractions»)
+
+Focus не значит «сильнее сосредоточиться». Он значит — дать
+вниманию простую, конкретную, нейтральную задачу, которая
+перехватывает ресурс у [[self_1_self_2|Self 1]].
+
+## Self 2 focus, не Self 1 focus
+
+Голлвей различает два типа сосредоточения.
+
+**Принудительное сосредоточение** — Self 1 говорит: «соберись»,
+«не отвлекайся», «думай про задачу». Оно тяжёлое, утомительное и
+быстро распадается:
+
+> Trying too hard to concentrate produces a constrained and forced
+> focus that is difficult and tiring to sustain. It is not
+> inherently enjoyable, and in the long term, it is simply not
+> effective.
+> (raw/gallwey/inner-game-of-work.epub, гл. 3, «Self 2 Focus»)
+
+**Self 2 focus** — естественное, как у ребёнка, играющего с
+кошкой, или как у кошки, следящей за мухой:
+
+> The critical element is the clarity of desire behind the focus.
+> The cat is fascinated by the fly and the child wants to be
+> playing. Desire focuses attention.
+> (raw/gallwey/inner-game-of-work.epub, гл. 3)
+
+Это не результат дисциплины. Это результат подлинного интереса.
+
+## Механизм: внимание как инструмент обучения
+
+Голлвей выстроил свой тренерский метод на одном наблюдении: если
+ученика попросить *наблюдать за чем-то конкретным в реальности*, а
+не «исправлять свой удар» — техника улучшается сама собой.
+
+Пример: вместо «согни ноги», «выше ракетку» — «скажи 'bounce' в
+момент, когда мяч касается корта, и 'hit' в момент, когда он
+касается ракетки». Это просто наблюдение, без инструкций. Но пока
+внимание ученика занято этим наблюдением, Self 1 молчит, а Self 2
+— который и так знал, как правильно двигаться — беспрепятственно
+делает свою работу.
+
+Ключевой термин Голлвея — *critical variables*:
+
+> Practicing focus means being fully aware and present to the
+> variables that matter.
+> (raw/gallwey/inner-game-of-work.epub, гл. 4 «The Practice of
+> Focus»)
+
+Критическая переменная — та, от которой реально зависит качество
+действия, но которую Self 1 в своей тревоге не замечает. В теннисе
+— скорость и высота мяча. В разговоре — что именно говорит другой
+человек. В презентации — реакция в первом ряду. Задача — её
+заметить и удерживать на ней внимание.
+
+## Нейтральность наблюдения
+
+Важное условие: наблюдение должно быть *нейтральным*. Не
+«оцениваю, хорош ли мой удар», а «мяч пошёл вниз или вверх». Не
+«прав ли мой собеседник», а «какие слова он повторяет». Как только
+в наблюдение возвращается оценка, Self 1 возвращается к контролю,
+и цикл помехи запускается снова:
+
+> As soon as either student or coach broke the context of
+> nonjudgmental awareness, by making negative or positive
+> evaluations of a shot, the perception of threat would usually
+> return and trigger the cycle of self-interference.
+> (raw/gallwey/inner-game-of-work.epub, гл. 1, «The Power of
+> Nonjudgmental Awareness»)
+
+Парадокс Голлвея: именно *отказ* от намерения исправить приводит к
+быстрому изменению. Намерение исправить включает Self 1, который и
+есть помеха.
+
+## В разговоре
+
+Один из самых операциональных разделов книги (гл. 4, «Focused
+Communication»). Голлвей разбирает типичный офисный разговор:
+
+> I find that internal comments and feelings often distract me from
+> fully listening to the other person. I find myself thinking I
+> already know what the person is going to say, so I don't really
+> have to listen. I think about whether I agree or disagree with
+> what is being said and I rehearse my next response.
+> (raw/gallwey/inner-game-of-work.epub, гл. 4)
+
+Лекарство — то же, что на корте: направить внимание на то, что
+*действительно* происходит. Не «прав ли он», а «что именно он
+говорит». Не «правильно ли я выгляжу», а «что он чувствует сейчас».
+
+Голлвей говорит, что это почти физически ощущается: когда
+внимание реально идёт к собеседнику, собеседник это замечает и
+тоже начинает слушать внимательнее. Разговор меняется — в обе
+стороны.
+
+## Внимание следует за интересом, а не за дисциплиной
+
+Операциональный принцип, к которому Голлвей возвращается:
+
+> Focus follows interest, and interest does not need coercion. A
+> gentle hand on the steering wheel of attention will suffice.
+> (raw/gallwey/inner-game-of-work.epub, гл. 4, первая страница)
+
+То есть если не удаётся сосредоточиться, бессмысленно давить
+сильнее. Продуктивнее — поменять угол: *что в этой задаче мне
+интересно?* Если не нашлось ничего — это не лень, а сигнал о
+структуре задачи.
+
+## Связь с другими инструментами
+
+- С [[stop_tool|STOP]]: пауза — это момент, в котором можно
+  выбрать, на какую критическую переменную направить внимание в
+  следующей фазе работы.
+- С [[self_1_self_2|Self 1 / Self 2]]: фокус внимания — способ
+  приглушить Self 1, дав ему простую задачу наблюдения, пока Self
+  2 делает сложную работу.
+
+## Источник
+
+- Gallwey, W. T. (2000). *The Inner Game of Work*. Гл. 3 «Focus of
+  Attention»; гл. 4 «The Practice of Focus».

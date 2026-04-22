@@ -1,83 +1,148 @@
 ---
+name: Обратные связи (feedback loops)
+description: Балансирующие и усиливающие контуры у Медоуз; доминирование и переключение контуров как источник сложного поведения систем
 type: concept
 tradition: [meadows]
 week: []
 p-j-stance: neutral
-related: [[thinking_in_systems]], [[stocks_and_flows]]
+density: medium
+related: [[thinking_in_systems]], [[stocks_and_flows]], [[leverage_points]], [[system_traps]]
 ---
 
 # Обратные связи (feedback loops)
 
-Обратная связь у Медоуз — замкнутая цепь причинности: изменение в
-запасе влияет через цепочку решений, правил или физических законов
-на поток, который, в свою очередь, меняет запас. Это механизм, с
-помощью которого система регулирует сама себя. «If you see a
-behavior that persists over time, there is likely a mechanism
-creating that consistent behavior».
+Обратная связь у Медоуз — замкнутая цепь причинности: изменение в запасе
+влияет через цепочку решений, правил или физических законов на поток,
+который, в свою очередь, меняет сам запас. Это механизм, через который
+система регулирует себя.
 
-Медоуз различает два типа:
+Определение:
+
+> A feedback loop is a closed chain of causal connections from a stock,
+> through a set of decisions or rules or physical laws or actions that
+> are dependent on the level of the stock, and back again through a
+> flow to change the stock.
+> (raw/meadows/thinking-in-systems.epub, гл. 1 «The Basics», раздел
+> «How the System Runs Itself — Feedback»)
+
+Первый признак обратной связи — не в диаграмме, а в поведении:
+
+> If you see a behavior that persists over time, there is likely a
+> mechanism creating that consistent behavior. That mechanism operates
+> through a feedback loop. It is the consistent behavior pattern over a
+> long period of time that is the first hint of the existence of a
+> feedback loop.
+> (там же)
+
+Медоуз различает два типа контуров.
 
 ## Балансирующие (balancing)
 
-Стабилизируют систему; стремятся удержать запас около заданного
-значения. Примеры: термостат, который включает отопление, когда
-температура падает ниже уставки. Чашка кофе, остывающая до
-температуры комнаты. Человек, который долил кофе, когда
-почувствовал усталость, и перестал пить, когда ощутил перевозбуждение.
+Стабилизирующие, стремящиеся к цели. Термостат, который включает
+отопление, когда температура падает ниже уставки. Чашка кофе, остывающая
+до температуры комнаты. Человек, доливший кофе, когда почувствовал
+усталость, и отложивший чашку, когда началось перевозбуждение.
 
-Формально: балансирующая обратная связь противостоит любому
-направлению изменения. Если запас загнали вверх — она тянет вниз.
-Если вниз — тянет вверх.
+> Balancing feedback loops are equilibrating or goal-seeking structures
+> in systems and are both sources of stability and sources of
+> resistance to change.
+> (raw/meadows/thinking-in-systems.epub, гл. 1, раздел «Stabilizing
+> Loops — Balancing Feedback»)
 
-Важная деталь: сам факт наличия балансирующей обратной связи не
-гарантирует её работы. Информация может приходить с опозданием, в
-неправильное место, быть искажённой. Действие может быть слишком
-слабым, слишком поздним, блокированным ограничениями. «The presence
-of a feedback mechanism doesn’t necessarily mean that the mechanism
-works well».
+Балансирующая петля противостоит любому направлению изменения: если
+запас загнан вверх — она тянет вниз; если вниз — вверх.
 
-У каждой балансирующей связи есть *точка отказа* — тот уровень
-возмущения, при котором другие силы в системе оказываются сильнее.
-Термостат в плохо утеплённом доме на сильном морозе больше не
-удерживает температуру.
+Важная деталь: наличие балансирующей обратной связи не гарантирует её
+работы. Медоуз формулирует это прямо:
+
+> The presence of a feedback mechanism doesn’t necessarily mean that
+> the mechanism works well. [...] Information can arrive too late or
+> at the wrong place. It can be unclear or incomplete or hard to
+> interpret. The action it triggers may be too weak or delayed or
+> resource-constrained or simply ineffective.
+> (там же)
+
+У каждой балансирующей связи есть *точка отказа* — уровень возмущения,
+при котором другие силы в системе оказываются сильнее. Термостат в плохо
+утеплённом доме на сильном морозе больше не удерживает температуру.
 
 ## Усиливающие (reinforcing)
 
-Самоусиливающие; любое отклонение в одну сторону запускает процесс,
-который его усугубляет. Примеры:
+Самоусиливающие; отклонение в одну сторону запускает процесс, который
+его усугубляет. Медоуз перечисляет примеры:
 
-- Проценты в банке: чем больше денег, тем больше начислено процентов,
-  тем больше денег.
-- Эрозия почвы: меньше растений — хуже удерживается почва — меньше
-  растений.
-- Спор: «ты толкнул меня сильнее — я тебя ещё сильнее».
-- Развитие эпидемии, размножение популяции, рост экономики.
+- Братья, которые толкают друг друга всё сильнее.
+- Цены тянут зарплаты, зарплаты — цены.
+- Кролики рождают больше кроликов.
+- Эрозия: меньше почвы — меньше корней — меньше почвы.
+- «The more I practice piano, the more pleasure I get from the sound,
+  and so the more I play the piano, which gives me more practice».
+  (raw/meadows/thinking-in-systems.epub, гл. 1, раздел «Runaway Loops
+  — Reinforcing Feedback»)
 
-Усиливающая обратная связь — источник экспоненциального роста или
-обвала. Неуправляемая, она в конечном счёте разрушает систему
-(исчерпывает ресурс, разрушает окружение, доводит до физического
-предела). Поэтому в природе и в устойчивых системах усиливающие
-петли почти всегда окружены балансирующими, которые рано или поздно
-их останавливают.
+Общее определение:
 
-Полезная эвристика Медоуз: «doubling time ≈ 70 / (rate in %)». Если
-экспоненциально растёт со скоростью 7% — удваивается за 10 лет.
+> Reinforcing feedback loops are self-enhancing, leading to exponential
+> growth or to runaway collapses over time. They are found whenever a
+> stock has the capacity to reinforce or reproduce itself.
+> (там же)
+
+Неуправляемая усиливающая петля в конечном счёте разрушает систему — или
+упирается в балансирующую. Поэтому в природе и в устойчивых социальных
+системах усиливающие контуры почти всегда окружены балансирующими,
+которые рано или поздно включаются.
+
+Полезная эвристика:
+
+> The time it takes for an exponentially growing stock to double in
+> size, the “doubling time,” equals approximately 70 divided by the
+> growth rate (expressed as a percentage).
+> (raw/meadows/thinking-in-systems.epub, гл. 1, врезка «Hint on
+> Reinforcing Loops and Doubling Time»)
+
+7% в год → удвоение за 10 лет. 5% → 14 лет.
 
 ## Как они работают вместе
 
-Большинство реальных систем содержат несколько контуров обратной
-связи, тянущих запас в разные стороны. Поведение системы в каждый
-момент определяется *доминирующим* контуром. И главное — это
-доминирование может переключаться. Популяция растёт экспоненциально
-(усиливающая петля через рождаемость доминирует), пока рождаемость не
-сравняется со смертностью (балансирующая петля достигает равновесия);
-дальше — возможно сокращение (балансирующая начинает доминировать).
+Реальные системы содержат несколько контуров, тянущих запас в разные
+стороны. Поведение системы в каждый момент определяется *доминирующим*
+контуром — и главное, это доминирование может переключаться. Популяция
+растёт экспоненциально, пока усиливающая петля рождаемости сильнее
+балансирующей петли смертности; при исчерпании ресурсов балансирующая
+петля начинает доминировать, и рост прекращается или сменяется спадом.
 
-«Complex behaviors of systems often arise as the relative strengths
-of feedback loops shift, causing first one loop and then another to
-dominate behavior».
+Вывод Медоуз, который она несколько раз повторяет:
+
+> Complex behaviors of systems often arise as the relative strengths of
+> feedback loops shift, causing first one loop and then another to
+> dominate behavior.
+> (raw/meadows/thinking-in-systems.epub, гл. 2 «A Brief Visit to the
+> Systems Zoo», раздел «A Two-Stock System — A Renewable Stock
+> Constrained by a Nonrenewable Stock»)
+
+Отсюда практическое следствие: спрашивая «что сейчас делает система»,
+спрашивай «какой контур доминирует» и «при каких условиях он перестанет
+доминировать».
+
+## Обратные связи и человеческие решения
+
+Медоуз специально предлагает упражнение: попробуй придумать человеческое
+решение, принятое без обратной связи, — то есть без какой-либо
+информации об уровне запаса, на который это решение влияет.
+
+> Sometimes I challenge my students to try to think of any human
+> decision that occurs without a feedback loop — that is, a decision
+> that is made without regard to any information about the level of
+> the stock it influences.
+> (raw/meadows/thinking-in-systems.epub, гл. 1, раздел «Runaway Loops»)
+
+Чаще всего предлагают «влюбиться» и «покончить с собой»; Медоуз оставляет
+вопрос открытым — и в этом весь её регистр: она не замыкает тезис, она
+приглашает проверить.
 
 ## Источник
 
-- Meadows, D. H. (2008). *Thinking in Systems: A Primer*. Глава 1,
-  разделы «Stabilizing Loops» и «Runaway Loops».
+Meadows, D. H. (2008). *Thinking in Systems: A Primer*.
+(raw/meadows/thinking-in-systems.epub, гл. 1 «The Basics», разделы «How
+the System Runs Itself», «Stabilizing Loops», «Runaway Loops»; гл. 2 «A
+Brief Visit to the Systems Zoo», про смену доминирования).

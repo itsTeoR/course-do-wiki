@@ -1,140 +1,249 @@
 ---
+name: Lean Startup
+description: Метод Эрика Риса — превращать предпринимательство в управляемый эксперимент через петлю Build-Measure-Learn, MVP и структурированный pivot
 type: framework
 tradition: [ries]
 week: []
 p-j-stance: unclear
+density: medium
 related: [[build_measure_learn]], [[mvp]], [[pivot_or_persevere]], [[ries]]
 ---
 
 # Lean Startup
 
-Эрик Рис (Eric Ries) — предприниматель Силиконовой долины, в 2000-х
-годах сооснователь IMVU. На опыте собственных неудач и успехов он
-сформулировал подход, который в книге *The Lean Startup* (2011)
-назвал одноимённым методом.
+Эрик Рис — предприниматель, сооснователь IMVU (2004). Книга *The Lean
+Startup* (Crown Business, 2011) написана по опыту IMVU и нескольких
+лет консультирования стартапов и корпораций. У Риса есть свой
+словарь — MVP, pivot, cohort, vanity metrics, engine of growth, —
+и этот словарь в 2010-х стал общеупотребительным языком индустрии.
 
-Основной тезис Риса: стартап — это не маленькая компания, а
-«институция, создающая новый продукт или услугу в условиях
-экстремальной неопределённости». Под это определение попадают и
-гаражные предприятия, и крупные корпоративные подразделения
-инноваций. Управленческие дисциплины, которые работают для зрелой
-компании (финансовый план, прогноз продаж, жёсткий бренд-менеджмент),
-работают в стартапе плохо, потому что их предпосылки — стабильный
-рынок и знакомый продукт — отсутствуют.
+Регистр — инженер-предприниматель. Короткие главы, каждая главa
+начинается с конкретного кейса (IMVU, Votizen, Groupon/The Point,
+Zappos, Dropbox, Wealthfront, Intuit SnapTax, Village Laundry в
+Бангалоре), технический словарь, прямые отсылки к Lean Manufacturing
+(Тайити Оно, У. Эдвардс Деминг) и к Customer Development Стива
+Бланка. Аналогия — завод Toyota: партиями меньше, циклы быстрее,
+ценностью измеряй научение, а не активность.
 
-Рис пишет для практика-основателя: короткие главы, множество кейсов
-(IMVU, Groupon/The Point, Votizen, Zappos, Intuit), технический
-словарь (MVP, cohort, funnel, split-test, engine of growth). Регистр
-— инженер-предприниматель. Его скрытая аналогия — конвейер Тойоты:
-он прямо ссылается на Lean Manufacturing и переносит из него
-ключевые концепты: партиями меньше, циклы быстрее, ценностью
-измеряй научение, а не активность.
+## Что такое стартап
+
+Рис даёт широкое, специально не-отраслевое определение:
+
+> A startup is a human institution designed to create a new product
+> or service under conditions of extreme uncertainty.
+> (raw/ries/lean-startup.epub, Introduction, раздел «The Lean
+> Startup Method»)
+
+Из этого определения у него следует вся методология. Под стартапом
+не обязательно иметь в виду гаражное предприятие: подпадают и
+корпоративные подразделения инноваций. Но предпосылки стандартного
+менеджмента — стабильный рынок и знакомый продукт — в стартапе
+отсутствуют. Значит, планирование по прогнозу, жёсткий
+бренд-менеджмент и метрики выручки не работают как компас. Нужен
+другой инструментарий.
+
+## Пять принципов
+
+Рис сам формулирует метод через пять пунктов, и эти пять пунктов
+определяют структуру книги:
+
+1. **Entrepreneurs are everywhere.** Стартап не привязан к гаражу
+   и кремниевой долине.
+2. **Entrepreneurship is management.** Стартап — это институция,
+   значит ему нужен свой тип менеджмента, а не отсутствие оного.
+3. **Validated learning.**
+   > Startups exist not just to make stuff, make money, or even
+   > serve customers. They exist to learn how to build a sustainable
+   > business.
+4. **Build-Measure-Learn.**
+   > The fundamental activity of a startup is to turn ideas into
+   > products, measure how customers respond, and then learn whether
+   > to pivot or persevere. All successful startup processes should
+   > be geared to accelerate that feedback loop.
+5. **Innovation accounting.** Скучная бухгалтерия прогресса,
+   специально устроенная для стартапов, чтобы удерживать
+   инновационные команды подотчётными.
+(raw/ries/lean-startup.epub, Introduction, раздел «The Lean Startup
+Method»)
+
+Оба ключевых определения — про «научение, подтверждённое реальным
+поведением клиентов» и про петлю — Рис даёт сразу в Introduction и
+затем возвращается к ним на протяжении всей книги.
 
 ## Центральная петля: Build-Measure-Learn
 
-Фундаментальная деятельность стартапа — превращать идеи в продукт,
-измерять реакцию клиентов и учиться, что делать дальше: поворачивать
-(*pivot*) или продолжать (*persevere*).
+Единица работы стартапа — не «построить продукт», а пройти один
+полный цикл: сделать что-то, измерить, научиться, решить, что
+делать дальше. Подробно — в [[build_measure_learn]].
 
-> The fundamental activity of a startup is to turn ideas into
-> products, measure how customers respond, and then learn whether
-> to pivot or persevere. All successful startup processes should
-> be geared to accelerate that feedback loop.
+Ключевая деталь: петля не идёт линейно от идеи к продукту. Она
+замкнута. Научение приводит к новой идее, которая порождает новый
+MVP, который проверяется новым измерением. Единица прогресса —
+*validated learning*: то знание, которое мы теперь имеем и которое
+доказано поведением реальных клиентов.
 
-Подробно — в [[build_measure_learn]]. Важная деталь: в этой петле
-работа не идёт линейно от идеи к продукту. Она замкнута. Научение
-приводит к новой идее, которая приводит к новому продукту, которая
-проверяется новым измерением. Единица прогресса — не «что
-произведено», а *validated learning*: что именно мы теперь знаем,
-чего не знали вчера, и это знание доказано реальным поведением
-клиентов.
+Из этого следует практический вывод: оптимизировать нужно не
+отдельные фазы, а время прохождения полной петли. Быстрее цикл —
+больше научения за те же деньги.
 
-## MVP — минимально жизнеспособный продукт
+## MVP
 
 Первое, что создаётся в петле, — не «хороший продукт». Это *minimum
-viable product* (MVP): самая быстрая версия продукта, позволяющая
-пройти один цикл Build-Measure-Learn и проверить критическую
-гипотезу.
+viable product*:
 
-> An MVP is not necessarily the smallest product imaginable; it is
-> simply the fastest way to get through the Build-Measure-Learn
-> feedback loop with the minimum amount of effort.
+> A minimum viable product (MVP) helps entrepreneurs start the
+> process of learning as quickly as possible. It is not necessarily
+> the smallest product imaginable, though; it is simply the fastest
+> way to get through the Build-Measure-Learn feedback loop with the
+> minimum amount of effort.
+> (raw/ries/lean-startup.epub, гл. 6 «Test», раздел «Minimum Viable
+> Product»)
 
-MVP неудобен для перфекциониста. Он сырой, с багами, с открытыми
-дырами. Рис настаивает: это не ошибка проектирования, это сам смысл
-MVP. Он сделан не чтобы обрадовать инвестора, а чтобы быстро узнать
-что-то, чего без него узнать нельзя. Подробно — в [[mvp]].
+Ключевое слово — *fastest*. Не «самый маленький», не «приличный», не
+«без багов». Самый быстрый способ получить реальное научение.
+Подробно — в [[mvp]].
 
 ## Leap-of-faith assumptions
 
-Любой стартап начинается с *leap-of-faith assumptions* —
-предположений, на которых висит весь бизнес и которые пока никто не
-проверил. Обычно их две: *value hypothesis* (пользуются ли люди
-продуктом тем способом, на который рассчитывает основатель?) и
-*growth hypothesis* (как новые клиенты приходят к продукту?).
+Любой стартап висит на нескольких непроверенных предпосылках. Рис
+называет их *leap-of-faith assumptions*:
 
-MVP и петля Build-Measure-Learn существуют именно для того, чтобы
-эти два предположения проверить. Всё остальное, до момента
-проверки, — красивые слайды и инвесторский энтузиазм; не знание.
+> To apply the scientific method to a startup, we need to identify
+> which hypotheses to test. I call the riskiest elements of a
+> startup's plan, the parts on which everything depends,
+> leap-of-faith assumptions. The two most important assumptions are
+> the value hypothesis and the growth hypothesis.
+> (raw/ries/lean-startup.epub, гл. 5 «Leap», раздел «Strategy Is
+> Based on Assumptions»)
 
-## Pivot или persevere
+**Value hypothesis** спрашивает: пользуются ли люди продуктом тем
+способом, на который рассчитывает основатель? Получают ли они
+ценность?
 
-После того как цикл прошёл и результаты измерены, перед
-предпринимателем встаёт единственный важный вопрос: данные
-подтверждают гипотезу — продолжаем (*persevere*) — или
-опровергают — меняем курс (*pivot*)?
+**Growth hypothesis** спрашивает: как новые клиенты приходят к
+продукту — через удержание, через рекомендации, через платную
+рекламу?
 
-Pivot у Риса — не отказ от видения, а структурированная смена одного
-из элементов бизнес-модели при сохранении остальных. Он выделяет
-около десяти типов pivot'ов (zoom-in, zoom-out, customer segment,
-customer need, platform, business architecture, value capture,
-engine of growth, channel, technology). Подробно — в
-[[pivot_or_persevere]].
-
-Pivot — не провал. Это механизм научения. Votizen у Риса —
-показательный пример: шесть pivot'ов за несколько лет, каждый — ответ
-на результаты предыдущего MVP. Рис формулирует тревожную для
-инвесторов мысль:
-
-> A startup’s runway is the number of pivots it can still make.
+Метод существует ради того, чтобы обе эти гипотезы превратить в
+эксперимент. До проверки — это красивые слайды и инвесторский
+энтузиазм, не знание.
 
 ## Innovation accounting
 
 Если единица прогресса — validated learning, то и учёт прогресса не
 может быть тем же, что у зрелой компании. Рис предлагает *innovation
-accounting* — систему из трёх шагов:
+accounting* — систему из трёх шагов (гл. 7 «Measure», раздел «How
+Innovation Accounting Works»):
 
 1. Установить базовый уровень через MVP — «где мы сейчас».
-2. Делать маленькие улучшения и измерять их эффект на ключевые
-   метрики.
-3. Решать: pivot или persevere, на основе того, движутся ли метрики
+2. Настраивать продукт маленькими изменениями и смотреть, как
+   меняются ключевые cohort-метрики.
+3. Решить: pivot или persevere, на основе того, движутся ли метрики
    в нужную сторону достаточно быстро.
 
-Ключевая деталь — различение *vanity metrics* (показатели, которые
-всегда растут: общие скачивания, общее число пользователей) и
-*actionable metrics* (cohort-метрики, показывающие поведение
-конкретных групп клиентов с конкретной версией продукта). Рис
-требует: смотреть на cohort behavior, а не на совокупные числа. Без
-этого рост может казаться, но научения не происходит.
+Внутри — важное различение *vanity metrics* и *actionable metrics*
+(подробно в [[build_measure_learn]]). Vanity-метрики — совокупные
+числа, которые почти всегда растут и почти ничему не учат.
+Actionable — cohort-метрики, которые позволяют отличить одну версию
+продукта от другой и привязать результат к решению команды.
+
+## Pivot или persevere
+
+После каждого цикла стартап встаёт перед решением: данные
+подтверждают гипотезу — *persevere* — или опровергают — *pivot*?
+
+> A pivot is not just an exhortation to change. Remember, it is a
+> special kind of structured change designed to test a new
+> fundamental hypothesis about the product, business model, and
+> engine of growth.
+> (raw/ries/lean-startup.epub, гл. 8 «Pivot (or Persevere)», раздел
+> «A Pivot Is a Strategic Hypothesis»)
+
+Pivot — не отказ от видения и не смена идеи вообще. Это
+структурированная смена одного конкретного элемента бизнес-модели
+при сохранении остального. Рис выделяет около десяти типов pivot'ов
+и перекраивает для них понятие *runway*. Подробно — в
+[[pivot_or_persevere]].
 
 ## Engines of growth
 
-Рис выделяет три *движка роста*, каждый из которых работает через
-отдельный механизм обратной связи:
+Рост у Риса не универсален. Он идёт по одному из трёх механизмов
+обратной связи (гл. 10 «Grow», раздел «The Three Engines of
+Growth»):
 
-- *Sticky engine* — удержание. Компания растёт, потому что новые
-  клиенты приходят быстрее, чем старые уходят.
-- *Viral engine* — заражение. Клиенты сами приводят новых клиентов
-  (каждый клиент приводит больше одного — рост экспоненциальный).
-- *Paid engine* — платный. Компания платит за привлечение клиента
-  меньше, чем получает с него в LTV.
+- **Sticky engine** — удержание. Компания растёт, потому что темп
+  прихода новых клиентов выше churn rate. Ключевая метрика —
+  retention и churn.
+- **Viral engine** — заражение. Клиенты приводят новых клиентов.
+  Ключевая переменная — *viral coefficient*; если он больше единицы,
+  рост экспоненциальный, и его не нужно «подталкивать».
+- **Paid engine** — платный. Компания тратит на привлечение меньше,
+  чем получает с клиента за его lifetime (CPA < LTV). Маржа между
+  LTV и CPA определяет скорость роста.
 
-Стартап должен выбрать один и оптимизировать под него. Рис настаивает:
-попытка включить все три сразу обычно означает, что ни один не
-работает.
+Рис настаивает: стартап должен выбрать один движок и оптимизировать
+под него:
+
+> Successful startups usually focus on just one engine of growth,
+> specializing in everything that is required to make it work.
+> (raw/ries/lean-startup.epub, гл. 10 «Grow», раздел «Engines of
+> Growth Determine Product/Market Fit»)
+
+## Genchi gembutsu
+
+Рис неожиданно много места отводит термину, который он берёт прямо
+у Toyota — *genchi gembutsu*, «пойди и увидь сам»:
+
+> You cannot be sure you really understand any part of any business
+> problem unless you go and see for yourself firsthand. It is
+> unacceptable to take anything for granted or to rely on the
+> reports of others.
+> (raw/ries/lean-startup.epub, гл. 4 «Experiment», раздел «Genchi
+> Gembutsu»; Рис цитирует Taiichi Ohno и Jeffrey Liker)
+
+Для предпринимателя это означает: не строить стратегию из чужих
+отчётов и презентаций инвесторов. Первые встречи с клиентами MVP —
+это не маркетинг, это ответ на вопрос «что из моих предположений
+вообще правда?».
+
+## Цена традиционного подхода
+
+В Introduction Рис формулирует позицию, с которой спорит: миф о
+«гениальном предпринимателе», которому достаточно страсти, упорства
+и удачи. Этот миф, по Рису, удобен после победы и разрушителен до
+неё:
+
+> Entrepreneurship is a kind of management. No, you didn't read that
+> wrong. We have wildly divergent associations with these two words,
+> entrepreneurship and management. Lately, it seems that one is
+> cool, innovative, and exciting and the other is dull, serious, and
+> bland.
+> (raw/ries/lean-startup.epub, Introduction, раздел «Origins of the
+> Lean Startup»)
+
+Весь метод — это перевод предпринимательства из режима «талант +
+удача» в режим «эксперимент + измерение + решение». Это сознательная
+оппозиция романтической мифологии стартапа.
+
+## Что в книге неожиданно
+
+- Книга написана не про кремниевую долину. В ней разбираются случаи
+  Village Laundry Service в Бангалоре, SnapTax в Intuit как пример
+  «семитысячечеловечного стартапа» внутри крупной компании, и даже
+  попытка применить Lean Startup в правительстве США (гл. 4, раздел
+  «A Lean Startup in Government?»).
+- Рис прямо признаёт, что IMVU — компания, из опыта которой он
+  вывел метод — была близка к провалу именно потому, что команда
+  слишком долго верила в vanity-метрики (гл. 7 «Measure»,
+  «Innovation Accounting at IMVU»).
+- В финале Рис предлагает Long-Term Stock Exchange — альтернативную
+  биржевую инфраструктуру, которая поощряла бы долгосрочные ставки
+  акционеров (гл. 13 «Epilogue: Waste Not»). Это резко
+  институциональная нота для книги, которая начинается с гаражного
+  стартапа.
 
 ## Источник
 
-- Ries, E. (2011). *The Lean Startup: How Today’s Entrepreneurs Use
+- Ries, E. (2011). *The Lean Startup: How Today's Entrepreneurs Use
   Continuous Innovation to Create Radically Successful Businesses*.
   New York: Crown Business. EPUB в [raw/ries/](../../raw/ries/).

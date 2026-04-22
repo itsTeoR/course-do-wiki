@@ -181,6 +181,12 @@ cooperative*. В матрице Myers-Briggs Perceiving/Judging ортогона
 важнейших современных авторов типологии считает это различение
 производным, а не основным.
 
+## Связи
+
+- См. [[tensions/environment_design_vs_temperament]] — врождённость
+  темперамента у Кирси против универсальной поведенческой инженерии
+  Фогга.
+
 ## Источник
 
 - Keirsey, D. W. (1998). *Please Understand Me II: Temperament,

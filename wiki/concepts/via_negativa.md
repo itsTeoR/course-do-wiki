@@ -129,3 +129,9 @@ Book VI, Barbells Again / Less Is More):
   не добавлять фичи в систему. По духу это via negativa.
 - [[bottleneck_and_drum_buffer_rope|DBR]] тоже вычитательная
   логика: не лечить всю систему, а работать с одной точкой.
+
+## Связи
+
+- См. [[bridges/via_negativa_goldratt_gallwey]] — та же операция
+  у Голдратта (subordinate не-ограничений) и Голлвея (снятие
+  Self 1 ради Self 2).

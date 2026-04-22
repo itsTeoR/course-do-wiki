@@ -153,6 +153,12 @@ related: [[tiny_habits]], [[tiny_habits_recipe]], [[ability_chain]]
 обвинительный слой с темы привычек («у тебя не хватает дисциплины» —
 неверный диагноз).
 
+## Связи
+
+- См. [[tensions/environment_design_vs_temperament]] —
+  универсальность B=MAP против структурных различий типов Юнга и
+  темпераментов Кирси.
+
 ## Источник
 
 - Fogg, B. J. (2020). *Tiny Habits*. Гл. 1, «The Elements of

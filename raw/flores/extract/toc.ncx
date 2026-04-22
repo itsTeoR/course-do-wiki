@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="5d0e0773-19f3-425f-82bb-936b155a8986" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.15.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Conversations For Action and Collected Essays: Instilling a Culture of Commitment in Working Relationships</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="0">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="text/part0003.html#2RHM0-69ed8c6e1f9947e4bc8e2fcca1c0f761"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="1">
+      <navLabel>
+        <text>Forward</text>
+      </navLabel>
+      <content src="text/part0004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="2">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="text/part0005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="3">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="text/part0006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="4">
+      <navLabel>
+        <text>Acknowledgements</text>
+      </navLabel>
+      <content src="text/part0007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="5">
+      <navLabel>
+        <text>Part 1: The Basic Elements</text>
+      </navLabel>
+      <content src="text/part0008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="6">
+      <navLabel>
+        <text>Chapter 1: Conversations For Action</text>
+      </navLabel>
+      <content src="text/part0009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="7">
+      <navLabel>
+        <text>Chapter 2: Effective Coordination Through Conversations For Action</text>
+      </navLabel>
+      <content src="text/part0010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="8">
+      <navLabel>
+        <text>Chapter 3: Conversations For Action and Workflow</text>
+      </navLabel>
+      <content src="text/part0011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="9">
+      <navLabel>
+        <text>Chapter 4: Conversations For Possibilities</text>
+      </navLabel>
+      <content src="text/part0012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="10">
+      <navLabel>
+        <text>Chapter 5: Assessments and Assertions</text>
+      </navLabel>
+      <content src="text/part0013_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="11">
+      <navLabel>
+        <text>Part 2: Building Commitment</text>
+      </navLabel>
+      <content src="text/part0014.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="12">
+      <navLabel>
+        <text>Chapter 6: Characterizations and Conversations For Moving Forward</text>
+      </navLabel>
+      <content src="text/part0015.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="13">
+      <navLabel>
+        <text>Chapter 7: Managing Moods</text>
+      </navLabel>
+      <content src="text/part0016.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="14">
+      <navLabel>
+        <text>Chapter 8: On Trust</text>
+      </navLabel>
+      <content src="text/part0017.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="15">
+      <navLabel>
+        <text>Chapter 9: Building and Leading Teams</text>
+      </navLabel>
+      <content src="text/part0018.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="16">
+      <navLabel>
+        <text>Part 3: The Other Side of Speaking</text>
+      </navLabel>
+      <content src="text/part0019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="17">
+      <navLabel>
+        <text>Chapter 10: Understanding Concerns Behind Requests</text>
+      </navLabel>
+      <content src="text/part0020.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="18">
+      <navLabel>
+        <text>Chapter 11: Recurrent Domains of Human Concerns</text>
+      </navLabel>
+      <content src="text/part0021.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="19">
+      <navLabel>
+        <text>Chapter 12: On Listening</text>
+      </navLabel>
+      <content src="text/part0022.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

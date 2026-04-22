@@ -1,0 +1,1143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta name="dtb:uid" content="785b8c2e-0520-422d-824d-c2b709e27303"/>
+    <meta name="dtb:depth" content="6"/>
+    <meta name="dtb:generator" content="calibre (8.15.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Ontology of Language</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1" class="chapter">
+      <navLabel>
+        <text>FOREWORD</text>
+      </navLabel>
+      <content src="index_split_004.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2" class="chapter">
+      <navLabel>
+        <text>CHAPTER 1: BASICS OF THE ONTOLOGY OF LANGUAGE</text>
+      </navLabel>
+      <content src="index_split_005.html"/>
+      <navPoint id="num_3" playOrder="3" class="chapter">
+        <navLabel>
+          <text>The Birth of Metaphysical Drift</text>
+        </navLabel>
+        <content src="index_split_006.html#id_El_nacimiento_de_la_deriva_metaf"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4" class="chapter">
+        <navLabel>
+          <text>Descartes and the modern world</text>
+        </navLabel>
+        <content src="index_split_006.html#id_Descartes_y_el_mundo_moderno"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5" class="chapter">
+        <navLabel>
+          <text>A new historical panorama</text>
+        </navLabel>
+        <content src="index_split_006.html#id_Un_nuevo_panorama_historico"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6" class="chapter">
+        <navLabel>
+          <text>What do we mean by "ontology"?</text>
+        </navLabel>
+        <content src="index_split_006.html#id_Que_entendemos_por_ontologia"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7" class="chapter">
+        <navLabel>
+          <text>The ontology of language: basic postulates</text>
+        </navLabel>
+        <content src="index_split_006.html#id_La_ontologia_del_lenguaje__postu"/>
+        <navPoint id="num_8" playOrder="8" class="chapter">
+          <navLabel>
+            <text>First Postulate</text>
+          </navLabel>
+          <content src="index_split_006.html#id_Primer_Postulado"/>
+        </navPoint>
+        <navPoint id="num_9" playOrder="9" class="chapter">
+          <navLabel>
+            <text>Second Postulate</text>
+          </navLabel>
+          <content src="index_split_006.html#id_Segundo_Postulado"/>
+        </navPoint>
+        <navPoint id="num_10" playOrder="10" class="chapter">
+          <navLabel>
+            <text>Third Postulate</text>
+          </navLabel>
+          <content src="index_split_006.html#id_Tercer_Postulado"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11" class="chapter">
+        <navLabel>
+          <text>A non-metaphysical understanding of human beings</text>
+        </navLabel>
+        <content src="index_split_006.html#id_Una_comprension_no_metafisica_de"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12" class="chapter">
+        <navLabel>
+          <text>Being, truth, and power: the role of the observer</text>
+        </navLabel>
+        <content src="index_split_006.html#id_Ser__verdad_y_poder__el_papel_de"/>
+        <navPoint id="num_13" playOrder="13" class="chapter">
+          <navLabel>
+            <text>First principle</text>
+          </navLabel>
+          <content src="index_split_006.html#id_Primer_principio"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14" class="chapter">
+        <navLabel>
+          <text>Relationship between action and being</text>
+        </navLabel>
+        <content src="index_split_006.html#id_Relacion_entre_accion_y_ser"/>
+        <navPoint id="num_15" playOrder="15" class="chapter">
+          <navLabel>
+            <text>Second principle</text>
+          </navLabel>
+          <content src="index_split_006.html#id_Segundo_principio"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16" class="chapter">
+      <navLabel>
+        <text>CHAPTER 2: ON HUMAN LANGUAGE</text>
+      </navLabel>
+      <content src="index_split_007.html"/>
+      <navPoint id="num_17" playOrder="17" class="chapter">
+        <navLabel>
+          <text>LANGUAGE</text>
+        </navLabel>
+        <content src="index_split_008.html#id_EL_LENGUAJE"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18" class="chapter">
+        <navLabel>
+          <text>Language as a consensual domain</text>
+        </navLabel>
+        <content src="index_split_008.html#id_El_lenguaje_como_dominio_consens"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19" class="chapter">
+        <navLabel>
+          <text>A linguistic world of linguistic entities</text>
+        </navLabel>
+        <content src="index_split_008.html#id_Un_mundo_linguistico_de_entidade"/>
+      </navPoint>
+      <navPoint id="num_20" playOrder="20" class="chapter">
+        <navLabel>
+          <text>Language as coordination of actions</text>
+        </navLabel>
+        <content src="index_split_008.html#id_El_lenguaje_como_coordinacion_de"/>
+      </navPoint>
+      <navPoint id="num_21" playOrder="21" class="chapter">
+        <navLabel>
+          <text>The recursive capacity of human language</text>
+        </navLabel>
+        <content src="index_split_008.html#id_La_capacidad_recursiva_del_lengu"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22" class="chapter">
+        <navLabel>
+          <text>Structural and historical conditions for the emergence of human language</text>
+        </navLabel>
+        <content src="index_split_008.html#id_Condiciones_estructurales_e_hist"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="23" class="chapter">
+        <navLabel>
+          <text>THE INDIVIDUAL AS A LINGUISTIC CONSTRUCT</text>
+        </navLabel>
+        <content src="index_split_008.html#id_EL_INDIVIDUO_COMO_CONSTRUCCION_L"/>
+      </navPoint>
+      <navPoint id="num_24" playOrder="24" class="chapter">
+        <navLabel>
+          <text>Individuals as social phenomena</text>
+        </navLabel>
+        <content src="index_split_008.html#id_Los_individuos_como_fenomenos_so"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="25" class="chapter">
+        <navLabel>
+          <text>The mutual relationship between linguistic systems and individual behavior</text>
+        </navLabel>
+        <content src="index_split_008.html#id_La_relacion_mutua_entre_los_sist"/>
+        <navPoint id="num_26" playOrder="26" class="chapter">
+          <navLabel>
+            <text>Third principle</text>
+          </navLabel>
+          <content src="index_split_008.html#id_Tercer_principio"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_27" playOrder="27" class="chapter">
+        <navLabel>
+          <text>RETURN TO THE ONTOLOGY OF LANGUAGE</text>
+        </navLabel>
+        <content src="index_split_008.html#id_VUELTA_A_LA_ONTOLOGIA_DEL_LENGUA"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28" class="chapter">
+      <navLabel>
+        <text>CHAPTER 3: BASIC LINGUISTIC ACTS</text>
+      </navLabel>
+      <content src="index_split_009.html"/>
+      <navPoint id="num_29" playOrder="29" class="chapter">
+        <navLabel>
+          <text>BACKGROUND</text>
+        </navLabel>
+        <content src="index_split_010.html#id_ANTECEDENTES"/>
+      </navPoint>
+      <navPoint id="num_30" playOrder="30" class="chapter">
+        <navLabel>
+          <text>LINGUISTIC ACTS</text>
+        </navLabel>
+        <content src="index_split_010.html#id_LOS_ACTOS_LINGUISTICOS"/>
+        <navPoint id="num_31" playOrder="31" class="chapter">
+          <navLabel>
+            <text>Affirmations and declarations</text>
+          </navLabel>
+          <content src="index_split_010.html#id_Afirmaciones_y_declaraciones"/>
+          <navPoint id="num_32" playOrder="32" class="chapter">
+            <navLabel>
+              <text>a) Assertions</text>
+            </navLabel>
+            <content src="index_split_010.html#id_a__Afirmaciones"/>
+          </navPoint>
+          <navPoint id="num_33" playOrder="33" class="chapter">
+            <navLabel>
+              <text>b) Declarations</text>
+            </navLabel>
+            <content src="index_split_010.html#id_b__Declaraciones"/>
+          </navPoint>
+          <navPoint id="num_34" playOrder="34" class="chapter">
+            <navLabel>
+              <text>c) Some fundamental declarations in life</text>
+            </navLabel>
+            <content src="index_split_010.html#id_c__Algunas_declaraciones_fundame"/>
+            <navPoint id="num_35" playOrder="35" class="chapter">
+              <navLabel>
+                <text>The declaration of "No"</text>
+              </navLabel>
+              <content src="index_split_010.html#id_La_declaracion_del___No"/>
+            </navPoint>
+            <navPoint id="num_36" playOrder="36" class="chapter">
+              <navLabel>
+                <text>The declaration of acceptance: "Yes"</text>
+              </navLabel>
+              <content src="index_split_010.html#id_La_declaracion_de_aceptacion__el"/>
+            </navPoint>
+            <navPoint id="num_37" playOrder="37" class="chapter">
+              <navLabel>
+                <text>The declaration of ignorance</text>
+              </navLabel>
+              <content src="index_split_010.html#id_La_declaracion_de_ignorancia"/>
+            </navPoint>
+            <navPoint id="num_38" playOrder="38" class="chapter">
+              <navLabel>
+                <text>The declaration of gratitude</text>
+              </navLabel>
+              <content src="index_split_010.html#id_La_declaracion_de_gratitud"/>
+            </navPoint>
+            <navPoint id="num_39" playOrder="39" class="chapter">
+              <navLabel>
+                <text>The declaration of forgiveness</text>
+              </navLabel>
+              <content src="index_split_010.html#id_La_declaracion_del_perdon"/>
+            </navPoint>
+            <navPoint id="num_40" playOrder="40" class="chapter">
+              <navLabel>
+                <text>The declaration of love</text>
+              </navLabel>
+              <content src="index_split_010.html#id_La_declaracion_de_amor"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="num_41" playOrder="41" class="chapter">
+            <navLabel>
+              <text>d) On the relationship between affirmations and declarations</text>
+            </navLabel>
+            <content src="index_split_010.html#id_d__Sobre_la_relacion_entre_las_a"/>
+            <navPoint id="num_42" playOrder="42" class="chapter">
+              <navLabel>
+                <text>The distinction of "concern"</text>
+              </navLabel>
+              <content src="index_split_010.html#id_La_distincion_de___inquietud"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_43" playOrder="43" class="chapter">
+          <navLabel>
+            <text>The dance of promises: on requests and offers.</text>
+          </navLabel>
+          <content src="index_split_010.html#id_La_danza_de_las_promesas__sobre"/>
+          <navPoint id="num_44" playOrder="44" class="chapter">
+            <navLabel>
+              <text>FUNDAMENTAL LINGUISTIC ACTS</text>
+            </navLabel>
+            <content src="index_split_010.html#id_LOS_ACTOS_LINGUISTICOS_FUNDAMENT"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_45" playOrder="45" class="chapter">
+          <navLabel>
+            <text>THE GENERATIVE ROLE OF LANGUAGE</text>
+          </navLabel>
+          <content src="index_split_010.html#id_EL_PAPEL_GENERATIVO_DEL_LENGUAJE"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_46" playOrder="46" class="chapter">
+      <navLabel>
+        <text>CHAPTER 4: ON JUDGMENTS</text>
+      </navLabel>
+      <content src="index_split_011.html"/>
+      <navPoint id="num_47" playOrder="47" class="chapter">
+        <navLabel>
+          <text>Recapitulation on affirmations</text>
+        </navLabel>
+        <content src="index_split_012.html#id_Recapitulacion_sobre_las_afirmac"/>
+      </navPoint>
+      <navPoint id="num_48" playOrder="48" class="chapter">
+        <navLabel>
+          <text>Judgments</text>
+        </navLabel>
+        <content src="index_split_012.html#id_Los_juicios"/>
+      </navPoint>
+      <navPoint id="num_49" playOrder="49" class="chapter">
+        <navLabel>
+          <text>Judgments and the structure of temporality</text>
+        </navLabel>
+        <content src="index_split_012.html#id_Los_juicios_y_la_estructura_de_l"/>
+      </navPoint>
+      <navPoint id="num_50" playOrder="50" class="chapter">
+        <navLabel>
+          <text>How judgments are founded</text>
+        </navLabel>
+        <content src="index_split_012.html#id_Como_se_fundan_los_juicios"/>
+      </navPoint>
+      <navPoint id="num_51" playOrder="51" class="chapter">
+        <navLabel>
+          <text>The double face of judgments</text>
+        </navLabel>
+        <content src="index_split_012.html#id_La_doble_cara_de_los_juicios"/>
+      </navPoint>
+      <navPoint id="num_52" playOrder="52" class="chapter">
+        <navLabel>
+          <text>Judgments and the domain of ethics</text>
+        </navLabel>
+        <content src="index_split_012.html#id_Los_juicios_y_el_dominio_de_la_e"/>
+      </navPoint>
+      <navPoint id="num_53" playOrder="53" class="chapter">
+        <navLabel>
+          <text>Judgments and ways of being</text>
+        </navLabel>
+        <content src="index_split_012.html#id_Juicios_y_formas_de_ser"/>
+      </navPoint>
+      <navPoint id="num_54" playOrder="54" class="chapter">
+        <navLabel>
+          <text>Beyond good and evil</text>
+        </navLabel>
+        <content src="index_split_012.html#id_Mas_alla_del_bien_y_del_mal"/>
+      </navPoint>
+      <navPoint id="num_55" playOrder="55" class="chapter">
+        <navLabel>
+          <text>Judgments and human suffering</text>
+        </navLabel>
+        <content src="index_split_012.html#id_Los_juicios_y_el_sufrimiento_hum"/>
+      </navPoint>
+      <navPoint id="num_56" playOrder="56" class="chapter">
+        <navLabel>
+          <text>A matter of trust</text>
+        </navLabel>
+        <content src="index_split_012.html#id_Una_cuestion_de_confianza"/>
+      </navPoint>
+      <navPoint id="num_57" playOrder="57" class="chapter">
+        <navLabel>
+          <text>Towards an ethics based on respect</text>
+        </navLabel>
+        <content src="index_split_012.html#id_Hacia_una_etica_fundada_en_el_re"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_58" playOrder="58" class="chapter">
+      <navLabel>
+        <text>CHAPTER 5: LISTENING: THE HIDDEN SIDE OF LANGUAGE</text>
+      </navLabel>
+      <content src="index_split_013.html"/>
+      <navPoint id="num_59" playOrder="59" class="chapter">
+        <navLabel>
+          <text>Listening as a determining factor in human communication</text>
+        </navLabel>
+        <content src="index_split_014.html#id_El_escuchar_como_factor_determin"/>
+      </navPoint>
+      <navPoint id="num_60" playOrder="60" class="chapter">
+        <navLabel>
+          <text>The fallacy of information transmission</text>
+        </navLabel>
+        <content src="index_split_014.html#id_La_falacia_de_la_transmision_de"/>
+      </navPoint>
+      <navPoint id="num_61" playOrder="61" class="chapter">
+        <navLabel>
+          <text>Listening is not hearing</text>
+        </navLabel>
+        <content src="index_split_014.html#id_Escuchar_no_es_oir"/>
+      </navPoint>
+      <navPoint id="num_62" playOrder="62" class="chapter">
+        <navLabel>
+          <text>From a descriptive understanding to a generative understanding of language</text>
+        </navLabel>
+        <content src="index_split_014.html#id_Desde_una_comprension_descriptiv"/>
+      </navPoint>
+      <navPoint id="num_63" playOrder="63" class="chapter">
+        <navLabel>
+          <text>The actions involved in speaking</text>
+        </navLabel>
+        <content src="index_split_014.html#id_Las_acciones_comprendidas_en_el"/>
+      </navPoint>
+      <navPoint id="num_64" playOrder="64" class="chapter">
+        <navLabel>
+          <text>The assumption of "intention" to give meaning to our actions.</text>
+        </navLabel>
+        <content src="index_split_014.html#id_El_supuesto_de___intencion___par"/>
+      </navPoint>
+      <navPoint id="num_65" playOrder="65" class="chapter">
+        <navLabel>
+          <text>The solution offered by Freud</text>
+        </navLabel>
+        <content src="index_split_014.html#id_La_solucion_ofrecida_por_Freud"/>
+      </navPoint>
+      <navPoint id="num_66" playOrder="66" class="chapter">
+        <navLabel>
+          <text>Questioning the concept of intention</text>
+        </navLabel>
+        <content src="index_split_014.html#id_Cuestionamiento_del_concepto_de"/>
+      </navPoint>
+      <navPoint id="num_67" playOrder="67" class="chapter">
+        <navLabel>
+          <text>From intentions to concerns</text>
+        </navLabel>
+        <content src="index_split_014.html#id_De_intenciones_a_inquietudes"/>
+      </navPoint>
+      <navPoint id="num_68" playOrder="68" class="chapter">
+        <navLabel>
+          <text>When we listen, we also construct a story about the future</text>
+        </navLabel>
+        <content src="index_split_014.html#id_Cuando_escuchamos__tambien_const"/>
+      </navPoint>
+      <navPoint id="num_69" playOrder="69" class="chapter">
+        <navLabel>
+          <text>The basic matrix of listening</text>
+        </navLabel>
+        <content src="index_split_014.html#id_La_matriz_basica_del_escuchar"/>
+        <navPoint id="num_70" playOrder="70" class="chapter">
+          <navLabel>
+            <text>a) The sphere of action</text>
+          </navLabel>
+          <content src="index_split_014.html#id_a__El_ambito_de_la_accion"/>
+        </navPoint>
+        <navPoint id="num_71" playOrder="71" class="chapter">
+          <navLabel>
+            <text>b) The realm of concerns</text>
+          </navLabel>
+          <content src="index_split_014.html#id_b__El_ambito_de_las_inquietudes"/>
+        </navPoint>
+        <navPoint id="num_72" playOrder="72" class="chapter">
+          <navLabel>
+            <text>c) The realm of the possible</text>
+          </navLabel>
+          <content src="index_split_014.html#id_c__El_ambito_de_lo_posible"/>
+        </navPoint>
+        <navPoint id="num_73" playOrder="73" class="chapter">
+          <navLabel>
+            <text>d) The realm of the human soul</text>
+          </navLabel>
+          <content src="index_split_014.html#id_d__El_ambito_del_alma_humana"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_74" playOrder="74" class="chapter">
+        <navLabel>
+          <text>Openness: the fundamental posture of listening</text>
+        </navLabel>
+        <content src="index_split_014.html#id_Apertura__la_postura_fundamental"/>
+      </navPoint>
+      <navPoint id="num_75" playOrder="75" class="chapter">
+        <navLabel>
+          <text>The ontological being and the person: a way of being that allows for infinite ways of being</text>
+        </navLabel>
+        <content src="index_split_014.html#id_El_ser_ontologico_y_la_persona"/>
+      </navPoint>
+      <navPoint id="num_76" playOrder="76" class="chapter">
+        <navLabel>
+          <text>Areas of observation for developing effective listening</text>
+        </navLabel>
+        <content src="index_split_014.html#id_Dominios_de_observacion_para_des"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_77" playOrder="77" class="chapter">
+      <navLabel>
+        <text>CHAPTER 6: HUMAN ACTION AND LANGUAGE</text>
+      </navLabel>
+      <content src="index_split_015.html"/>
+      <navPoint id="num_78" playOrder="78" class="chapter">
+        <navLabel>
+          <text>Our "traditional conception" of human action</text>
+        </navLabel>
+        <content src="index_split_016.html#id_Nuestra___concepcion_tradicional"/>
+      </navPoint>
+      <navPoint id="num_79" playOrder="79" class="chapter">
+        <navLabel>
+          <text>Reason and language</text>
+        </navLabel>
+        <content src="index_split_016.html#id_Razon_y_lenguaje"/>
+      </navPoint>
+      <navPoint id="num_80" playOrder="80" class="chapter">
+        <navLabel>
+          <text>Heidegger's critique of Descartes</text>
+        </navLabel>
+        <content src="index_split_016.html#id_Critica_de_Heidegger_a_Descartes"/>
+      </navPoint>
+      <navPoint id="num_81" playOrder="81" class="chapter">
+        <navLabel>
+          <text>The distinction of transparency</text>
+        </navLabel>
+        <content src="index_split_016.html#id_La_distincion_de_transparencia"/>
+      </navPoint>
+      <navPoint id="num_82" playOrder="82" class="chapter">
+        <navLabel>
+          <text>The distinction of rupture</text>
+        </navLabel>
+        <content src="index_split_016.html#id_La_distincion_de_quiebre"/>
+      </navPoint>
+      <navPoint id="num_83" playOrder="83" class="chapter">
+        <navLabel>
+          <text>Conditions for generating a break</text>
+        </navLabel>
+        <content src="index_split_016.html#id_Condiciones_de_generacion_de_un"/>
+      </navPoint>
+      <navPoint id="num_84" playOrder="84" class="chapter">
+        <navLabel>
+          <text>Negative and positive breaks</text>
+        </navLabel>
+        <content src="index_split_016.html#id_Quiebres_negativos_y_positivos"/>
+      </navPoint>
+      <navPoint id="num_85" playOrder="85" class="chapter">
+        <navLabel>
+          <text>Breaks reside in the observer</text>
+        </navLabel>
+        <content src="index_split_016.html#id_Los_quiebres_habitan_en_el_obser"/>
+      </navPoint>
+      <navPoint id="num_86" playOrder="86" class="chapter">
+        <navLabel>
+          <text>Two sources in the declaration of breaks</text>
+        </navLabel>
+        <content src="index_split_016.html#id_Dos_fuentes_en_la_declaracion_de"/>
+      </navPoint>
+      <navPoint id="num_87" playOrder="87" class="chapter">
+        <navLabel>
+          <text>Language and action</text>
+        </navLabel>
+        <content src="index_split_016.html#id_Lenguaje_y_accion"/>
+      </navPoint>
+      <navPoint id="num_88" playOrder="88" class="chapter">
+        <navLabel>
+          <text>Action as a linguistic distinction</text>
+        </navLabel>
+        <content src="index_split_016.html#id_La_accion_como_una_distincion_li"/>
+      </navPoint>
+      <navPoint id="num_89" playOrder="89" class="chapter">
+        <navLabel>
+          <text>The uses of the distinction of action</text>
+        </navLabel>
+        <content src="index_split_016.html#id_Los_usos_de_la_distincion_de_acc"/>
+      </navPoint>
+      <navPoint id="num_90" playOrder="90" class="chapter">
+        <navLabel>
+          <text>Activity versus action</text>
+        </navLabel>
+        <content src="index_split_016.html#id_Actividad_versus_accion"/>
+      </navPoint>
+      <navPoint id="num_91" playOrder="91" class="chapter">
+        <navLabel>
+          <text>Direct and reflexive action</text>
+        </navLabel>
+        <content src="index_split_016.html#id_Accion_directa_y_reflexiva"/>
+      </navPoint>
+      <navPoint id="num_92" playOrder="92" class="chapter">
+        <navLabel>
+          <text>Contingent and recurrent action</text>
+        </navLabel>
+        <content src="index_split_016.html#id_Accion_contingente_y_recurrente"/>
+      </navPoint>
+      <navPoint id="num_93" playOrder="93" class="chapter">
+        <navLabel>
+          <text>The linguistic reconstruction of social practices</text>
+        </navLabel>
+        <content src="index_split_016.html#id_La_reconstruccion_linguistica_de"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_94" playOrder="94" class="chapter">
+      <navLabel>
+        <text>CHAPTER 7: THE POWER OF CONVERSATIONS</text>
+      </navLabel>
+      <content src="index_split_017.html"/>
+      <navPoint id="num_95" playOrder="95" class="chapter">
+        <navLabel>
+          <text>DESIGNING CONVERSATIONS</text>
+        </navLabel>
+        <content src="index_split_018.html#id_DISENANDO_CONVERSACIONES"/>
+        <navPoint id="num_96" playOrder="96" class="chapter">
+          <navLabel>
+            <text>1. The conversation of personal judgments</text>
+          </navLabel>
+          <content src="index_split_018.html#id_1__La_conversacion_de_juicios_pe"/>
+        </navPoint>
+        <navPoint id="num_97" playOrder="97" class="chapter">
+          <navLabel>
+            <text>2. Conversations for coordinating actions</text>
+          </navLabel>
+          <content src="index_split_018.html#id_2__La_conversacion_para_la_coord"/>
+        </navPoint>
+        <navPoint id="num_98" playOrder="98" class="chapter">
+          <navLabel>
+            <text>3. Conversation for possible actions</text>
+          </navLabel>
+          <content src="index_split_018.html#id_3__La_conversacion_para_posibles"/>
+        </navPoint>
+        <navPoint id="num_99" playOrder="99" class="chapter">
+          <navLabel>
+            <text>4. Conversations for possible conversations</text>
+          </navLabel>
+          <content src="index_split_018.html#id_4__La_conversacion_para_posibles"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_100" playOrder="100" class="chapter">
+        <navLabel>
+          <text>PERSONAL RELATIONSHIPS AND CONVERSATIONS</text>
+        </navLabel>
+        <content src="index_split_018.html#id_RELACIONES_PERSONALES_Y_CONVERSA"/>
+      </navPoint>
+      <navPoint id="num_101" playOrder="101" class="chapter">
+        <navLabel>
+          <text>Breaks and conversations in personal relationships</text>
+        </navLabel>
+        <content src="index_split_018.html#id_Quiebres_y_conversaciones_en_las"/>
+      </navPoint>
+      <navPoint id="num_102" playOrder="102" class="chapter">
+        <navLabel>
+          <text>Public and private conversations</text>
+        </navLabel>
+        <content src="index_split_018.html#id_Conversaciones_publicas_y_privad"/>
+      </navPoint>
+      <navPoint id="num_103" playOrder="103" class="chapter">
+        <navLabel>
+          <text>Beyond "talking as action"</text>
+        </navLabel>
+        <content src="index_split_018.html#id_Mas_alla_del___hablar_como_accio"/>
+      </navPoint>
+      <navPoint id="num_104" playOrder="104" class="chapter">
+        <navLabel>
+          <text>The importance of storytelling in human existence</text>
+        </navLabel>
+        <content src="index_split_018.html#id_La_importancia_de_la_narracion_d"/>
+      </navPoint>
+      <navPoint id="num_105" playOrder="105" class="chapter">
+        <navLabel>
+          <text>Stories and action</text>
+        </navLabel>
+        <content src="index_split_018.html#id_Historias_y_accion"/>
+      </navPoint>
+      <navPoint id="num_106" playOrder="106" class="chapter">
+        <navLabel>
+          <text>The power of inventing stories in relationships</text>
+        </navLabel>
+        <content src="index_split_018.html#id_El_poder_de_la_invencion_de_hist"/>
+      </navPoint>
+      <navPoint id="num_107" playOrder="107" class="chapter">
+        <navLabel>
+          <text>CONVERSATIONS IN BUSINESS ORGANIZATIONS</text>
+        </navLabel>
+        <content src="index_split_018.html#id_CONVERSACIONES_EN_LAS_ORGANIZACI"/>
+      </navPoint>
+      <navPoint id="num_108" playOrder="108" class="chapter">
+        <navLabel>
+          <text>Organizations as linguistic units</text>
+        </navLabel>
+        <content src="index_split_018.html#id_Las_organizaciones_como_unidades"/>
+      </navPoint>
+      <navPoint id="num_109" playOrder="109" class="chapter">
+        <navLabel>
+          <text>The linguistic structure of organizations</text>
+        </navLabel>
+        <content src="index_split_018.html#id_La_estructura_linguistica_de_las"/>
+      </navPoint>
+      <navPoint id="num_110" playOrder="110" class="chapter">
+        <navLabel>
+          <text>Conversations as the foundation of business organizations</text>
+        </navLabel>
+        <content src="index_split_018.html#id_Las_conversaciones_como_fundamen"/>
+      </navPoint>
+      <navPoint id="num_111" playOrder="111" class="chapter">
+        <navLabel>
+          <text>The conversational nature of management</text>
+        </navLabel>
+        <content src="index_split_018.html#id_La_naturaleza_conversacional_del"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_112" playOrder="112" class="chapter">
+      <navLabel>
+        <text>CHAPTER 8: EMOTIONS AND MOODS</text>
+      </navLabel>
+      <content src="index_split_019.html"/>
+      <navPoint id="num_113" playOrder="113" class="chapter">
+        <navLabel>
+          <text>Emotionality in our traditional conception</text>
+        </navLabel>
+        <content src="index_split_020.html#id_La_emocionalidad_en_nuestra_conc"/>
+      </navPoint>
+      <navPoint id="num_114" playOrder="114" class="chapter">
+        <navLabel>
+          <text>The distinction between moods and emotions</text>
+        </navLabel>
+        <content src="index_split_020.html#id_La_distincion_entre_estados_de_a"/>
+      </navPoint>
+      <navPoint id="num_115" playOrder="115" class="chapter">
+        <navLabel>
+          <text>Moods are constitutive of human existence</text>
+        </navLabel>
+        <content src="index_split_020.html#id_Los_estados_de_animo_son_constit"/>
+      </navPoint>
+      <navPoint id="num_116" playOrder="116" class="chapter">
+        <navLabel>
+          <text>Moods and action</text>
+        </navLabel>
+        <content src="index_split_020.html#id_Estados_de_animo_y_accion"/>
+      </navPoint>
+      <navPoint id="num_117" playOrder="117" class="chapter">
+        <navLabel>
+          <text>Two complementary domains of mood observation</text>
+        </navLabel>
+        <content src="index_split_020.html#id_Dos_dominios_complementarios_de"/>
+      </navPoint>
+      <navPoint id="num_118" playOrder="118" class="chapter">
+        <navLabel>
+          <text>Observing moods from the subdomain of biology</text>
+        </navLabel>
+        <content src="index_split_020.html#id_Observando_los_estados_de_animo"/>
+      </navPoint>
+      <navPoint id="num_119" playOrder="119" class="chapter">
+        <navLabel>
+          <text>Observing moods from the subdomain of corporeality</text>
+        </navLabel>
+        <content src="index_split_020.html#id_Observando_los_estados_de_animo_1"/>
+      </navPoint>
+      <navPoint id="num_120" playOrder="120" class="chapter">
+        <navLabel>
+          <text>Moods and language</text>
+        </navLabel>
+        <content src="index_split_020.html#id_Los_estados_de_animo_y_el_lengua"/>
+      </navPoint>
+      <navPoint id="num_121" playOrder="121" class="chapter">
+        <navLabel>
+          <text>Towards a linguistic reconstruction of moods</text>
+        </navLabel>
+        <content src="index_split_020.html#id_Hacia_una_reconstruccion_linguis"/>
+      </navPoint>
+      <navPoint id="num_122" playOrder="122" class="chapter">
+        <navLabel>
+          <text>Moods in social contexts</text>
+        </navLabel>
+        <content src="index_split_020.html#id_Los_estados_de_animo_en_contexto"/>
+      </navPoint>
+      <navPoint id="num_123" playOrder="123" class="chapter">
+        <navLabel>
+          <text>Can we do anything with moods?</text>
+        </navLabel>
+        <content src="index_split_020.html#id_Podemos_hacer_algo_con_los_esta"/>
+      </navPoint>
+      <navPoint id="num_124" playOrder="124" class="chapter">
+        <navLabel>
+          <text>Moods as a domain of design</text>
+        </navLabel>
+        <content src="index_split_020.html#id_Los_estados_de_animo_como_un_dom"/>
+      </navPoint>
+      <navPoint id="num_125" playOrder="125" class="chapter">
+        <navLabel>
+          <text>Some guidelines for designing moods</text>
+        </navLabel>
+        <content src="index_split_020.html#id_Algunas_pautas_para_el_diseno_de"/>
+      </navPoint>
+      <navPoint id="num_126" playOrder="126" class="chapter">
+        <navLabel>
+          <text>Kairos: a brief commentary on human time</text>
+        </navLabel>
+        <content src="index_split_020.html#id_Kairos__breve_comentario_sobre_e"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_127" playOrder="127" class="chapter">
+      <navLabel>
+        <text>CHAPTER 9: FOUR BASIC EMOTIONAL STATES</text>
+      </navLabel>
+      <content src="index_split_021.html"/>
+      <navPoint id="num_128" playOrder="128" class="chapter">
+        <navLabel>
+          <text>By way of introduction: a note on the Stoics</text>
+        </navLabel>
+        <content src="index_split_022.html#id_A_modo_de_introduccion__nota_sob"/>
+      </navPoint>
+      <navPoint id="num_129" playOrder="129" class="chapter">
+        <navLabel>
+          <text>The moral philosophy of Epictetus</text>
+        </navLabel>
+        <content src="index_split_022.html#id_La_filosofia_moral_de_Epicteto"/>
+      </navPoint>
+      <navPoint id="num_130" playOrder="130" class="chapter">
+        <navLabel>
+          <text>The criterion of harmony with nature and judgments</text>
+        </navLabel>
+        <content src="index_split_022.html#id_El_criterio_de_la_concordancia_c"/>
+      </navPoint>
+      <navPoint id="num_131" playOrder="131" class="chapter">
+        <navLabel>
+          <text>Judgments of facticity and possibility</text>
+        </navLabel>
+        <content src="index_split_022.html#id_Juicios_de_facticidad_y_de_posib"/>
+      </navPoint>
+      <navPoint id="num_132" playOrder="132" class="chapter">
+        <navLabel>
+          <text>Ontological facticity</text>
+        </navLabel>
+        <content src="index_split_022.html#id_La_facticidad_ontologica"/>
+      </navPoint>
+      <navPoint id="num_133" playOrder="133" class="chapter">
+        <navLabel>
+          <text>Historical facticity</text>
+        </navLabel>
+        <content src="index_split_022.html#id_La_facticidad_historica"/>
+      </navPoint>
+      <navPoint id="num_134" playOrder="134" class="chapter">
+        <navLabel>
+          <text>We can accept or reject judgments of facticity and possibility.</text>
+        </navLabel>
+        <content src="index_split_022.html#id_Podemos_aceptar_o_rechazar_los_j"/>
+      </navPoint>
+      <navPoint id="num_135" playOrder="135" class="chapter">
+        <navLabel>
+          <text>The mood of resentment</text>
+        </navLabel>
+        <content src="index_split_022.html#id_El_estado_de_animo_del_resentimi"/>
+      </navPoint>
+      <navPoint id="num_136" playOrder="136" class="chapter">
+        <navLabel>
+          <text>The state of mind of acceptance and peace</text>
+        </navLabel>
+        <content src="index_split_022.html#id_El_estado_de_animo_de_aceptacion"/>
+      </navPoint>
+      <navPoint id="num_137" playOrder="137" class="chapter">
+        <navLabel>
+          <text>From resentment to acceptance</text>
+        </navLabel>
+        <content src="index_split_022.html#id_Del_resentimiento_a_la_aceptacio"/>
+      </navPoint>
+      <navPoint id="num_138" playOrder="138" class="chapter">
+        <navLabel>
+          <text>Making clear promises</text>
+        </navLabel>
+        <content src="index_split_022.html#id_Formular_promesas_claras"/>
+      </navPoint>
+      <navPoint id="num_139" playOrder="139" class="chapter">
+        <navLabel>
+          <text>Commit to sharing some private conversations and allow complaints</text>
+        </navLabel>
+        <content src="index_split_022.html#id_Comprometerse_a_compartir_alguna"/>
+      </navPoint>
+      <navPoint id="num_140" playOrder="140" class="chapter">
+        <navLabel>
+          <text>The state of mind of resignation</text>
+        </navLabel>
+        <content src="index_split_022.html#id_El_estado_de_animo_de_la_resigna"/>
+      </navPoint>
+      <navPoint id="num_141" playOrder="141" class="chapter">
+        <navLabel>
+          <text>The state of mind of ambition</text>
+        </navLabel>
+        <content src="index_split_022.html#id_El_estado_de_animo_de_la_ambicio"/>
+      </navPoint>
+      <navPoint id="num_142" playOrder="142" class="chapter">
+        <navLabel>
+          <text>From resignation to ambition</text>
+        </navLabel>
+        <content src="index_split_022.html#id_De_la_resignacion_a_la_ambicion"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_143" playOrder="143" class="chapter">
+      <navLabel>
+        <text>CHAPTER 10: TOWARDS AN ONTOLOGY OF THE PERSON</text>
+      </navLabel>
+      <content src="index_split_023.html"/>
+      <navPoint id="num_144" playOrder="144" class="chapter">
+        <navLabel>
+          <text>What constitutes human beings</text>
+        </navLabel>
+        <content src="index_split_024.html#id_Lo_que_constituye_a_los_seres_hu"/>
+      </navPoint>
+      <navPoint id="num_145" playOrder="145" class="chapter">
+        <navLabel>
+          <text>Our traditional understanding of the person</text>
+        </navLabel>
+        <content src="index_split_024.html#id_Nuestra_comprension_tradicional"/>
+      </navPoint>
+      <navPoint id="num_146" playOrder="146" class="chapter">
+        <navLabel>
+          <text>Moving away from metaphysical psychology: critical reconstruction of characterizations</text>
+        </navLabel>
+        <content src="index_split_024.html#id_Alejandonos_de_la_psicologia_met"/>
+      </navPoint>
+      <navPoint id="num_147" playOrder="147" class="chapter">
+        <navLabel>
+          <text>We are what we do</text>
+        </navLabel>
+        <content src="index_split_024.html#id_Somos_de_acuerdo_a_como_actuamos"/>
+      </navPoint>
+      <navPoint id="num_148" playOrder="148" class="chapter">
+        <navLabel>
+          <text>The person as an explanatory principle</text>
+        </navLabel>
+        <content src="index_split_024.html#id_La_persona_como_principio_explic"/>
+      </navPoint>
+      <navPoint id="num_149" playOrder="149" class="chapter">
+        <navLabel>
+          <text>Who has the correct story?</text>
+        </navLabel>
+        <content src="index_split_024.html#id_Quien_tiene_la_historia_correct"/>
+      </navPoint>
+      <navPoint id="num_150" playOrder="150" class="chapter">
+        <navLabel>
+          <text>The person as an evolutionary trait</text>
+        </navLabel>
+        <content src="index_split_024.html#id_La_persona_como_rasgo_evolutivo"/>
+      </navPoint>
+      <navPoint id="num_151" playOrder="151" class="chapter">
+        <navLabel>
+          <text>How is the person constituted?</text>
+        </navLabel>
+        <content src="index_split_024.html#id_Como_esta_constituida_la_person"/>
+      </navPoint>
+      <navPoint id="num_152" playOrder="152" class="chapter">
+        <navLabel>
+          <text>The pitfalls of language</text>
+        </navLabel>
+        <content src="index_split_024.html#id_Las_trampas_del_lenguaje"/>
+      </navPoint>
+      <navPoint id="num_153" playOrder="153" class="chapter">
+        <navLabel>
+          <text>The person as an active principle of coherence</text>
+        </navLabel>
+        <content src="index_split_024.html#id_La_persona_como_principio_activo"/>
+      </navPoint>
+      <navPoint id="num_154" playOrder="154" class="chapter">
+        <navLabel>
+          <text>The social construction of the person</text>
+        </navLabel>
+        <content src="index_split_024.html#id_La_construccion_social_de_la_per"/>
+      </navPoint>
+      <navPoint id="num_155" playOrder="155" class="chapter">
+        <navLabel>
+          <text>The relationship between language and community</text>
+        </navLabel>
+        <content src="index_split_024.html#id_La_relacion_entre_lenguaje_y_com"/>
+      </navPoint>
+      <navPoint id="num_156" playOrder="156" class="chapter">
+        <navLabel>
+          <text>The five basic domains of the person</text>
+        </navLabel>
+        <content src="index_split_024.html#id_Los_cinco_dominios_basicos_de_la"/>
+        <navPoint id="num_157" playOrder="157" class="chapter">
+          <navLabel>
+            <text>1. The person as an experiential domain</text>
+          </navLabel>
+          <content src="index_split_024.html#id_1__La_persona_como_dominio_exper"/>
+        </navPoint>
+        <navPoint id="num_158" playOrder="158" class="chapter">
+          <navLabel>
+            <text>2. The person as a discursive domain</text>
+          </navLabel>
+          <content src="index_split_024.html#id_2__La_persona_como_dominio_discu"/>
+        </navPoint>
+        <navPoint id="num_159" playOrder="159" class="chapter">
+          <navLabel>
+            <text>3. The person as a performative domain</text>
+          </navLabel>
+          <content src="index_split_024.html#id_3__La_persona_como_dominio_perfo"/>
+        </navPoint>
+        <navPoint id="num_160" playOrder="160" class="chapter">
+          <navLabel>
+            <text>4. The person as a moral domain</text>
+          </navLabel>
+          <content src="index_split_024.html#id_4__La_persona_como_dominio_moral"/>
+        </navPoint>
+        <navPoint id="num_161" playOrder="161" class="chapter">
+          <navLabel>
+            <text>5. The person as an emotional domain</text>
+          </navLabel>
+          <content src="index_split_024.html#id_5__La_persona_como_dominio_emoci"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_162" playOrder="162" class="chapter">
+        <navLabel>
+          <text>The conservative forces of the person</text>
+        </navLabel>
+        <content src="index_split_024.html#id_Las_fuerzas_conservadoras_de_la"/>
+      </navPoint>
+      <navPoint id="num_163" playOrder="163" class="chapter">
+        <navLabel>
+          <text>The transformative forces of the person</text>
+        </navLabel>
+        <content src="index_split_024.html#id_Las_fuerzas_transformadoras_de_l"/>
+      </navPoint>
+      <navPoint id="num_164" playOrder="164" class="chapter">
+        <navLabel>
+          <text>Life and literature</text>
+        </navLabel>
+        <content src="index_split_024.html#id_Vida_y_literatura"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_165" playOrder="165" class="chapter">
+      <navLabel>
+        <text>CHAPTER 11: THE LANGUAGE OF POWER</text>
+      </navLabel>
+      <content src="index_split_025.html"/>
+      <navPoint id="num_166" playOrder="166" class="chapter">
+        <navLabel>
+          <text>The traditional conception of power</text>
+        </navLabel>
+        <content src="index_split_026.html#id_La_concepcion_tradicional_del_po"/>
+      </navPoint>
+      <navPoint id="num_167" playOrder="167" class="chapter">
+        <navLabel>
+          <text>The path of truth</text>
+        </navLabel>
+        <content src="index_split_026.html#id_El_camino_de_la_verdad"/>
+      </navPoint>
+      <navPoint id="num_168" playOrder="168" class="chapter">
+        <navLabel>
+          <text>The path of salvation</text>
+        </navLabel>
+        <content src="index_split_026.html#id_El_camino_de_la_salvacion"/>
+      </navPoint>
+      <navPoint id="num_169" playOrder="169" class="chapter">
+        <navLabel>
+          <text>The hidden paths of power</text>
+        </navLabel>
+        <content src="index_split_026.html#id_Los_caminos_encubiertos_del_pode"/>
+      </navPoint>
+      <navPoint id="num_170" playOrder="170" class="chapter">
+        <navLabel>
+          <text>Power as a linguistic phenomenon</text>
+        </navLabel>
+        <content src="index_split_026.html#id_El_poder_como_fenomeno_linguisti"/>
+      </navPoint>
+      <navPoint id="num_171" playOrder="171" class="chapter">
+        <navLabel>
+          <text>Power as linguistic distinction</text>
+        </navLabel>
+        <content src="index_split_026.html#id_El_poder_como_distincion_linguis"/>
+      </navPoint>
+      <navPoint id="num_172" playOrder="172" class="chapter">
+        <navLabel>
+          <text>Power is a judgment</text>
+        </navLabel>
+        <content src="index_split_026.html#id_El_poder_es_un_juicio"/>
+      </navPoint>
+      <navPoint id="num_173" playOrder="173" class="chapter">
+        <navLabel>
+          <text>The power of language</text>
+        </navLabel>
+        <content src="index_split_026.html#id_El_poder_del_lenguaje"/>
+      </navPoint>
+      <navPoint id="num_174" playOrder="174" class="chapter">
+        <navLabel>
+          <text>The facticity of power</text>
+        </navLabel>
+        <content src="index_split_026.html#id_La_facticidad_del_poder"/>
+      </navPoint>
+      <navPoint id="num_175" playOrder="175" class="chapter">
+        <navLabel>
+          <text>Learning as a strategy of power</text>
+        </navLabel>
+        <content src="index_split_026.html#id_El_aprendizaje_como_estrategia_d"/>
+      </navPoint>
+      <navPoint id="num_176" playOrder="176" class="chapter">
+        <navLabel>
+          <text>Seduction, institutional authority, and force as strategies of power</text>
+        </navLabel>
+        <content src="index_split_026.html#id_Seduccion__autoridad_institucion"/>
+      </navPoint>
+      <navPoint id="num_177" playOrder="177" class="chapter">
+        <navLabel>
+          <text>The judgment of the possible: Chrysippus of Soli</text>
+        </navLabel>
+        <content src="index_split_026.html#id_El_juicio_de_lo_posible__Crisipo"/>
+      </navPoint>
+      <navPoint id="num_178" playOrder="178" class="chapter">
+        <navLabel>
+          <text>Power and Emotionality</text>
+        </navLabel>
+        <content src="index_split_026.html#id_Poder_y_emocionalidad"/>
+      </navPoint>
+      <navPoint id="num_179" playOrder="179" class="chapter">
+        <navLabel>
+          <text>The affirmation of life and the path to power</text>
+        </navLabel>
+        <content src="index_split_026.html#id_La_afirmacion_de_la_vida_y_el_ca"/>
+      </navPoint>
+      <navPoint id="num_180" playOrder="180" class="chapter">
+        <navLabel>
+          <text>The politics of the soul</text>
+        </navLabel>
+        <content src="index_split_026.html#id_La_politica_del_alma"/>
+        <navPoint id="num_181" playOrder="181" class="chapter">
+          <navLabel>
+            <text>1. Politics as government.</text>
+          </navLabel>
+          <content src="index_split_026.html#id_1__La_politica_como_gobierno"/>
+        </navPoint>
+        <navPoint id="num_182" playOrder="182" class="chapter">
+          <navLabel>
+            <text>2. Politics as the exercise of freedom.</text>
+          </navLabel>
+          <content src="index_split_026.html#id_2__La_politica_como_ejercicio_de"/>
+        </navPoint>
+        <navPoint id="num_183" playOrder="183" class="chapter">
+          <navLabel>
+            <text>3. Politics as the art of the possible.</text>
+          </navLabel>
+          <content src="index_split_026.html#id_3__La_politica_como_arte_de_lo_p"/>
+        </navPoint>
+        <navPoint id="num_184" playOrder="184" class="chapter">
+          <navLabel>
+            <text>4. Politics as leadership.</text>
+          </navLabel>
+          <content src="index_split_026.html#id_4__La_politica_como_liderazgo"/>
+        </navPoint>
+        <navPoint id="num_185" playOrder="185" class="chapter">
+          <navLabel>
+            <text>5. Politics as a space for entrepreneurial individuals to flourish.</text>
+          </navLabel>
+          <content src="index_split_026.html#id_5__La_politica_como_espacio_de_d"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_186" playOrder="186" class="chapter">
+        <navLabel>
+          <text>Life as a work of art</text>
+        </navLabel>
+        <content src="index_split_026.html#id_La_vida_como_obra_de_arte"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_187" playOrder="187" class="chapter">
+      <navLabel>
+        <text>BIBLIOGRAPHY</text>
+      </navLabel>
+      <content src="index_split_027.html"/>
+    </navPoint>
+    <navPoint id="num_188" playOrder="188" class="chapter">
+      <navLabel>
+        <text>NOTES</text>
+      </navLabel>
+      <content src="index_split_028.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

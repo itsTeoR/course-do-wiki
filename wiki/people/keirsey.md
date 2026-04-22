@@ -1,7 +1,7 @@
 ---
 type: person
 tradition: [keirsey]
-related: [[four_temperaments_keirsey]], [[pygmalion_project]]
+related: [[four_temperaments_keirsey]], [[pygmalion_project]], [[environment_design_vs_temperament]]
 ---
 
 # Дэвид Кирси (David W. Keirsey, 1921–2013)

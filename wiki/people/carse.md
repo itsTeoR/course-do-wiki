@@ -1,7 +1,7 @@
 ---
 type: person
 tradition: [carse]
-related: [[finite_and_infinite_games]], [[infinite_game]]
+related: [[finite_and_infinite_games]], [[infinite_game]], [[horizon_vs_boundary]], [[power_vs_strength]]
 ---
 
 # Джеймс П. Карс (James P. Carse)

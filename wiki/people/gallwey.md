@@ -3,7 +3,7 @@ name: Тимоти Голлвей
 description: Американский теннисный тренер, перенёсший метод Inner Game из спорта в работу; автор The Inner Game of Tennis (1974) и The Inner Game of Work (2000)
 type: person
 tradition: [gallwey]
-related: [[inner_game]], [[self_1_self_2]], [[stop_tool]], [[work_triangle]], [[focus_of_attention]]
+related: [[inner_game]], [[self_1_self_2]], [[stop_tool]], [[work_triangle]], [[focus_of_attention]], [[via_negativa_goldratt_gallwey]]
 ---
 
 # Тимоти Голлвей (W. Timothy Gallwey)

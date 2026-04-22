@@ -3,7 +3,7 @@ name: Элияху Голдратт (Eliyahu M. Goldratt)
 description: Израильский физик и консультант, сформулировавший Theory of Constraints и написавший производственный роман *The Goal*
 type: person
 tradition: [goldratt]
-related: [[theory_of_constraints]], [[five_focusing_steps]], [[throughput_inventory_operating_expense]], [[bottleneck_and_drum_buffer_rope]]
+related: [[theory_of_constraints]], [[five_focusing_steps]], [[throughput_inventory_operating_expense]], [[bottleneck_and_drum_buffer_rope]], [[via_negativa_goldratt_gallwey]]
 ---
 
 # Элияху Голдратт (Eliyahu M. Goldratt, 1947–2011)

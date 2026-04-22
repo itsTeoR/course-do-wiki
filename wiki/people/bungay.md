@@ -3,9 +3,8 @@ name: Стивен Бангей
 description: Британский консультант по управлению и военный историк; переносит прусскую военную доктрину XIX века на корпоративное исполнение
 type: person
 tradition: [bungay]
-week: []
 density: medium
-related: [[art_of_action]], [[three_gaps]], [[directed_opportunism]], [[briefing_and_backbriefing]]
+related: [[art_of_action]], [[three_gaps]], [[directed_opportunism]], [[briefing_and_backbriefing]], [[friction_clausewitz]]
 ---
 
 # Стивен Бангей (Stephen Bungay)

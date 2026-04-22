@@ -1,7 +1,7 @@
 ---
 type: person
 tradition: [sarasvathy]
-related: [[effectuation]], [[affordable_loss]], [[control_vs_prediction]]
+related: [[effectuation]], [[bird_in_hand]], [[affordable_loss]], [[lemonade_principle]], [[crazy_quilt]], [[the_ask]], [[control_vs_prediction]], [[effectuation_vs_goal_setting]], [[affordable_loss_karma_yoga]]
 ---
 
 # Сарас Сарасвати (Saras D. Sarasvathy)

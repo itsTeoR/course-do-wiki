@@ -1,7 +1,7 @@
 ---
 type: person
 tradition: [mcadams, narrative-psychology]
-related: [[redemptive_self]], [[narrative_identity]], [[generativity]]
+related: [[redemptive_self]], [[narrative_identity]], [[generativity]], [[agency_and_communion]], [[redemption_and_contamination_sequences]]
 ---
 
 # Дэн Макадамс (Dan P. McAdams, р. 1954)

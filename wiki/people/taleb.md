@@ -3,9 +3,8 @@ name: Нассим Николас Талеб (Nassim Nicholas Taleb)
 description: Ливано-американский эссеист, трейдер, философ-практик случайности; автор цикла Incerto (Fooled by Randomness, The Black Swan, Antifragile, Skin in the Game, The Bed of Procrustes)
 type: person
 tradition: [taleb]
-week: [3, 4]
 density: high
-related: [[antifragile]], [[via_negativa]], [[barbell_strategy]], [[optionality_and_convexity]], [[iatrogenics]], [[lindy_effect]], [[skin_in_the_game_taleb]], [[ecological_vs_ludic]]
+related: [[antifragile]], [[via_negativa]], [[barbell_strategy]], [[optionality_and_convexity]], [[iatrogenics]], [[lindy_effect]], [[skin_in_the_game_taleb]], [[ecological_vs_ludic]], [[fragile_robust_antifragile_triad]], [[via_negativa_goldratt_gallwey]]
 ---
 
 ## Происхождение и профиль

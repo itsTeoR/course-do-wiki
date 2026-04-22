@@ -3,7 +3,7 @@ name: Михай Чиксентмихайи (Mihaly Csikszentmihalyi)
 description: Американский психолог венгерского происхождения, автор концепции flow и системного взгляда на креативность через связку domain-field-person
 type: person
 tradition: [csikszentmihalyi]
-related: [[flow_conditions_for_creativity]], [[domain_field_person]], [[creative_personality_ten_dialectics]]
+related: [[creativity_csikszentmihalyi]], [[flow_conditions_for_creativity]], [[domain_field_person]], [[creative_personality_ten_dialectics]], [[creative_process_five_phases]]
 ---
 
 Михай Чиксентмихайи (Mihaly Csikszentmihalyi, 1934–2021) — американский

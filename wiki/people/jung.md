@@ -1,7 +1,7 @@
 ---
 type: person
 tradition: [jung]
-related: [[psychological_types_jung]], [[rational_vs_irrational_functions]]
+related: [[psychological_types_jung]], [[rational_vs_irrational_functions]], [[creative_personality_ten_dialectics]], [[environment_design_vs_temperament]]
 ---
 
 # Карл Густав Юнг (Carl Gustav Jung, 1875–1961)

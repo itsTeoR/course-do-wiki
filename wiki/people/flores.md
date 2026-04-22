@@ -1,7 +1,7 @@
 ---
 type: person
 tradition: [flores, speech-act-theory]
-related: [[conversations_for_action]], [[speech_acts]], [[conditions_of_satisfaction]], [[assessments_vs_assertions]], [[moods_and_trust]], [[conversations_for_possibilities]]
+related: [[ontology_of_language]], [[conversations_for_action]], [[speech_acts]], [[conditions_of_satisfaction]], [[assessments_vs_assertions]], [[moods_and_trust]], [[conversations_for_possibilities]], [[four_types_of_conversation]]
 ---
 
 # Фернандо Флорес (Fernando Flores, р. 1943)

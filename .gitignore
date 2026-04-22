@@ -1,9 +1,14 @@
 .DS_Store
-.obsidian/workspace*
-.obsidian/cache
+.obsidian/
 *.tmp
 
 # Source materials in raw/ are not tracked — they are often copyrighted
 # and heavy. Folders themselves stay via .gitkeep.
 raw/**/*.pdf
 raw/**/*.epub
+
+# Claude Code session state
+.claude/worktrees/
+
+# Personal hypothesis notes — managed by hand, never committed
+course/hypothesis/

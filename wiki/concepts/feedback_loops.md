@@ -3,8 +3,6 @@ name: Обратные связи (feedback loops)
 description: Балансирующие и усиливающие контуры у Медоуз; доминирование и переключение контуров как источник сложного поведения систем
 type: concept
 tradition: [meadows]
-week: []
-p-j-stance: neutral
 density: medium
 related: [[thinking_in_systems]], [[stocks_and_flows]], [[leverage_points]], [[system_traps]]
 ---

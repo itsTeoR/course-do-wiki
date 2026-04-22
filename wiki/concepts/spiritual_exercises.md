@@ -3,8 +3,6 @@ name: Spiritual exercises (духовные упражнения, exercitia spir
 description: Центральный концепт Адо — практики самопреобразования в античной философии, от которых осталась только схема в Exercitia Игнатия
 type: concept
 tradition: [hadot, stoicism, epicureanism, platonism]
-week: []
-p-j-stance: unclear
 density: high
 related: [[philosophy_as_way_of_life]], [[philosophical_discourse_vs_way_of_life]], [[view_from_above]], [[three_disciplines]], [[hadot]]
 ---

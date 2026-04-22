@@ -3,8 +3,6 @@ name: Tiny Habits (Fogg)
 description: Инженерный метод поведенческого дизайна от Б. Дж. Фогга — как формировать новые привычки через крошечный размер, якорь и празднование
 type: framework
 tradition: [fogg]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[fogg_behavior_model]], [[tiny_habits_recipe]], [[celebration_wires_habit]], [[ability_chain]], [[fogg]]
 ---

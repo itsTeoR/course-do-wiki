@@ -1,8 +1,6 @@
 ---
 type: framework
 tradition: [sarasvathy]
-week: []
-p-j-stance: p-mode
 related: [[affordable_loss]], [[control_vs_prediction]], [[sarasvathy]], [[bird_in_hand]], [[crazy_quilt]], [[lemonade_principle]], [[the_ask]]
 ---
 

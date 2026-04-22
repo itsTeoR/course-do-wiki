@@ -3,8 +3,6 @@ name: Self 1 и Self 2
 description: Центральное различение Голлвея — голос, который комментирует и управляет, и тот, кто собственно делает
 type: concept
 tradition: [gallwey]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[inner_game]], [[stop_tool]], [[focus_of_attention]]
 ---

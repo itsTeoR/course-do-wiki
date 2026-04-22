@@ -3,8 +3,6 @@ name: Антихрупкость (antifragile)
 description: Фреймворк Талеба — вещи, которые выигрывают от беспорядка; нахождение триады fragile/robust/antifragile через чувствительность к волатильности
 type: framework
 tradition: [taleb]
-week: [1, 2, 3]
-p-j-stance: tension
 density: high
 related: [[fragile_robust_antifragile_triad]], [[via_negativa]], [[barbell_strategy]], [[optionality_and_convexity]], [[iatrogenics]], [[skin_in_the_game_taleb]], [[lindy_effect]], [[ecological_vs_ludic]], [[taleb]]
 ---

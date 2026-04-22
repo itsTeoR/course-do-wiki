@@ -3,8 +3,6 @@ name: Оптциональность и convexity
 description: Талебовское понятие опции как вектора антихрупкости; выигрыш не требует предсказания, если payoff выпуклый; анекдот о Фалесе как прообраз
 type: concept
 tradition: [taleb]
-week: [3, 4]
-p-j-stance: p-mode
 density: high
 related: [[antifragile]], [[fragile_robust_antifragile_triad]], [[barbell_strategy]], [[affordable_loss]]
 ---

@@ -3,8 +3,6 @@ name: Пять принципов Leadership Presence (Строцци-Хэкле
 description: Центрирование, поворот-к, расширение, вхождение, слияние — пять принципов, составляющих аккорд присутствия лидера
 type: concept
 tradition: [strozzi-heckler, somatics, aikido]
-week: []
-p-j-stance: neutral
 related: [[leadership_dojo]], [[body_of_leader_domains]], [[you_are_what_you_practice]], [[conversations_for_action]], [[self_1_self_2]], [[stop_tool]]
 ---
 

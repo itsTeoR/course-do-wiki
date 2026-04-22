@@ -3,8 +3,6 @@ name: Пьер Адо (Pierre Hadot)
 description: Французский историк античной философии (1922–2010), реконструировавший философию как bios; повлиял на Фуко и на современное возрождение интереса к стоицизму и эпикурейству
 type: person
 tradition: [hadot, ancient_philosophy]
-week: []
-p-j-stance: unclear
 density: high
 related: [[philosophy_as_way_of_life]], [[spiritual_exercises]], [[philosophical_discourse_vs_way_of_life]], [[view_from_above]], [[three_disciplines]]
 ---

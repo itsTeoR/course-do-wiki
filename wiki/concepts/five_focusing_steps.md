@@ -3,8 +3,6 @@ name: Пять шагов фокусировки (Five Focusing Steps)
 description: Операциональная процедура Theory of Constraints — пять шагов для работы с ограничением системы, повторяющихся циклически
 type: concept
 tradition: [goldratt]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[theory_of_constraints]], [[bottleneck_and_drum_buffer_rope]], [[throughput_inventory_operating_expense]], [[goldratt]]
 ---

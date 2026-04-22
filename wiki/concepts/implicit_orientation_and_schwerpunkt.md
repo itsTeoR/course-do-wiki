@@ -3,8 +3,6 @@ name: Ориентация как Schwerpunkt и неявное командов
 description: Ориентация — не этап OODA, а фокус-точка всего процесса; implicit cross-referencing, implicit guidance, Schwerpunkt/mission как основа организации
 type: concept
 tradition: [boyd]
-week: []
-p-j-stance: unclear
 density: high
 related: [[boyd]], [[ooda_loop]], [[patterns_of_conflict]], [[categories_of_conflict]], [[destruction_and_creation]], [[directed_opportunism]]
 ---

@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [rubin]
-week: []
-p-j-stance: neutral
 related: [[four_tendencies]], [[external_accountability]], [[obliger_rebellion]]
 ---
 

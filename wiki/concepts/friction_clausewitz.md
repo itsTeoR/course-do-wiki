@@ -3,9 +3,7 @@ name: Friction по Клаузевицу
 description: Клаузевицево понятие общего сопротивления реальности, делающего планы приблизительными; у Бангея — базовый структурный факт организационной жизни
 type: concept
 tradition: [bungay, clausewitz]
-week: []
 density: medium
-p-j-stance: unclear
 related: [[art_of_action]], [[three_gaps]], [[directed_opportunism]]
 ---
 

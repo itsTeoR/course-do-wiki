@@ -1,5 +1,12 @@
 {
   "permissions": {
+    "deny": [
+      "Read(./course/hypothesis/**)",
+      "Edit(./course/hypothesis/**)",
+      "Write(./course/hypothesis/**)",
+      "MultiEdit(./course/hypothesis/**)",
+      "NotebookEdit(./course/hypothesis/**)"
+    ],
     "allow": [
       "Bash(git add *)",
       "Bash(git add:*)",

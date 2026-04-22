@@ -3,8 +3,6 @@ name: Focus of Attention — внимание на критические пер
 description: Центральный рабочий приём Inner Game — направить внимание на нейтральную критическую переменную и отпустить Self 1
 type: concept
 tradition: [gallwey]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[inner_game]], [[self_1_self_2]], [[stop_tool]]
 ---

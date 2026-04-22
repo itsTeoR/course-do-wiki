@@ -3,8 +3,6 @@ name: Throughput / Inventory / Operating Expense
 description: Три операционные метрики Голдратта, через которые оценивается любое решение на заводе — и любое решение в любой системе с потоком
 type: concept
 tradition: [goldratt]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[theory_of_constraints]], [[five_focusing_steps]], [[goldratt]]
 ---

@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [echeverria]
-week: []
-p-j-stance: unclear
 related: [[ontology_of_language]], [[speech_acts]], [[echeverria]]
 ---
 

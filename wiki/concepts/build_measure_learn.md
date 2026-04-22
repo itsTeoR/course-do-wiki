@@ -3,8 +3,6 @@ name: Build-Measure-Learn
 description: Центральная петля в методе Риса — научение через цикл «сделать → измерить → научиться», а не через линейное производство продукта
 type: concept
 tradition: [ries]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[lean_startup]], [[mvp]], [[pivot_or_persevere]], [[ries]]
 ---

@@ -3,9 +3,7 @@ name: Адаптивные и технические вызовы
 description: Различение Хейфетца, на котором строится диагноз Кигана; технический вызов решается навыком, адаптивный — только изменением самого субъекта
 type: concept
 tradition: [kegan, lahey, heifetz]
-week: []
 density: medium
-p-j-stance: unclear
 related: [[immunity_to_change]], [[immunity_map]], [[big_assumptions]], [[mental_complexity_stages]]
 ---
 

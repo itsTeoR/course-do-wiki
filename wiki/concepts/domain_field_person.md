@@ -3,8 +3,6 @@ name: Domain / Field / Person — системный состав креатив
 description: Треугольник Чиксентмихайи — креативность возникает только на пересечении символического домена, социального поля экспертов и индивида
 type: concept
 tradition: [csikszentmihalyi]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[creativity_csikszentmihalyi]], [[csikszentmihalyi]], [[creative_personality_ten_dialectics]]
 ---

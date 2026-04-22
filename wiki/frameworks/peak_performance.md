@@ -1,8 +1,6 @@
 ---
 type: framework
 tradition: [stulberg, magness]
-week: []
-p-j-stance: unclear
 related: [[stress_plus_rest]], [[purpose_as_performance]], [[stulberg_magness]]
 ---
 

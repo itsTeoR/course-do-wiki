@@ -3,8 +3,6 @@ name: Ability Chain — пять факторов способности
 description: Инструмент Фогга для диагностики «что именно мешает сделать это поведение» через пять звеньев — время, деньги, физическое усилие, умственное усилие, соответствие рутине
 type: concept
 tradition: [fogg]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[tiny_habits]], [[fogg_behavior_model]], [[tiny_habits_recipe]]
 ---

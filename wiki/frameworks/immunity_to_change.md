@@ -3,9 +3,7 @@ name: Иммунитет к изменениям (Immunity to Change)
 description: Фреймворк Кигана и Лейски о том, почему искренне желаемое изменение систематически не происходит; диагностика (immunity map) и работа с Big Assumption
 type: framework
 tradition: [kegan, lahey]
-week: []
 density: medium
-p-j-stance: unclear
 related: [[immunity_map]], [[adaptive_vs_technical]], [[big_assumptions]], [[mental_complexity_stages]], [[kegan]]
 ---
 

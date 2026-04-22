@@ -1,8 +1,6 @@
 ---
 type: framework
 tradition: [jung]
-week: []
-p-j-stance: unclear
 related: [[rational_vs_irrational_functions]], [[jung]]
 ---
 

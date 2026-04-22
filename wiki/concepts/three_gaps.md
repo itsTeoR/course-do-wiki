@@ -3,9 +3,7 @@ name: Три разрыва (three gaps)
 description: Диагноз Бангея, почему корпоративные планы не превращаются в результат; три структурно разные проблемы, требующие разных ответов
 type: concept
 tradition: [bungay]
-week: []
 density: medium
-p-j-stance: unclear
 related: [[art_of_action]], [[friction_clausewitz]], [[directed_opportunism]], [[briefing_and_backbriefing]]
 ---
 

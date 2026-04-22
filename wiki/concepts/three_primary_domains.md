@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [echeverria, maturana]
-week: []
-p-j-stance: unclear
 related: [[ontology_of_language]], [[moods_and_trust]], [[echeverria]]
 ---
 

@@ -3,8 +3,6 @@ name: You are what you practice (Строцци-Хэклер)
 description: Тело не умеет не практиковать; под давлением человек падает к уровню своих практик, а не поднимается к уровню ожиданий
 type: concept
 tradition: [strozzi-heckler, somatics]
-week: []
-p-j-stance: neutral
 related: [[leadership_dojo]], [[range_of_embodied_behaviors]], [[body_of_leader_domains]], [[stress_plus_rest]], [[tiny_habits_recipe]], [[immunity_to_change]]
 ---
 

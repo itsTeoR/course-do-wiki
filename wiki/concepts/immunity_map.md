@@ -3,9 +3,7 @@ name: Immunity Map
 description: Четырёхколонная диагностика Кигана и Лейски, делающая видимой систему противоречивых обязательств, из-за которой искренне желаемое изменение не происходит
 type: concept
 tradition: [kegan, lahey]
-week: []
 density: medium
-p-j-stance: unclear
 related: [[immunity_to_change]], [[big_assumptions]], [[adaptive_vs_technical]], [[mental_complexity_stages]]
 ---
 

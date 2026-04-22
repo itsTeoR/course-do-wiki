@@ -3,8 +3,6 @@ name: Patterns of Conflict (Бойд)
 description: Исторический синтез Бойда — от Сунь-цзы до XX в., из которого выводятся три категории конфликта и центральный тезис о проникновении в moral–mental–physical противника
 type: framework
 tradition: [boyd]
-week: []
-p-j-stance: unclear
 density: high
 related: [[boyd]], [[ooda_loop]], [[categories_of_conflict]], [[destruction_and_creation]], [[implicit_orientation_and_schwerpunkt]], [[directed_opportunism]]
 ---

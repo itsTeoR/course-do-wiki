@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [carse]
-week: []
-p-j-stance: unclear
 related: [[finite_and_infinite_games]], [[infinite_game]]
 ---
 

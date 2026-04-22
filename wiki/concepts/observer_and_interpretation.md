@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [echeverria, maturana, nietzsche]
-week: []
-p-j-stance: unclear
 related: [[ontology_of_language]], [[assessments_vs_assertions]], [[echeverria]]
 ---
 

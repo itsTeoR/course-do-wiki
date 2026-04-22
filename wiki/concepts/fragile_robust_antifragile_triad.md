@@ -3,8 +3,6 @@ name: Триада fragile / robust / antifragile
 description: Трёхколоночная карта объектов по их реакции на волатильность; ключ к операциональному применению антихрупкости
 type: concept
 tradition: [taleb]
-week: [2, 3]
-p-j-stance: neutral
 density: high
 related: [[antifragile]], [[barbell_strategy]], [[via_negativa]], [[optionality_and_convexity]]
 ---

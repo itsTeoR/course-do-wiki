@@ -3,8 +3,6 @@ name: Via negativa
 description: Знание и действие через вычитание — убирать наложенный вред, а не добавлять новый слой решений; Талеб как эпистемологический принцип
 type: concept
 tradition: [taleb]
-week: [2, 4]
-p-j-stance: tension
 density: high
 related: [[antifragile]], [[barbell_strategy]], [[iatrogenics]], [[lindy_effect]], [[fragile_robust_antifragile_triad]]
 ---

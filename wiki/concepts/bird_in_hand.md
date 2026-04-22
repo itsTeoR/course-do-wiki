@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [sarasvathy]
-week: []
-p-j-stance: p-mode
 related: [[effectuation]], [[sarasvathy]], [[affordable_loss]], [[crazy_quilt]]
 ---
 

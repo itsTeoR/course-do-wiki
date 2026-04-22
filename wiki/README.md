@@ -14,7 +14,7 @@
 - `tensions/` — точки, где фреймворки противоречат друг другу. Не
   сглаживаем, а фиксируем противоречие.
 
-Входная точка — [index.md](index.md).
+Входная точка — [index.md](index_do_course.md).
 
 ## Frontmatter статей
 
@@ -24,15 +24,16 @@
 ---
 type: framework | concept | bridge | tension | person
 tradition: [jung, sarasvathy, ...]
-week: [1, 3]
-p-j-stance: p-mode | j-mode | neutral | tension
+density: high | medium | low
 related: [[ссылка1]], [[ссылка2]]
 ---
 ```
 
-Поле `week` — на какие недели курса работает статья. Поле
-`p-j-stance` — как статья относится к центральной гипотезе
-(P-mode / J-mode / нейтрально / фиксирует напряжение между ними).
+Полей про курс (`week`, `p-j-stance` и т.п.) в frontmatter нет и
+быть не должно — wiki не отражает тему курса, она про авторские
+каркасы. Вся курс-работа живёт в `index_do_course.md` и
+`course/week-N/`. Подробнее — в `../CLAUDE.md`, раздел «Wiki не
+отражает тему курса».
 
 ## Связи
 

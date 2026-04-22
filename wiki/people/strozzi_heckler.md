@@ -3,8 +3,6 @@ name: Ричард Строцци-Хэклер (Richard Strozzi-Heckler)
 description: Американский соматический психолог, айкидока и педагог лидерства; основатель Strozzi Institute, автор embodied leadership как отдельной дисциплины
 type: person
 tradition: [strozzi-heckler, somatics, aikido]
-week: []
-p-j-stance: neutral
 related: [[leadership_dojo]], [[somatic_coaching]], [[body_of_leader_domains]], [[leadership_presence_principles]], [[rhythm_of_energy]], [[somatic_arc_of_transformation]], [[conditioned_tendency]], [[you_are_what_you_practice]], [[range_of_embodied_behaviors]], [[flores]], [[jung]]
 ---
 

@@ -3,8 +3,6 @@ name: MVP (minimum viable product)
 description: Самая быстрая версия продукта, позволяющая пройти один цикл Build-Measure-Learn и проверить критическую гипотезу стартапа
 type: concept
 tradition: [ries]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[lean_startup]], [[build_measure_learn]], [[pivot_or_persevere]], [[ries]]
 ---

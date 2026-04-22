@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [flores, speech-act-theory, austin, searle]
-week: []
-p-j-stance: unclear
 related: [[conversations_for_action]], [[conditions_of_satisfaction]], [[assessments_vs_assertions]], [[flores]]
 ---
 

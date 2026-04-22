@@ -3,9 +3,7 @@ name: Искусство действия (The Art of Action)
 description: Фреймворк Бангея для закрытия разрыва между стратегией и результатом; диагноз (friction, три разрыва) плюс ответ (directed opportunism, briefing/backbriefing)
 type: framework
 tradition: [bungay, moltke, clausewitz]
-week: []
 density: medium
-p-j-stance: unclear
 related: [[friction_clausewitz]], [[three_gaps]], [[directed_opportunism]], [[briefing_and_backbriefing]], [[bungay]]
 ---
 

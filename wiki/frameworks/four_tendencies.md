@@ -1,8 +1,6 @@
 ---
 type: framework
 tradition: [rubin]
-week: []
-p-j-stance: neutral
 related: [[outer_vs_inner_expectations]], [[obliger_rebellion]], [[external_accountability]], [[rubin]]
 ---
 

@@ -1,8 +1,6 @@
 ---
 type: framework
 tradition: [sher]
-week: []
-p-j-stance: unclear
 related: [[sher]], [[rewards_and_durations]], [[good_enough_job]], [[learn_try_teach_leave]], [[best_work_project]]
 ---
 

@@ -3,8 +3,6 @@ name: Somatic Arc of Transformation (Строцци-Хэклер)
 description: Четыре стадии любой настоящей трансформации — историческая форма, несвязанное пространство, новая форма, воплощение; между ними нет линейного пути
 type: concept
 tradition: [strozzi-heckler, somatics]
-week: []
-p-j-stance: neutral
 related: [[somatic_coaching]], [[rhythm_of_energy]], [[conditioned_tendency]], [[immunity_to_change]], [[leadership_dojo]]
 ---
 

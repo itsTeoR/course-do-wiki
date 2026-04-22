@@ -3,8 +3,6 @@ name: Rhythm of Energy (Строцци-Хэклер)
 description: Четыре стадии, через которые проходит любая энергия — пробуждение, нарастание, удержание, завершение; в каждой из которых человек может быть одарён или хронически застрять
 type: concept
 tradition: [strozzi-heckler, somatics]
-week: []
-p-j-stance: neutral
 related: [[somatic_coaching]], [[somatic_arc_of_transformation]], [[conditioned_tendency]], [[leadership_dojo]]
 ---
 

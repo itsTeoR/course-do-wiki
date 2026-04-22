@@ -3,8 +3,6 @@ name: OODA-петля (OODA Loop, Бойд)
 description: Не цикл из четырёх букв, а модель адаптации; ядро — ориентация (the big O) как процесс неявного перекрёстного соотнесения
 type: framework
 tradition: [boyd]
-week: []
-p-j-stance: unclear
 density: high
 related: [[boyd]], [[patterns_of_conflict]], [[destruction_and_creation]], [[conceptual_spiral]], [[implicit_orientation_and_schwerpunkt]], [[categories_of_conflict]], [[directed_opportunism]]
 ---

@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [stulberg, magness]
-week: []
-p-j-stance: unclex
 related: [[peak_performance]], [[purpose_as_performance]]
 ---
 

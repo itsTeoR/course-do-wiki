@@ -1,8 +1,6 @@
 ---
 type: framework
 tradition: [mcadams, narrative-psychology]
-week: []
-p-j-stance: tension
 related: [[mcadams]], [[narrative_identity]], [[generativity]], [[redemption_and_contamination_sequences]], [[agency_and_communion]]
 ---
 

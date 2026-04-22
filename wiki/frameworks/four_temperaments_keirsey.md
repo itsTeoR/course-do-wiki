@@ -1,8 +1,6 @@
 ---
 type: framework
 tradition: [keirsey]
-week: []
-p-j-stance: unclear
 related: [[pygmalion_project]], [[keirsey]]
 ---
 

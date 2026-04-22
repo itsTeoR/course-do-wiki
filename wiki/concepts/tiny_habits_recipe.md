@@ -3,8 +3,6 @@ name: Рецепт Tiny Habits (Anchor → Behavior → Celebration)
 description: Операциональный шаблон Фогга для построения любой новой привычки — ABC-рецепт
 type: concept
 tradition: [fogg]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[tiny_habits]], [[fogg_behavior_model]], [[celebration_wires_habit]]
 ---

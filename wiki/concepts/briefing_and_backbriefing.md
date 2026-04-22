@@ -3,9 +3,7 @@ name: Briefing и backbriefing
 description: Операциональная дисциплина Бангея для закрытия alignment gap; формат передачи задачи сверху вниз и обратной проверки, что задача понята и выполнима
 type: concept
 tradition: [bungay, moltke]
-week: []
 density: medium
-p-j-stance: unclear
 related: [[art_of_action]], [[three_gaps]], [[directed_opportunism]]
 ---
 

@@ -3,8 +3,6 @@ name: Запасы и потоки (stocks and flows)
 description: Базовая пара понятий системной динамики у Медоуз — запасы как накопление, потоки как скорость изменения; плюс два важных следствия
 type: concept
 tradition: [meadows]
-week: []
-p-j-stance: neutral
 density: medium
 related: [[thinking_in_systems]], [[feedback_loops]]
 ---

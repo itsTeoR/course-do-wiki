@@ -3,8 +3,6 @@ name: Системные ловушки и возможности
 description: Восемь повторяющихся структурных архетипов у Медоуз — policy resistance, commons, drift, escalation, success-to-successful, addiction, rule beating, wrong goal
 type: concept
 tradition: [meadows]
-week: []
-p-j-stance: neutral
 density: medium
 related: [[thinking_in_systems]], [[feedback_loops]], [[leverage_points]]
 ---

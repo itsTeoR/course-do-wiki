@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [flores]
-week: []
-p-j-stance: unclear
 related: [[conversations_for_action]], [[speech_acts]], [[flores]]
 ---
 

@@ -1,8 +1,6 @@
 ---
 type: framework
 tradition: [echeverria, flores, heidegger, nietzsche, maturana, wittgenstein]
-week: []
-p-j-stance: unclear
 related: [[personal_declarations]], [[four_types_of_conversation]], [[three_primary_domains]], [[observer_and_interpretation]], [[echeverria]], [[flores]]
 ---
 

@@ -3,8 +3,6 @@ name: Lindy effect
 description: Для нетленного (информационного, а не физического) ожидаемый остаток жизни растёт с возрастом; время — фильтр хрупкости
 type: concept
 tradition: [taleb]
-week: [2, 4]
-p-j-stance: neutral
 density: high
 related: [[antifragile]], [[via_negativa]], [[iatrogenics]], [[fragile_robust_antifragile_triad]]
 ---

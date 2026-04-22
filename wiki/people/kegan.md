@@ -3,7 +3,6 @@ name: Роберт Киган и Лайза Лейски
 description: Гарвардские исследователи развития взрослого ума; переводят стадийную теорию зрелости в диагностическую процедуру «иммунитет к изменениям»
 type: person
 tradition: [kegan, lahey]
-week: []
 density: medium
 related: [[immunity_to_change]], [[immunity_map]], [[big_assumptions]], [[adaptive_vs_technical]], [[mental_complexity_stages]]
 ---

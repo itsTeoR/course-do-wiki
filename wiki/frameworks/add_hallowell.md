@@ -1,8 +1,6 @@
 ---
 type: framework
 tradition: [hallowell, clinical-psychiatry, adhd]
-week: []
-p-j-stance: unclear
 related: [[hallowell]], [[moral_vs_neurobiological_model]]
 ---
 

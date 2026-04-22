@@ -3,8 +3,6 @@ name: Точки воздействия (leverage points)
 description: Двенадцать мест для вмешательства в систему у Медоуз, от параметров до выхода за пределы парадигм; её предупреждение о системной ошибке интуиции
 type: concept
 tradition: [meadows]
-week: []
-p-j-stance: neutral
 density: medium
 related: [[thinking_in_systems]], [[feedback_loops]], [[system_traps]]
 ---

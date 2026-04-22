@@ -3,8 +3,6 @@ name: Теория ограничений (Theory of Constraints)
 description: Производственная дисциплина Голдратта — управлять системой через её самое узкое место и тройку метрик throughput/inventory/operating expense
 type: framework
 tradition: [goldratt]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[five_focusing_steps]], [[throughput_inventory_operating_expense]], [[bottleneck_and_drum_buffer_rope]], [[goldratt]]
 ---

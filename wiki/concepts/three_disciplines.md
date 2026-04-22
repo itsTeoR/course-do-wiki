@@ -3,8 +3,6 @@ name: Три дисциплины Эпиктета (assent, desire, action)
 description: Позднестоическая свёртка духовных упражнений в три области; ядро «Размышлений» Марка Аврелия согласно реконструкции Адо
 type: concept
 tradition: [hadot, stoicism]
-week: []
-p-j-stance: unclear
 density: high
 related: [[spiritual_exercises]], [[philosophy_as_way_of_life]], [[philosophical_discourse_vs_way_of_life]], [[view_from_above]], [[hadot]]
 ---

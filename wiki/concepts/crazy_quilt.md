@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [sarasvathy]
-week: []
-p-j-stance: p-mode
 related: [[effectuation]], [[bird_in_hand]], [[the_ask]], [[affordable_loss]]
 ---
 

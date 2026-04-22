@@ -3,8 +3,6 @@ name: Диапазон воплощённых поведений (Строцци
 description: Рефлекс — привычка — рутина — практика — генеративная практика; различение, без которого невозможно говорить, где мы выбираем, а где нас выбрало
 type: concept
 tradition: [strozzi-heckler, somatics]
-week: []
-p-j-stance: neutral
 related: [[you_are_what_you_practice]], [[leadership_dojo]], [[body_of_leader_domains]], [[tiny_habits_recipe]], [[fogg_behavior_model]]
 ---
 

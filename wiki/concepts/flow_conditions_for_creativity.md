@@ -3,8 +3,6 @@ name: Flow и условия его возникновения в творчес
 description: Девять признаков flow у Чиксентмихайи и особенности их проявления в креативной работе — где обратная связь не приходит извне, а задаётся интериоризованным доменом
 type: concept
 tradition: [csikszentmihalyi]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[creativity_csikszentmihalyi]], [[self_1_self_2]], [[stress_plus_rest]], [[creative_process_five_phases]]
 ---

@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [hallowell, clinical-psychiatry]
-week: []
-p-j-stance: unclear
 related: [[hallowell]], [[add_hallowell]]
 ---
 

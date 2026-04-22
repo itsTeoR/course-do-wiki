@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [sarasvathy]
-week: []
-p-j-stance: p-mode
 related: [[effectuation]], [[control_vs_prediction]]
 ---
 

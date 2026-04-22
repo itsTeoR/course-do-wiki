@@ -3,8 +3,6 @@ name: View from above (вид сверху, cosmic perspective)
 description: Античное духовное упражнение — представить себе человеческие дела с высоты космоса, чтобы вернуть им их подлинный масштаб
 type: concept
 tradition: [hadot, stoicism, platonism, epicureanism, cynicism]
-week: []
-p-j-stance: unclear
 density: high
 related: [[spiritual_exercises]], [[philosophy_as_way_of_life]], [[three_disciplines]], [[hadot]]
 ---

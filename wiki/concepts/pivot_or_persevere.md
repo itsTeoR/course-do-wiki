@@ -3,8 +3,6 @@ name: Pivot или persevere
 description: Решение после каждой петли Build-Measure-Learn — продолжать прежний курс или структурированно сменить одну из гипотез
 type: concept
 tradition: [ries]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[lean_startup]], [[build_measure_learn]], [[mvp]], [[ries]]
 ---

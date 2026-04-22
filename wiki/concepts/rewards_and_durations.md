@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [sher]
-week: []
-p-j-stance: unclear
 related: [[refuse_to_choose]], [[sher]]
 ---
 

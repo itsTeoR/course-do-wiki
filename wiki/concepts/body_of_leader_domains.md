@@ -3,8 +3,6 @@ name: Пять доменов тела лидера (Строцци-Хэклер
 description: Действие, настроение, координация, обучение, достоинство — пять доменов, в которых проявляется тело лидера, то есть сам лидер
 type: concept
 tradition: [strozzi-heckler, somatics]
-week: []
-p-j-stance: neutral
 related: [[leadership_dojo]], [[leadership_presence_principles]], [[you_are_what_you_practice]], [[conversations_for_action]], [[speech_acts]]
 ---
 

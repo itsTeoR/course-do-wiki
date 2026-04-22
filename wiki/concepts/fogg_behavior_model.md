@@ -3,8 +3,6 @@ name: Fogg Behavior Model (B=MAP)
 description: Центральная модель Фогга — поведение случается в точке, где одновременно сходятся мотивация, способность и подсказка
 type: concept
 tradition: [fogg]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[tiny_habits]], [[tiny_habits_recipe]], [[ability_chain]]
 ---

@@ -1,8 +1,6 @@
 ---
 type: framework
 tradition: [flores, speech-act-theory]
-week: []
-p-j-stance: unclear
 related: [[speech_acts]], [[conditions_of_satisfaction]], [[conversations_for_possibilities]], [[assessments_vs_assertions]], [[moods_and_trust]], [[flores]]
 ---
 

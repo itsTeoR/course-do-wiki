@@ -3,8 +3,6 @@ name: Leadership Dojo (Strozzi-Heckler)
 description: Тренировочная среда, в которой лидерство осваивается как телесная компетентность через повторяющиеся практики, а не как набор техник
 type: framework
 tradition: [strozzi-heckler, somatics, aikido]
-week: []
-p-j-stance: neutral
 related: [[you_are_what_you_practice]], [[range_of_embodied_behaviors]], [[body_of_leader_domains]], [[leadership_presence_principles]], [[strozzi_heckler]], [[conversations_for_action]], [[ontology_of_language]], [[self_1_self_2]]
 ---
 

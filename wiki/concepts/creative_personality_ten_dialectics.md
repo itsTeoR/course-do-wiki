@@ -3,8 +3,6 @@ name: Десять диалектических пар творческой ли
 description: Ответ Чиксентмихайи на вопрос о «чертах» творческой личности — не список, а десять осей, на которых творческий человек удерживает оба полюса
 type: concept
 tradition: [csikszentmihalyi, jung]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[creativity_csikszentmihalyi]], [[csikszentmihalyi]], [[psychological_types_jung]], [[jung]]
 ---

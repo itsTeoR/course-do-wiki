@@ -3,8 +3,6 @@ name: Ecological vs ludic знание
 description: Талебов водораздел между знанием, выращенным в реальных условиях (ecological), и стерильным экзаменационно-академическим (ludic); Fat Tony против Сократа, green lumber, туристификация
 type: concept
 tradition: [taleb]
-week: [1, 4]
-p-j-stance: tension
 density: high
 related: [[antifragile]], [[via_negativa]], [[optionality_and_convexity]], [[skin_in_the_game_taleb]]
 ---

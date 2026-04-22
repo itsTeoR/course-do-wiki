@@ -3,8 +3,6 @@ name: Bottleneck и Drum-Buffer-Rope
 description: Центральная операциональная схема Theory of Constraints — ограничение задаёт ритм всей системы, перед ним держится буфер, выпуск материала привязан к его скорости
 type: concept
 tradition: [goldratt]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[theory_of_constraints]], [[five_focusing_steps]], [[throughput_inventory_operating_expense]], [[goldratt]]
 ---

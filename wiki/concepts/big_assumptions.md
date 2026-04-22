@@ -3,9 +3,7 @@ name: Big Assumptions (большие предположения)
 description: Скрытые убеждения, которые человек переживает не как убеждения, а как реальность; ключевой предмет работы Кигана и Лейски
 type: concept
 tradition: [kegan, lahey]
-week: []
 density: medium
-p-j-stance: unclear
 related: [[immunity_to_change]], [[immunity_map]], [[mental_complexity_stages]]
 ---
 

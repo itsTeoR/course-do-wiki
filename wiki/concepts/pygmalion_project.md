@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [keirsey]
-week: []
-p-j-stance: unclear
 related: [[four_temperaments_keirsey]], [[keirsey]]
 ---
 

@@ -3,8 +3,6 @@ name: Креативность как системное явление (Csiksze
 description: Рамка Чиксентмихайи для изучения творчества — связка domain/field/person, пять фаз процесса, десять диалектических черт личности, условия flow
 type: framework
 tradition: [csikszentmihalyi]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[domain_field_person]], [[creative_personality_ten_dialectics]], [[creative_process_five_phases]], [[flow_conditions_for_creativity]], [[csikszentmihalyi]]
 ---

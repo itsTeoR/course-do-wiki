@@ -3,8 +3,6 @@ name: Skin in the game (Taleb)
 description: Этический и эпистемологический тезис Талеба — нет мнения без риска; антихрупкость за чужой счёт как главный фрагилизатор общества
 type: concept
 tradition: [taleb]
-week: [4, 5]
-p-j-stance: neutral
 density: high
 related: [[antifragile]], [[fragile_robust_antifragile_triad]], [[iatrogenics]], [[via_negativa]], [[optionality_and_convexity]]
 ---

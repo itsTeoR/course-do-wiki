@@ -3,8 +3,6 @@ name: Стратегия штанги (barbell strategy)
 description: Биморальная стратегия Талеба — крайняя осторожность на одной стороне, крайняя агрессивность на другой, пустота в середине; способ получать антихрупкость
 type: concept
 tradition: [taleb]
-week: [3, 4]
-p-j-stance: p-mode
 density: high
 related: [[antifragile]], [[fragile_robust_antifragile_triad]], [[via_negativa]], [[optionality_and_convexity]], [[affordable_loss]]
 ---

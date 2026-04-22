@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [jung]
-week: []
-p-j-stance: tension
 related: [[psychological_types_jung]], [[jung]]
 ---
 

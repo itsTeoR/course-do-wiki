@@ -3,8 +3,6 @@ name: Destruction and Creation (Бойд)
 description: Эссе Бойда 1976 г. о том, как мы разрушаем старые ментальные концепции и синтезируем новые; через Гёделя, Гейзенберга и второе начало термодинамики
 type: concept
 tradition: [boyd]
-week: []
-p-j-stance: unclear
 density: high
 related: [[boyd]], [[ooda_loop]], [[conceptual_spiral]], [[patterns_of_conflict]], [[implicit_orientation_and_schwerpunkt]]
 ---

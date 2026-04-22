@@ -3,8 +3,6 @@ name: Инструмент STOP
 description: Главный практический инструмент Inner Game of Work — короткая пауза, возвращающая сознательный выбор вместо performance momentum
 type: concept
 tradition: [gallwey]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[inner_game]], [[self_1_self_2]], [[focus_of_attention]]
 ---

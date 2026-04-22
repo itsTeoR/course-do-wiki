@@ -3,9 +3,7 @@ name: Стадии ментальной сложности (Киган)
 description: Три плато взрослой ментальной сложности и механизм subject-object shift, по которому одно плато сменяется другим
 type: concept
 tradition: [kegan]
-week: []
 density: medium
-p-j-stance: unclear
 related: [[immunity_to_change]], [[immunity_map]], [[big_assumptions]], [[adaptive_vs_technical]]
 ---
 

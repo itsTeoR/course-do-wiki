@@ -3,8 +3,6 @@ name: Somatic Coaching (Strozzi-Heckler)
 description: Коучинг, работающий через тело как через единство чувствования, действия, восприятия, мысли и эмоции; трансформация способа быть, а не только деланья
 type: framework
 tradition: [strozzi-heckler, somatics, aikido]
-week: []
-p-j-stance: neutral
 related: [[leadership_dojo]], [[rhythm_of_energy]], [[somatic_arc_of_transformation]], [[conditioned_tendency]], [[strozzi_heckler]], [[you_are_what_you_practice]], [[range_of_embodied_behaviors]], [[body_of_leader_domains]]
 ---
 

@@ -3,8 +3,6 @@ name: Системное мышление (Meadows)
 description: Учебник системного мышления от Донеллы Медоуз — запасы, потоки, обратные связи, ловушки и точки воздействия
 type: framework
 tradition: [meadows]
-week: []
-p-j-stance: neutral
 density: medium
 related: [[stocks_and_flows]], [[feedback_loops]], [[leverage_points]], [[system_traps]], [[meadows]]
 ---

@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [mcadams, narrative-psychology, bakan]
-week: []
-p-j-stance: neutral
 related: [[mcadams]], [[narrative_identity]], [[redemptive_self]], [[generativity]]
 ---
 

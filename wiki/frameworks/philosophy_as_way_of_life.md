@@ -3,8 +3,6 @@ name: Philosophy as a Way of Life (Пьер Адо)
 description: Античная философия как bios, образ жизни, а не теоретическая система; реконструкция Адо и её следствия
 type: framework
 tradition: [hadot, ancient_philosophy, stoicism, epicureanism, platonism]
-week: []
-p-j-stance: unclear
 density: high
 related: [[spiritual_exercises]], [[philosophical_discourse_vs_way_of_life]], [[view_from_above]], [[three_disciplines]], [[hadot]]
 ---

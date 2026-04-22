@@ -3,8 +3,6 @@ name: Lean Startup
 description: Метод Эрика Риса — превращать предпринимательство в управляемый эксперимент через петлю Build-Measure-Learn, MVP и структурированный pivot
 type: framework
 tradition: [ries]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[build_measure_learn]], [[mvp]], [[pivot_or_persevere]], [[ries]]
 ---

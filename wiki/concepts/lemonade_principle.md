@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [sarasvathy]
-week: []
-p-j-stance: p-mode
 related: [[effectuation]], [[crazy_quilt]], [[bird_in_hand]], [[control_vs_prediction]]
 ---
 

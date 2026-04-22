@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [flores, heidegger]
-week: []
-p-j-stance: unclear
 related: [[conversations_for_action]], [[assessments_vs_assertions]], [[speech_acts]], [[flores]]
 ---
 

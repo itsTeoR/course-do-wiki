@@ -3,8 +3,6 @@ name: Внутренняя игра (Inner Game of Work)
 description: Метод Тимоти Голлвея о том, как убирать внутренние помехи — перенесённый из тенниса в работу через различение Self 1 и Self 2
 type: framework
 tradition: [gallwey]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[self_1_self_2]], [[stop_tool]], [[work_triangle]], [[focus_of_attention]], [[gallwey]]
 ---

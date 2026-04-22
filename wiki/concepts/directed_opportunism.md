@@ -3,9 +3,7 @@ name: Directed opportunism
 description: Ответ Бангея на три разрыва; современная форма Auftragstaktik Мольтке; не инструкция «как», а формулировка «что и зачем» плюс свобода на местах
 type: concept
 tradition: [bungay, moltke]
-week: []
 density: medium
-p-j-stance: unclear
 related: [[art_of_action]], [[three_gaps]], [[briefing_and_backbriefing]], [[friction_clausewitz]]
 ---
 

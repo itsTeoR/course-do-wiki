@@ -3,8 +3,6 @@ name: Треугольник работы (performance / learning / enjoyment)
 description: Рамка Голлвея о трёх равнозначных составляющих работы — результат, научение, удовольствие; все три держат форму, без любой из них рушатся остальные
 type: concept
 tradition: [gallwey]
-week: []
-p-j-stance: unclear
 density: medium
 related: [[inner_game]], [[self_1_self_2]]
 ---

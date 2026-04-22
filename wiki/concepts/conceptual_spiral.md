@@ -3,8 +3,6 @@ name: Conceptual Spiral (Бойд)
 description: Макро-процесс переориентации через бесконечное производство новизны, рассогласований и нового синтеза; парадигма выживания и роста
 type: concept
 tradition: [boyd]
-week: []
-p-j-stance: unclear
 density: high
 related: [[boyd]], [[ooda_loop]], [[destruction_and_creation]], [[patterns_of_conflict]]
 ---

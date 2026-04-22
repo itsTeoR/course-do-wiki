@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [stulberg, magness]
-week: []
-p-j-stance: unclear
 related: [[peak_performance]], [[stress_plus_rest]]
 ---
 

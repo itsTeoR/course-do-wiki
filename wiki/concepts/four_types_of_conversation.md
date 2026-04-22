@@ -1,8 +1,6 @@
 ---
 type: concept
 tradition: [echeverria, flores]
-week: []
-p-j-stance: unclear
 related: [[ontology_of_language]], [[conversations_for_action]], [[conversations_for_possibilities]], [[echeverria]]
 ---
 

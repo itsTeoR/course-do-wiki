@@ -34,6 +34,7 @@
 - [Антихрупкость (Taleb)](frameworks/antifragile.md)
 - [OODA-петля (Boyd)](frameworks/ooda_loop.md)
 - [Patterns of Conflict (Boyd)](frameworks/patterns_of_conflict.md)
+- [Philosophy as a Way of Life (Hadot)](frameworks/philosophy_as_way_of_life.md)
 
 ### Concepts — отдельные идеи
 Единичные операциональные понятия, которые можно вырвать из родного
@@ -116,6 +117,10 @@
 - [Conceptual Spiral (Boyd)](concepts/conceptual_spiral.md)
 - [Категории конфликта — attrition/maneuver/moral (Boyd)](concepts/categories_of_conflict.md)
 - [Ориентация как Schwerpunkt и неявное командование (Boyd)](concepts/implicit_orientation_and_schwerpunkt.md)
+- [Духовные упражнения (spiritual exercises, Hadot)](concepts/spiritual_exercises.md)
+- [Философский дискурс vs философия как образ жизни (Hadot)](concepts/philosophical_discourse_vs_way_of_life.md)
+- [Вид сверху (view from above, Hadot)](concepts/view_from_above.md)
+- [Три дисциплины Эпиктета (assent/desire/action)](concepts/three_disciplines.md)
 
 ### People — ключевые авторы
 Короткие справки о людях, чьи идеи мы используем. Не биографии — а
@@ -143,6 +148,7 @@
 - [Михай Чиксентмихайи (Mihaly Csikszentmihalyi)](people/csikszentmihalyi.md)
 - [Нассим Николас Талеб (Nassim Nicholas Taleb)](people/taleb.md)
 - [Джон Бойд (John R. Boyd)](people/boyd.md)
+- [Пьер Адо (Pierre Hadot)](people/hadot.md)
 
 ### Bridges — где разные традиции говорят об одном
 Самый ценный слой для курса. Карма-йога и эффектуация, Юнг и

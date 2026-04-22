@@ -69,6 +69,7 @@
 - [Immunity Map (карта иммунитета)](concepts/immunity_map.md)
 - [Адаптивные и технические вызовы](concepts/adaptive_vs_technical.md)
 - [Big Assumptions](concepts/big_assumptions.md)
+- [Стадии ментальной сложности и subject-object shift (Киган)](concepts/mental_complexity_stages.md)
 - [Stress + Rest = Growth](concepts/stress_plus_rest.md)
 - [Цель как усилитель производительности](concepts/purpose_as_performance.md)
 - [Pygmalion Project](concepts/pygmalion_project.md)

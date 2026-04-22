@@ -31,6 +31,7 @@
 - [Somatic Coaching (Strozzi-Heckler)](frameworks/somatic_coaching.md)
 - [Refuse to Choose (сканеры, Sher)](frameworks/refuse_to_choose.md)
 - [Креативность как системное явление (Csikszentmihalyi)](frameworks/creativity_csikszentmihalyi.md)
+- [Антихрупкость (Taleb)](frameworks/antifragile.md)
 
 ### Concepts — отдельные идеи
 Единичные операциональные понятия, которые можно вырвать из родного
@@ -101,6 +102,14 @@
 - [Десять диалектических пар творческой личности](concepts/creative_personality_ten_dialectics.md)
 - [Пять фаз творческого процесса](concepts/creative_process_five_phases.md)
 - [Flow и условия его возникновения в творческой работе](concepts/flow_conditions_for_creativity.md)
+- [Триада fragile / robust / antifragile (Taleb)](concepts/fragile_robust_antifragile_triad.md)
+- [Via negativa (Taleb)](concepts/via_negativa.md)
+- [Стратегия штанги (barbell strategy, Taleb)](concepts/barbell_strategy.md)
+- [Оптциональность и convexity (Taleb)](concepts/optionality_and_convexity.md)
+- [Иатрогеника и наивный интервенционизм (Taleb)](concepts/iatrogenics.md)
+- [Lindy effect (Taleb)](concepts/lindy_effect.md)
+- [Skin in the game (Taleb)](concepts/skin_in_the_game_taleb.md)
+- [Ecological vs ludic знание (Taleb)](concepts/ecological_vs_ludic.md)
 
 ### People — ключевые авторы
 Короткие справки о людях, чьи идеи мы используем. Не биографии — а
@@ -126,6 +135,7 @@
 - [Ричард Строцци-Хэклер (Richard Strozzi-Heckler)](people/strozzi_heckler.md)
 - [Барбара Шер (Barbara Sher)](people/sher.md)
 - [Михай Чиксентмихайи (Mihaly Csikszentmihalyi)](people/csikszentmihalyi.md)
+- [Нассим Николас Талеб (Nassim Nicholas Taleb)](people/taleb.md)
 
 ### Bridges — где разные традиции говорят об одном
 Самый ценный слой для курса. Карма-йога и эффектуация, Юнг и

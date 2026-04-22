@@ -1,0 +1,167 @@
+---
+type: concept
+tradition: [heifetz]
+density: medium
+related: [[adaptive_leadership]], [[productive_disequilibrium]], [[holding_environment]], [[adaptive_vs_technical]], [[immunity_to_change]]
+---
+
+# Work avoidance — механизмы избегания адаптивной работы
+
+В каркасе Хейфетца — **системный паттерн ответа на дистресс,
+который снимает напряжение, не делая работы**. Не «лень» отдельных
+людей и не моральный изъян, а воспроизводимая динамика, в которую
+системы скатываются, когда вызов адаптивный, а реакция — техническая
+или эмоциональная.
+
+> [Patterns of response] holding onto past assumptions, blaming
+> authority, scapegoating, externalizing the enemy, denying the
+> problem, jumping to conclusions, or finding a distracting issue
+> may restore stability and feel less stressful than facing and
+> taking responsibility for a complex challenge. These patterns
+> of response to disequilibrium are called work avoidance
+> mechanisms in this study, and they are similar to the defensive
+> routines that operate in individuals, small groups, and
+> organizations.
+> (raw/heifetz/heifetz.txt, гл. 2, с. 37–38)
+
+Параллель, на которую Хейфетц прямо ссылается, — *defensive
+routines* у Argyris. Но Argyris работает на уровне индивида и
+малой группы; Хейфетц расширяет до социальной системы любого
+масштаба.
+
+## Каталог типичных механизмов
+
+Из книги собирается воспроизводимый список:
+
+- **Holding onto past assumptions.** «Мы всегда так делали — и
+  это работало». Применение проверенной реакции к ситуации, где
+  она уже не подходит.
+- **Blaming authority.** Снятие с себя ответственности за работу
+  через переложение её на «начальство, которое должно было».
+- **Scapegoating.** Назначение виновного — личности или фракции —
+  и вера, что её устранение решит проблему. «Mob that burns a man
+  in effigy may believe that its problem would be solved if it
+  could burn the man himself»
+  (raw/heifetz/heifetz.txt, гл. 2, с. 38).
+- **Externalizing the enemy.** Перенос источника проблемы вовне
+  системы. У Хейфетца повторяющийся пример — drug wars как
+  замещение работы с собственными городами и
+  общественными болезнями (raw/heifetz/heifetz.txt, гл. 4, с. 73).
+- **Denying the problem.** Отказ видеть; «всё не так плохо»;
+  выкручивание данных под удобную картину.
+- **Jumping to conclusions.** Замыкание на первом удобном решении,
+  чтобы прекратить пребывание в неопределённости.
+- **Finding a distracting issue.** Перенос внимания на менее
+  тяжёлый вопрос, который позволяет «работать» и при этом не
+  трогать настоящий.
+- **Pretending the problem is technical.** Переформулирование
+  адаптивного вызова в техническом языке («давайте проведём
+  тренинг», «нам нужна новая структура»), чтобы вернуть его
+  экспертам и отказаться от собственной адаптации
+  (raw/heifetz/heifetz.txt, гл. 5, с. 128).
+- **Attacking individuals rather than issues.** Перенос конфликта
+  с предмета на личности. Нападение на провокатора оказывается
+  способом избежать его вопроса.
+
+Эти механизмы редко осознанны:
+
+> Yet though we frequently avoid adaptive work, we seldom do so
+> deliberately. Work avoidance mechanisms are often unconscious,
+> or at least disguised from the self. Sometimes they reflect
+> comforting misdiagnoses of the situation.
+> (raw/heifetz/heifetz.txt, гл. 2, с. 38)
+
+## Почему это происходит
+
+Ключевая причина у Хейфетца — **дистресс**. Адаптивная работа
+требует пересмотра ценностей, привычек, отношений; этот пересмотр
+сопровождается болью, тревогой, конфликтом. Системы, как и
+индивиды, склонны выбирать снижение боли вместо работы:
+
+> Reality testing — the effort to grasp the problem fully — is
+> often an early victim of disequilibrium. Initially, people will
+> apply routine practices for realistically assessing and
+> addressing problems. But if these do not pay early dividends,
+> restoring equilibrium may take precedence over the prolonged
+> uncertainty associated with weighing divergent views and facing
+> the need for changing attitudes and beliefs.
+> (raw/heifetz/heifetz.txt, гл. 2, с. 38)
+
+Иллюстрация на уровне семьи (raw/heifetz/heifetz.txt, гл. 2, с.
+38–39): отец, которому не удаётся успокоить плачущего ребёнка,
+сначала пробует выяснять причину; если не получается, переключается
+на снижение собственного дистресса — закрывает дверь, ударяет
+ребёнка. Когда дистресс начинает восприниматься как сама проблема
+(а не как симптом), фокус сдвигается на устранение дистресса, а
+не на понимание и работу.
+
+## Диагностика
+
+Хейфетц не предлагает алгоритма, но даёт «правила большого
+пальца» для распознавания (raw/heifetz/heifetz.txt, гл. 2, с. 39):
+
+- **Тема внезапно ушла со стола** (диверсия).
+- **Уровень стресса вокруг вопроса резко упал** — часто после
+  «технического» решения, которое не должно было решать
+  адаптивную часть.
+- **Фокус сместился с проблемы на симптомы дистресса** (как у
+  отца с ребёнком).
+- **Ответственность переложена на лёгкую мишень** (scapegoating).
+- **Действие неожиданно сделало всем хорошо** — повод хотя бы на
+  миг занять скептическую позицию.
+
+Этот же тест Хейфетц применяет к политическим решениям. На
+момент речи Bush после LA riots (1992) нельзя было сказать,
+лидерство это или избегание; это становится видимым в *следующих
+ходах* — что было сделано в недели и месяцы после восстановления
+порядка (raw/heifetz/heifetz.txt, гл. 2, с. 39).
+
+## Pacing vs avoidance — двойник работы
+
+Внешне отложение разговора про неприятный вопрос выглядит
+одинаково — и как избегание, и как обоснованное pacing (см.
+[[productive_disequilibrium]]). Хейфетц подчёркивает, что
+различение проходит не по поверхности действия, а по тому, что
+делается *далее*:
+
+> Pacing might resemble work avoidance because both can involve
+> deception. But the deception associated with pacing is a
+> temporary tactic.
+> (raw/heifetz/heifetz.txt, гл. 6, с. 165)
+
+То есть: pacing — это «отложил, чтобы потом действовать сильнее»;
+avoidance — «отложил, потому что больше не хочу возвращаться».
+
+## Контр-движение со стороны лидерства
+
+Третий из пяти стратегических принципов Хейфетца сформулирован
+именно про это:
+
+> Focus attention on ripening issues and not on stress-reducing
+> distractions. Identify which issues can currently engage
+> attention; and while directing attention to them, counteract
+> work avoidance mechanisms like denial, scapegoating,
+> externalizing the enemy, pretending the problem is technical,
+> or attacking individuals rather than issues.
+> (raw/heifetz/heifetz.txt, гл. 5, с. 128)
+
+Удержание внимания на работе — отдельный навык, отдельная
+стратегическая задача. Не ругать за избегание (которое часто
+бессознательное), а методично возвращать вопрос на стол, защищать
+тех, кто его поднимает, и вести группу через дискомфорт.
+
+## Связь с другими авторами в wiki
+
+- **Kegan/Lahey ([[immunity_to_change]])** обнаруживают похожую
+  динамику внутри индивида: behaviors, скрытые контр-обязательства,
+  большие предположения. Их immunity map — это work avoidance
+  mechanism конкретного человека, систематически воспроизводимый.
+  У Хейфетца та же логика на уровне социальной системы.
+  Tension возможна по локусу: Хейфетц диагностирует на уровне
+  системы и вмешивается через регулирование жара; Киган
+  диагностирует на уровне субъекта и вмешивается через работу с
+  его иммунной системой. Подробнее см. кандидата в реестре
+  tensions в `index_do_course.md`.
+- **Chris Argyris** (defensive routines) — прямой источник, на
+  который Хейфетц ссылается (но в wiki его статьи нет; помещаем
+  через Хейфетца как развитие).

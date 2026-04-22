@@ -1,0 +1,138 @@
+---
+name: Четыре формы интеллекта (Keirsey)
+description: Кирси различает тактический, логистический, дипломатический и стратегический интеллект — по одному на каждый темперамент; интеллект у разных людей работает по-разному, а не одинаково с разной скоростью
+type: concept
+tradition: [keirsey]
+density: medium
+related: [[four_temperaments_keirsey]], [[keirsey]]
+---
+
+# Четыре формы интеллекта (Keirsey)
+
+Параллельно четырём темпераментам Кирси вводит четыре формы
+интеллекта. Его тезис, который он разворачивает в ch. 9 «Leading
+and Intelligence»: *интеллект* — не единая способность с разной
+мощностью у разных людей; у разных темпераментов интеллект
+работает по-разному, и то, что блестяще для одного, может быть
+слепым пятном для другого.
+
+> The leader's first job is to match talent to task.
+> (raw/keirsey/please-understand-me-ii.epub, ch. 9 «Temperament
+> and Intelligence»)
+
+## Четыре формы
+
+- **Тактический интеллект** (Artisans, SP). Чтение ситуации
+  *здесь и сейчас*, способность к манёвру, импровизации,
+  использованию подручных средств. Примеры Кирси: Уинстон
+  Черчилль — «virtuoso of political maneuvering, wheeling and
+  dealing in unending political skirmishes»
+  (raw/keirsey/please-understand-me-ii.epub, ch. 9 начало). В
+  тактическом интеллекте решающий ресурс — скорость реакции и
+  чувствительность к меняющейся конфигурации.
+- **Логистический интеллект** (Guardians, SJ). Обеспечение
+  снабжения, координации, соблюдения сроков, взаимодействия
+  частей большой системы во времени. Джордж Вашингтон как
+  «superb logistical commander who, faced with obstacles of
+  incredible proportion and tenure, put in his way by his
+  Congress, his generals, and his fellow citizens, freed his
+  country from colonial bondage» (raw/keirsey/please-understand-me-ii.epub,
+  ch. 9). Логистика — не тактика; это способность *держать
+  систему целой* в течение длительного времени, не теряя
+  отдельных узлов.
+- **Дипломатический интеллект** (Idealists, NF). Работа с
+  отношениями, смыслами, взаимопониманием между сторонами. Ганди
+  как «sage of interpersonal diplomacy, seeking freedom and
+  justice for his people by appealing to the conscience of his
+  oppressors» (raw/keirsey/please-understand-me-ii.epub, ch. 9).
+  Дипломатический интеллект умеет переформулировать конфликт так,
+  чтобы стороны могли в нём существовать, и работать не через
+  силу, а через внутреннее согласие.
+- **Стратегический интеллект** (Rationals, NT). Построение
+  длинных причинно-следственных цепочек, абстрактных моделей
+  будущего, системных планов. Линкольн как «superb political and
+  military strategist who, despite the long continued blunders
+  of a train of ill-chosen generals, the weakness of the
+  Congress, and the intrigues of many of his fellow citizens,
+  saved the United States from national dissolution»
+  (raw/keirsey/please-understand-me-ii.epub, ch. 9). Стратегия —
+  не логистика; это способность *выбирать направление* и
+  удерживать его под множественным давлением.
+
+## Четыре исторические фигуры как иллюстрация
+
+Кирси прямо выстраивает четыре примера в одной рамке
+(raw/keirsey/please-understand-me-ii.epub, ch. 9):
+
+> Churchill and Gandhi, two giants of the 20th century. The
+> tactician and the diplomat, diametric opposites in leadership
+> style, yet each able to do for his country something that men
+> of other character could not possibly have done — deliver it
+> from bondage. Equally brilliant leaders, but brilliant in
+> radically different ways.
+>
+> Washington and Lincoln, two giants of earlier centuries, each
+> crucial to the survival of the United States of America … The
+> logistical leader and the strategic leader, diametric opposites
+> in both attitude and action, yet each achieving the same end.
+
+Точка Кирси: каждая из этих четырёх войн/задач требовала именно
+*своего* темперамента. Черчилль — Война 1940 г. и удержание
+Британии, сколько бы раз ни требовалось импровизировать. Ганди —
+пассивное сопротивление, где нужно *не* вступать в силовое
+противостояние. Вашингтон — удержание армии, несмотря на
+неработающий Конгресс и хронические нехватки. Линкольн —
+балансирование Гражданской войны и последующего восстановления.
+Темперамент не просто коррелирует со стилем; он *определяет*, в
+какой исторической задаче человек окажется на месте.
+
+## Следствие для руководства
+
+Прямой практический вывод, который Кирси делает — задача лидера
+состоит не в том, чтобы *заставить всех думать как он*, а в том,
+чтобы понимать, какая форма интеллекта нужна для текущей задачи
+и кто из команды ею обладает:
+
+> The leader's first job is to match talent to task … nothing has
+> greater payoff for the effective leader than recognizing the
+> kind and degree of intelligent operations needed for getting a
+> variety of jobs done.
+> (raw/keirsey/please-understand-me-ii.epub, ch. 9 «Temperament
+> and Intelligence»)
+
+SJ-лидер, поставленный на тактическую задачу (быстрая реакция на
+меняющуюся конкуренцию), будет проигрывать SP-подчинённому. NT-
+лидер, поставленный на дипломатическую задачу (разведение
+конфликта между сторонами), будет проигрывать NF-подчинённому.
+Это не «плохой лидер», это несовпадение задачи и формы интеллекта.
+
+Важно: Кирси *не* утверждает, что можно легко переключиться между
+формами. Темперамент врождён (см. [[temperament_vs_character]]),
+и каждая форма интеллекта развивается у своего темперамента
+гораздо естественнее, чем у других. Человек одного темперамента
+может научиться *работать с* другой формой интеллекта у других, но
+не стать в ней виртуозом.
+
+## Отличие от Говарда Гарднера
+
+Кирси пишет свою типологию до широкого принятия модели
+multiple intelligences Гарднера (lingvistic, logical-mathematical,
+spatial, musical и т.д.). Их подходы пересекаются в базовом
+тезисе («интеллект — не одна шкала»), но различаются:
+
+- Гарднер делит интеллект *по модальностям* (чем именно человек
+  работает — числами, пространством, словами, людьми).
+- Кирси делит интеллект *по модусу применения* независимо от
+  модальности: тактически-импровизационный, логистически-
+  поддерживающий, дипломатически-смысловой, стратегически-
+  модельный.
+
+У Кирси один и тот же человек может быть «linguistic» по
+Гарднеру и при этом работать *тактически* или *стратегически* с
+языком — это разные оси.
+
+## Источник
+
+- Keirsey, D. W. (1998). *Please Understand Me II*, ch. 9
+  «Leading and Intelligence», вступление и подраздел «Temperament
+  and Intelligence» (raw/keirsey/please-understand-me-ii.epub).

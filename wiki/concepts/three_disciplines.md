@@ -4,7 +4,7 @@ description: Позднестоическая свёртка духовных у
 type: concept
 tradition: [hadot, stoicism]
 density: high
-related: [[spiritual_exercises]], [[philosophy_as_way_of_life]], [[philosophical_discourse_vs_way_of_life]], [[view_from_above]], [[hadot]]
+related: [[spiritual_exercises]], [[philosophy_as_way_of_life]], [[philosophical_discourse_vs_way_of_life]], [[view_from_above]], [[hadot]], [[bridges/evaluative_voice_suspension]]
 ---
 
 # Три дисциплины Эпиктета

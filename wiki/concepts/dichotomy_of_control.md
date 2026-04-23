@@ -2,7 +2,7 @@
 type: concept
 tradition: [stoicism, epictetus]
 density: high
-related: [[enchiridion_epictetus]], [[epictetus]], [[judgments_not_things]], [[role_assigned]], [[three_disciplines]], [[control_vs_prediction]], [[affordable_loss]]
+related: [[enchiridion_epictetus]], [[epictetus]], [[judgments_not_things]], [[role_assigned]], [[three_disciplines]], [[control_vs_prediction]], [[affordable_loss]], [[bridges/evaluative_voice_suspension]]
 ---
 
 # Различение «в нашей власти / не в нашей власти» (Эпиктет)

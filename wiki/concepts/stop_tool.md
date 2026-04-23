@@ -4,7 +4,7 @@ description: Главный практический инструмент Inner 
 type: concept
 tradition: [gallwey]
 density: medium
-related: [[inner_game]], [[self_1_self_2]], [[focus_of_attention]]
+related: [[inner_game]], [[self_1_self_2]], [[focus_of_attention]], [[bridges/evaluative_voice_suspension]]
 ---
 
 # Инструмент STOP

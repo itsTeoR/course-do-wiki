@@ -4,7 +4,7 @@ description: Центральное различение Голлвея — го
 type: concept
 tradition: [gallwey]
 density: medium
-related: [[inner_game]], [[stop_tool]], [[focus_of_attention]]
+related: [[inner_game]], [[stop_tool]], [[focus_of_attention]], [[bridges/via_negativa_goldratt_gallwey]], [[bridges/evaluative_voice_suspension]]
 ---
 
 # Self 1 и Self 2
@@ -174,6 +174,10 @@ Self 1, а в том, чтобы научиться переключаться.
 - См. [[bridges/via_negativa_goldratt_gallwey]] — снятие Self 1
   как форма via negativa; мост в Талеба (субтрактивная
   эпистемология) и Голдратта (пять шагов фокусировки).
+- См. [[bridges/evaluative_voice_suspension]] — снятие Self 1
+  как форма стоической дисциплины согласия (*sugkatathesis*) в
+  прочтении Эпиктета/Адо, а также как тактический аналог
+  исчезновения self-consciousness в потоке у Чиксентмихайи.
 
 ## Источник
 

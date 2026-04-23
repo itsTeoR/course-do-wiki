@@ -2,7 +2,7 @@
 type: concept
 tradition: [stoicism, epictetus]
 density: high
-related: [[enchiridion_epictetus]], [[epictetus]], [[dichotomy_of_control]], [[two_handles]], [[three_disciplines]], [[assessments_vs_assertions]], [[self_1_self_2]]
+related: [[enchiridion_epictetus]], [[epictetus]], [[dichotomy_of_control]], [[two_handles]], [[three_disciplines]], [[assessments_vs_assertions]], [[self_1_self_2]], [[bridges/evaluative_voice_suspension]]
 ---
 
 # «Людей беспокоят не вещи, а их мнения о вещах» (Эпиктет)
@@ -136,3 +136,9 @@ on others nor on himself» (raw/epictetus/epicench.1b.txt, гл. 5).
   эпиктетовскому «осознанно оценивай каждое впечатление». См.
   кандидата в Tensions «Discipline of assent vs отключение
   оценочного голоса» в [[index_do_course]].
+- [[bridges/evaluative_voice_suspension]] — bridge со стоической
+  дисциплиной согласия, Голлвеем и Чиксентмихайи: общая операция
+  снятия оценочного слоя с первичного восприятия, три разных
+  механизма (активное рассмотрение по правилу / нейтральное
+  наблюдение / эмерджентное отступление self-consciousness в
+  потоке).

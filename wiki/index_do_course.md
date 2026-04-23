@@ -213,12 +213,12 @@ index_do_course.md».
   Goldratt, Gallwey: ценность через вычитание, а не добавление
   (субтрактивная эпистемология / subordinate не-ограничений /
   снятие Self 1).
-- [[bridges/evaluative_voice_suspension]] (H1) — Эпиктет, Hadot, Gallwey,
+- [[bridges/evaluative_voice_suspension]] (H1, H2) — Эпиктет, Hadot, Gallwey,
   Csikszentmihalyi: приостановка автоматического согласия с
   оценочной интерпретацией, наложенной на первичное восприятие
   (*sugkatathesis* / nonjudgmental awareness / исчезновение
   self-consciousness в потоке).
-- [[bridges/emergent_goal]] (H1) — Flores, Sarasvathy, Csikszentmihalyi:
+- [[bridges/emergent_goal]] (H1, H2) — Flores, Sarasvathy, Csikszentmihalyi:
   цель не предшествует действию как его предусловие, а
   складывается внутри самого действия (conditions of satisfaction
   в речевом акте / endogenous goals из средств и коммитментов /
@@ -912,14 +912,14 @@ index_do_course.md».
 - [[tensions/effectuation_vs_goal_setting]] (H1, H2) — эффектуация
   против классического goal-setting (Locke & Latham, SMART, OKR):
   начинать с цели или со средств (пока в статусе seed).
-- [[tensions/via_negativa_vs_via_positiva]] (H1) — Taleb: positive
+- [[tensions/via_negativa_vs_via_positiva]] (H1, H2) — Taleb: positive
   advice как диагностический признак шарлатана; Fogg: B=MAP
   универсальна, поведение собирается добавлением (якорь →
   крошечное поведение → празднование); Amabile эмпирически даёт
   асимметрию «bad is ~2×–5× stronger than good» и вывод «first,
   do no harm» — снятие setbacks/inhibitors/toxins предшествует
   добавлению catalysts/nourishers.
-- [[tensions/habit_vs_spiritual_exercise]] (H1) — Fogg vs Hadot/стоики:
+- [[tensions/habit_vs_spiritual_exercise]] (H1, H2) — Fogg vs Hadot/стоики:
   Fogg определяет привычку через её противоположность решению
   (Spectrum of Automaticity, цель — behavior automaticity); Hadot
   описывает *askēsis* как акт, который по структуре не

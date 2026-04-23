@@ -4,7 +4,7 @@ description: Инженерный метод поведенческого диз
 type: framework
 tradition: [fogg]
 density: medium
-related: [[fogg_behavior_model]], [[tiny_habits_recipe]], [[celebration_wires_habit]], [[ability_chain]], [[fogg]], [[tensions/via_negativa_vs_via_positiva]]
+related: [[fogg_behavior_model]], [[tiny_habits_recipe]], [[celebration_wires_habit]], [[ability_chain]], [[fogg]], [[tensions/via_negativa_vs_via_positiva]], [[tensions/habit_vs_spiritual_exercise]]
 ---
 
 # Tiny Habits (Фогг)
@@ -186,7 +186,11 @@ Celebration:
 традиция Талеба, для которой «positive advice, and only positive
 advice» и жанр «Ten Steps for — » являются диагностическим
 признаком шарлатанства; разбор расхождения — в
-[[tensions/via_negativa_vs_via_positiva]]. Фогг явно оппонирует:
+[[tensions/via_negativa_vs_via_positiva]]. Другое расхождение, с
+античной *askēsis*, разобрано в
+[[tensions/habit_vs_spiritual_exercise]]: там, где Fogg целит в
+автоматизм как критерий успеха, Hadot/стоики описывают практики,
+смысл которых разрушается автоматизацией. Фогг явно оппонирует:
 
 - Подходу «привычка формируется за 21/66/90 дней через повторение»
   — Фогг называет это «recycling old ideas» (гл. 5).

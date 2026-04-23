@@ -4,7 +4,7 @@ description: Стоическое различение между частями
 type: concept
 tradition: [hadot, stoicism]
 density: high
-related: [[philosophy_as_way_of_life]], [[spiritual_exercises]], [[three_disciplines]], [[hadot]]
+related: [[philosophy_as_way_of_life]], [[spiritual_exercises]], [[three_disciplines]], [[hadot]], [[tensions/habit_vs_spiritual_exercise]]
 ---
 
 # Философский дискурс vs философия как образ жизни

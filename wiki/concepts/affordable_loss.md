@@ -1,7 +1,7 @@
 ---
 type: concept
 tradition: [sarasvathy]
-related: [[effectuation]], [[control_vs_prediction]]
+related: [[effectuation]], [[control_vs_prediction]], [[emergent_goal]], [[affordable_loss_karma_yoga]]
 ---
 
 # Affordable loss

@@ -1,7 +1,7 @@
 ---
 type: tension
 tradition: [sarasvathy]
-related: [[effectuation]], [[control_vs_prediction]], [[affordable_loss]]
+related: [[effectuation]], [[control_vs_prediction]], [[affordable_loss]], [[emergent_goal]]
 status: seed
 ---
 
@@ -62,6 +62,13 @@ KPI, OKR — в этой логике.
 - Есть ли в литературе по goal-setting явное обсуждение условий
   применимости — или она молча предполагает, что её условия
   выполнены всегда? Нужна проверка.
+- Эмерджентная цель у Сарасвати — не изолированный ход; та же
+  структурная операция встречается у Флореса и Чиксентмихайи (см.
+  [[emergent_goal]]). Если так, tension с goal-setting шире, чем
+  «эффектуация vs SMART»: goal-setting сталкивается не с одной
+  альтернативой, а с целой группой традиций, снимающих
+  pre-existent goals в разных регистрах — онтологическом,
+  методологическом, эмпирическом.
 
 ---
 

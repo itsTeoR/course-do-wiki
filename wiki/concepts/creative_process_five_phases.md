@@ -4,7 +4,7 @@ description: Классическая пятифазная схема творч
 type: concept
 tradition: [csikszentmihalyi]
 density: medium
-related: [[creativity_csikszentmihalyi]], [[flow_conditions_for_creativity]], [[build_measure_learn]]
+related: [[creativity_csikszentmihalyi]], [[flow_conditions_for_creativity]], [[build_measure_learn]], [[emergent_goal]]
 ---
 
 Чиксентмихайи воспроизводит классическую (идущую от Гельмгольца и
@@ -83,4 +83,6 @@ small epiphanies» (raw/csikszentmihalyi/..., ch. 4).
 [[build_measure_learn|Build-Measure-Learn]] у Риса — но на уровне
 индивидуального творческого действия, а не бизнес-эксперимента.
 Похоже, разные домены приходят к сходной структуре: циклы с
-подкорректировкой на каждом обороте.
+подкорректировкой на каждом обороте. Более общая параллель, в
+которой артефактом рекурсии оказывается сама цель, — в
+[[emergent_goal]].

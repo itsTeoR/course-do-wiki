@@ -1,7 +1,7 @@
 ---
 type: framework
 tradition: [flores, speech-act-theory]
-related: [[speech_acts]], [[conditions_of_satisfaction]], [[conversations_for_possibilities]], [[assessments_vs_assertions]], [[moods_and_trust]], [[flores]]
+related: [[speech_acts]], [[conditions_of_satisfaction]], [[conversations_for_possibilities]], [[assessments_vs_assertions]], [[moods_and_trust]], [[flores]], [[emergent_goal]]
 ---
 
 # Conversations for Action (Fernando Flores)
@@ -167,7 +167,10 @@ care for customers, care for personal identity of members, и
 перформер переживает это как «я решил», но онтологически решение —
 узел сети обязательств, а не внутренний акт воли. Это прямо идёт
 поперёк тех традиций, которые помещают источник действия в
-характер, мотивацию, самодисциплину или идентичность.
+характер, мотивацию, самодисциплину или идентичность. Та же
+структурная операция — цель как артефакт, а не предусловие —
+встречается у Сарасвати и Чиксентмихайи, на других материалах
+(см. [[emergent_goal]]).
 
 **Mood — не психологическое состояние, а структура.** Обычное
 понятие «настроения» — внутреннее состояние, которое у человека

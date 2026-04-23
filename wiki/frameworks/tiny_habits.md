@@ -4,7 +4,7 @@ description: Инженерный метод поведенческого диз
 type: framework
 tradition: [fogg]
 density: medium
-related: [[fogg_behavior_model]], [[tiny_habits_recipe]], [[celebration_wires_habit]], [[ability_chain]], [[fogg]]
+related: [[fogg_behavior_model]], [[tiny_habits_recipe]], [[celebration_wires_habit]], [[ability_chain]], [[fogg]], [[tensions/via_negativa_vs_via_positiva]]
 ---
 
 # Tiny Habits (Фогг)
@@ -182,7 +182,11 @@ Celebration:
 
 Для целей wiki важно: Фогг формулирует свой метод не как одну из
 возможных альтернатив, а как единственную работающую механику
-изменения поведения. Он явно оппонирует:
+изменения поведения. С противоположной стороны — via-negativa-
+традиция Талеба, для которой «positive advice, and only positive
+advice» и жанр «Ten Steps for — » являются диагностическим
+признаком шарлатанства; разбор расхождения — в
+[[tensions/via_negativa_vs_via_positiva]]. Фогг явно оппонирует:
 
 - Подходу «привычка формируется за 21/66/90 дней через повторение»
   — Фогг называет это «recycling old ideas» (гл. 5).

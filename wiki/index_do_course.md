@@ -918,21 +918,18 @@ index_do_course.md».
 - [[tensions/effectuation_vs_goal_setting]] (H1, H2) — эффектуация
   против классического goal-setting (Locke & Latham, SMART, OKR):
   начинать с цели или со средств (пока в статусе seed).
+- [[tensions/via_negativa_vs_via_positiva]] — Taleb: positive
+  advice как диагностический признак шарлатана; Fogg: B=MAP
+  универсальна, поведение собирается добавлением (якорь →
+  крошечное поведение → празднование); Amabile эмпирически даёт
+  асимметрию «bad is ~2×–5× stronger than good» и вывод «first,
+  do no harm» — снятие setbacks/inhibitors/toxins предшествует
+  добавлению catalysts/nourishers.
 
 ### В работе
 - (пусто)
 
 ### Кандидаты
-- Via negativa vs via positiva (Taleb vs Fogg; Amabile усиливает
-  via negativa-сторону): Taleb настаивает, что позитивный совет
-  — шарлатанский, сначала надо убрать (iatrogenic risk); Fogg
-  вся механика построена как чистое добавление — якорь,
-  поведение, празднование. Amabile эмпирически даёт «first, do
-  no harm» с числами: способность негативных событий
-  (откатов/inhibitors/toxins) подрывать inner work life более
-  чем вдвое сильнее способности позитивных её строить, поэтому
-  правильная последовательность — сначала убрать ингибиторы и
-  токсины, только потом добавлять катализаторы и nourishers.
 - Validated learning vs effectuation (Ries vs Sarasvathy): Ries —
   поставь falsifiable hypothesis, проверь через MVP, pivot или
   persevere; Sarasvathy — никакой гипотезы, стартуй со средств,

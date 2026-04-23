@@ -4,7 +4,7 @@ description: Знание и действие через вычитание — 
 type: concept
 tradition: [taleb]
 density: high
-related: [[antifragile]], [[barbell_strategy]], [[iatrogenics]], [[lindy_effect]], [[fragile_robust_antifragile_triad]]
+related: [[antifragile]], [[barbell_strategy]], [[iatrogenics]], [[lindy_effect]], [[fragile_robust_antifragile_triad]], [[bridges/via_negativa_goldratt_gallwey]], [[tensions/via_negativa_vs_via_positiva]]
 ---
 
 ## Имя и генеалогия
@@ -121,7 +121,8 @@ Book VI, Barbells Again / Less Is More):
 - [[tiny_habits|Tiny Habits Фогга]] — почти полная
   via positiva (как добавить привычку). Талеб бы сказал:
   сначала убрать вредные среды и триггеры; добавлять уже на
-  пустое поле.
+  пустое поле. Развёрнуто в
+  [[tensions/via_negativa_vs_via_positiva]].
 - [[five_focusing_steps|Five Focusing Steps Голдратта]] — работают
   через вычитание: найти ограничение, подчинить всё остальное,
   не добавлять фичи в систему. По духу это via negativa.

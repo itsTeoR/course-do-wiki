@@ -4,7 +4,7 @@ description: Карта повседневных событий рабочего
 type: concept
 tradition: [amabile, kramer]
 density: medium
-related: [[progress_principle]], [[inner_work_life]], [[meaningful_work_amabile]], [[progress_loop]], [[amabile]]
+related: [[progress_principle]], [[inner_work_life]], [[meaningful_work_amabile]], [[progress_loop]], [[amabile]], [[tensions/via_negativa_vs_via_positiva]]
 ---
 
 # Catalysts и Nourishers
@@ -35,7 +35,11 @@ timely, creative, high-quality completion of the work*. Nourisher
 *inhibitors* (отсутствие/противоположность catalysts) и *toxins*
 (отсутствие/противоположность nourishers). По закону «bad is
 stronger than good» (см. [[progress_principle]]) каждый
-негативный вариант сильнее своего позитивного зеркала.
+негативный вариант сильнее своего позитивного зеркала — отсюда
+«first, do no harm» и последовательность «сначала убрать
+ингибиторы и токсины, потом добавлять catalysts и nourishers».
+Это та асимметрия, на которой разворачивается
+[[tensions/via_negativa_vs_via_positiva]].
 
 ## Семь catalysts
 

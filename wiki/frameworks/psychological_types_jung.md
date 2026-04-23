@@ -199,6 +199,74 @@ Feeling (тоже судящая и противоположная); она бу
 всю жизнь), а в том, чтобы доминанта перестала вытеснять остальные.
 Подробнее — в [[individuation_jung]].
 
+## Что легко пропустить при беглом чтении
+
+Три места, где *Psychologische Typen* в популярном изложении
+регулярно искажается и которые стоит держать в сознании при
+использовании юнговской типологии.
+
+**Feeling — не эмоция и не аффект.** В обыденном словаре
+«чувство» ≈ эмоциональное переживание; у Юнга feeling — *судящая*
+функция, устанавливающая ценность содержания сознания (принять /
+отвергнуть, моё / чужое). Аффект — отдельное понятие, и Юнг
+специально подчёркивает разницу:
+
+> When the intensity of feeling is increased an affect results,
+> which is a state of feeling accompanied by appreciable bodily
+> innervations. Feeling is distinguished from affect by the fact
+> that it gives rise to no perceptible physical innervations, i.e.
+> just as much or as little as the ordinary thinking process.
+> (raw/jung/psychological-types.pdf, с. 544)
+
+Поэтому феелинг-тип — не «эмоциональный человек», а человек,
+главный режим которого — оценка через ценность, столь же
+структурированная, как мышление. Смешивание feeling с аффектом
+разрушает сам каркас.
+
+**Подавленную функцию нельзя развить лобовой атакой.** У Юнга
+есть прямое предупреждение врачам-психологам. Если сугубо
+интеллектуальный (Thinking-доминирующий) пациент пытается
+развивать подавленное Feeling напрямую «из бессознательного» — в
+терапии или в самостоятельной работе, — попытка обязательно
+срывается:
+
+> I have frequently observed the way in which a physician, in the
+> case for instance of an exclusively intellectual subject, will
+> do his utmost to develop the feeling function directly out of
+> the unconscious. This attempt must always come to grief, since
+> it involves too great a violation of the conscious standpoint.
+> (raw/jung/psychological-types.pdf, с. 516)
+
+Единственный работающий путь — через *вспомогательную* функцию
+(Sensation или Intuition для Thinking-типа), которая не является
+противоположностью доминанте. Именно эта процедурная тонкость
+теряется в популярном «развивай свою слабую сторону».
+
+**Индивидуация идёт через коллективную норму, не против неё.**
+Популярная трактовка «индивидуация = стать собой вопреки
+обществу» у Юнга получает прямой диагноз — патология:
+
+> An actual conflict with the collective norm takes place only
+> when an individual way is raised to a norm, which, moreover, is
+> the fundamental aim of extreme individualism. Such a purpose is,
+> of course, pathological and entirely opposed to life.
+> (raw/jung/psychological-types.pdf, с. 563)
+
+И условие:
+
+> Before individuation can be taken for a goal, the educational
+> aim of adaptation to the necessary minimum of collective
+> standards must first be attained. A plant which is to be brought
+> to the fullest possible unfolding of its particular character
+> must first of all be able to grow in the soil wherein it is
+> planted.
+> (raw/jung/psychological-types.pdf, с. 562)
+
+То есть индивидуация — не альтернатива социализации, а то, что
+имеет смысл *после* достаточной социализации. Без этого порядка
+разговор об индивидуации схлопывается в индивидуализм, который
+Юнг квалифицирует отдельно и негативно.
+
 ## Связи
 
 - [[jung]] — справка об авторе, структура книги, регистр.

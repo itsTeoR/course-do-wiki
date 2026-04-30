@@ -4,7 +4,7 @@ description: Жизненный процесс постепенной интег
 type: concept
 tradition: [jung]
 density: high
-related: [[psychological_types_jung]], [[four_functions_jung]], [[compensation_by_unconscious]], [[jung]]
+related: [[psychological_types_jung]], [[four_functions_jung]], [[compensation_by_unconscious]], [[jung]], [[tensions/inner_balance_vs_temperament_deepening]]
 ---
 
 # Индивидуация (Юнг)
@@ -135,6 +135,10 @@ Principal and Auxiliary).
 - [[compensation_by_unconscious]] — чем именно давит подавленная
   функция, пока её не начали интегрировать.
 - [[jung]] — справка об авторе.
+- [[tensions/inner_balance_vs_temperament_deepening]] — Jung vs
+  Keirsey: индивидуация (выращивание подчинённой функции) против
+  углубления в линии собственного темперамента как двух
+  несовместимых программ развития.
 
 ## Источник
 

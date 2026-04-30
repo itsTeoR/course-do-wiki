@@ -4,7 +4,7 @@ description: Четырёхчастная типология Дэвида Кир
 type: framework
 tradition: [keirsey]
 density: medium
-related: [[keirsey]], [[pygmalion_project]], [[temperament_vs_character]], [[four_intelligences_keirsey]], [[psychological_types_jung]]
+related: [[keirsey]], [[pygmalion_project]], [[temperament_vs_character]], [[four_intelligences_keirsey]], [[psychological_types_jung]], [[tensions/linguistic_identity_vs_inborn_type]], [[tensions/inner_balance_vs_temperament_deepening]]
 ---
 
 # Четыре темперамента (Keirsey)

@@ -1,7 +1,7 @@
 ---
 type: concept
 tradition: [hallowell, clinical-psychiatry]
-related: [[hallowell]], [[add_hallowell]]
+related: [[hallowell]], [[add_hallowell]], [[tensions/biological_substrate_vs_defensive_structure]]
 ---
 
 # Моральная vs нейробиологическая модель поведения
@@ -135,7 +135,10 @@ challenge* и не *technical challenge*. Это *третий род
 препятствия* — биологическая база, которая ни тренингом, ни
 пересмотром предположений одна не двигается. Но в комбинации с
 биологическим вмешательством adaptive work становится
-возможен.
+возможен. Сам спор о том, чем объясняется устойчивость
+паттерна — биологическим субстратом или защитной структурой
+типа big assumption — развёрнут в
+[[tensions/biological_substrate_vs_defensive_structure]].
 
 ## Источник
 

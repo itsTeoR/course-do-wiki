@@ -4,7 +4,7 @@ description: Фреймворк Кигана и Лейски о том, поче
 type: framework
 tradition: [kegan, lahey]
 density: medium
-related: [[immunity_map]], [[adaptive_vs_technical]], [[big_assumptions]], [[mental_complexity_stages]], [[kegan]]
+related: [[immunity_map]], [[adaptive_vs_technical]], [[big_assumptions]], [[mental_complexity_stages]], [[kegan]], [[tensions/biological_substrate_vs_defensive_structure]]
 ---
 
 # Иммунитет к изменениям (Immunity to Change)
@@ -271,6 +271,12 @@ management».
   где она подтверждается данными эксперимента, разобраны бегло.
   Для адресата, который проверяет Big Assumption и обнаруживает,
   что она верна, дальнейший ход не детализирован.
+- *Биологический субстрат как альтернатива иммунитету.* Тот же
+  класс «знаю-как-но-не-делаю» в клинической рамке Хэлловелла
+  (ADHD как нейробиологический синдром) и в темпераментной
+  рамке Кирси (hardware) объясняется не защитной структурой, а
+  биологией; прескриптивные следствия другие. Развёрнуто —
+  [[tensions/biological_substrate_vs_defensive_structure]].
 
 ## Источник
 

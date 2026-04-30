@@ -4,7 +4,7 @@ description: Четырёхчастная типология Дэвида Кир
 type: framework
 tradition: [keirsey]
 density: medium
-related: [[keirsey]], [[pygmalion_project]], [[temperament_vs_character]], [[four_intelligences_keirsey]], [[psychological_types_jung]], [[tensions/linguistic_identity_vs_inborn_type]], [[tensions/inner_balance_vs_temperament_deepening]]
+related: [[keirsey]], [[pygmalion_project]], [[temperament_vs_character]], [[four_intelligences_keirsey]], [[psychological_types_jung]], [[tensions/linguistic_identity_vs_inborn_type]], [[tensions/inner_balance_vs_temperament_deepening]], [[tensions/biological_substrate_vs_defensive_structure]]
 ---
 
 # Четыре темперамента (Keirsey)
@@ -165,7 +165,11 @@ phlegmatic, см. примечания к главе 2.)
 не переделывается, software развивается во взаимодействии
 темперамента со средой (и конфигурируется темпераментом — не
 любая «программа» может быть установлена на любой «hardware»).
-Подробнее — [[temperament_vs_character]].
+Подробнее — [[temperament_vs_character]]. Прочтение «устойчивый
+паттерн как inborn hardware» сталкивается с другим прочтением
+тех же паттернов у Кигана и Лейски (как защитная структура,
+свёрнутая вокруг big assumption) — см.
+[[tensions/biological_substrate_vs_defensive_structure]].
 
 Важный следствие: черты *конфигурированы*. SP-самообраз
 одновременно включает graceful action, bold spirit,

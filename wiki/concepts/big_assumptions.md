@@ -4,7 +4,7 @@ description: Скрытые убеждения, которые человек п
 type: concept
 tradition: [kegan, lahey]
 density: medium
-related: [[immunity_to_change]], [[immunity_map]], [[mental_complexity_stages]]
+related: [[immunity_to_change]], [[immunity_map]], [[mental_complexity_stages]], [[tensions/biological_substrate_vs_defensive_structure]]
 ---
 
 # Big Assumptions
@@ -129,6 +129,13 @@ Assumption — разумная гипотеза, которая может бы
 отрицание этого, а разграничение: где это всё ещё верно, где уже
 нет, где он проецирует ситуацию 10-летней давности на текущую,
 где рядом — заместители, способные держать решения не хуже.
+
+Граница, которую Киган и Лейски не разрабатывают: устойчивый
+паттерн «знаю-как-но-не-делаю» иногда имеет не защитную, а
+*биологическую* природу (нейробиологический синдром у
+Хэлловелла, темперамент-как-hardware у Кирси), и тогда работа с
+big assumption проходит мимо. Tension — в
+[[tensions/biological_substrate_vs_defensive_structure]].
 
 ## Как это меняет отношение к поведению
 

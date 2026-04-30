@@ -4,7 +4,7 @@ description: Фреймворк Кигана и Лейски о том, поче
 type: framework
 tradition: [kegan, lahey]
 density: medium
-related: [[immunity_map]], [[adaptive_vs_technical]], [[big_assumptions]], [[mental_complexity_stages]], [[kegan]], [[tensions/biological_substrate_vs_defensive_structure]]
+related: [[immunity_map]], [[adaptive_vs_technical]], [[big_assumptions]], [[mental_complexity_stages]], [[kegan]], [[tensions/biological_substrate_vs_defensive_structure]], [[tensions/high_leverage_vs_accessible_start]]
 ---
 
 # Иммунитет к изменениям (Immunity to Change)
@@ -277,6 +277,14 @@ management».
   рамке Кирси (hardware) объясняется не защитной структурой, а
   биологией; прескриптивные следствия другие. Развёрнуто —
   [[tensions/biological_substrate_vs_defensive_structure]].
+- *Где в осях leverage points сидит работа с Big Assumption.* Big
+  Assumption — структурный (парадигма-эквивалент) уровень в смысле
+  Медоуз; метод Кигана и Лейски — параметрический шаг (маленький
+  проверяемый эксперимент). Эта связка между высоким target и
+  малым шагом — позиция, которой нет ни у Фогга («стартуй с
+  доступного, идентичность как побочный эффект»), ни у Медоуз
+  («не push, а dancing»); развёрнуто в
+  [[tensions/high_leverage_vs_accessible_start]].
 
 ## Источник
 

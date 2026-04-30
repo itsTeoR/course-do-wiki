@@ -4,7 +4,7 @@ description: Скрытые убеждения, которые человек п
 type: concept
 tradition: [kegan, lahey]
 density: medium
-related: [[immunity_to_change]], [[immunity_map]], [[mental_complexity_stages]], [[tensions/biological_substrate_vs_defensive_structure]]
+related: [[immunity_to_change]], [[immunity_map]], [[mental_complexity_stages]], [[tensions/biological_substrate_vs_defensive_structure]], [[tensions/high_leverage_vs_accessible_start]]
 ---
 
 # Big Assumptions

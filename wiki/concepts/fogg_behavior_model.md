@@ -4,7 +4,7 @@ description: Центральная модель Фогга — поведени
 type: concept
 tradition: [fogg]
 density: medium
-related: [[tiny_habits]], [[tiny_habits_recipe]], [[ability_chain]], [[tensions/environment_design_vs_self_interference]]
+related: [[tiny_habits]], [[tiny_habits_recipe]], [[ability_chain]], [[tensions/environment_design_vs_self_interference]], [[tensions/high_leverage_vs_accessible_start]]
 ---
 
 # Fogg Behavior Model (B=MAP)

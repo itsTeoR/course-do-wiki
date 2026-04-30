@@ -4,7 +4,7 @@ description: Бессознательное усилие по переделке
 type: concept
 tradition: [keirsey]
 density: medium
-related: [[four_temperaments_keirsey]], [[keirsey]], [[temperament_vs_character]]
+related: [[four_temperaments_keirsey]], [[keirsey]], [[temperament_vs_character]], [[tensions/linguistic_identity_vs_inborn_type]]
 ---
 
 # Pygmalion Project

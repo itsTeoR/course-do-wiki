@@ -4,7 +4,7 @@ description: Юнговские функции T, F, S, N — по одной и
 type: concept
 tradition: [jung]
 density: high
-related: [[psychological_types_jung]], [[rational_vs_irrational_functions]], [[jung]], [[compensation_by_unconscious]]
+related: [[psychological_types_jung]], [[rational_vs_irrational_functions]], [[jung]], [[compensation_by_unconscious]], [[tensions/linguistic_identity_vs_inborn_type]]
 ---
 
 # Четыре функции сознания (Юнг)

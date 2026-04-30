@@ -1,7 +1,7 @@
 ---
 type: framework
 tradition: [echeverria, flores, heidegger, nietzsche, maturana, wittgenstein]
-related: [[personal_declarations]], [[four_types_of_conversation]], [[three_primary_domains]], [[observer_and_interpretation]], [[echeverria]], [[flores]]
+related: [[personal_declarations]], [[four_types_of_conversation]], [[three_primary_domains]], [[observer_and_interpretation]], [[echeverria]], [[flores]], [[tensions/linguistic_identity_vs_inborn_type]]
 ---
 
 # Ontology of language (Rafael Echeverría)
@@ -174,6 +174,8 @@ action / for possibilities» и дополняет его *четырьмя ти
 практик, который можно перестроить. Это прямо противоположно
 структурно-типологическим школам (Юнг, Кирси, MBTI), где
 доминирующая функция или темперамент — структурный факт психики.
+Развёрнуто это противоречие — в
+[[tensions/linguistic_identity_vs_inborn_type]].
 
 **«Я не знаю» как речевой акт, без которого невозможно обучение.**
 Обычно принимается, что обучение требует интеллектуальной

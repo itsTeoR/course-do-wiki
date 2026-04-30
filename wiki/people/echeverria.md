@@ -1,7 +1,7 @@
 ---
 type: person
 tradition: [echeverria, ontology-of-language]
-related: [[ontology_of_language]], [[personal_declarations]], [[four_types_of_conversation]], [[three_primary_domains]], [[observer_and_interpretation]], [[flores]]
+related: [[ontology_of_language]], [[personal_declarations]], [[four_types_of_conversation]], [[three_primary_domains]], [[observer_and_interpretation]], [[flores]], [[tensions/linguistic_identity_vs_inborn_type]]
 ---
 
 # Рафаэль Эчеверрия (Rafael Echeverría, р. 1943)

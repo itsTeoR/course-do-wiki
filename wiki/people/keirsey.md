@@ -3,7 +3,7 @@ name: Дэвид Кирси
 description: Американский клинический психолог; автор Please Understand Me II; переработал майерсовскую типологию, выдвинув четыре темперамента (Artisans/Guardians/Idealists/Rationals) как первичный уровень различения, с длинной родословной от Гиппократа
 type: person
 tradition: [keirsey]
-related: [[four_temperaments_keirsey]], [[pygmalion_project]], [[temperament_vs_character]], [[four_intelligences_keirsey]]
+related: [[four_temperaments_keirsey]], [[pygmalion_project]], [[temperament_vs_character]], [[four_intelligences_keirsey]], [[tensions/linguistic_identity_vs_inborn_type]]
 ---
 
 # Дэвид Кирси (David W. Keirsey, 1921–2013)

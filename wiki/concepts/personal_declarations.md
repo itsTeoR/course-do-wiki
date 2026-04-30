@@ -1,7 +1,7 @@
 ---
 type: concept
 tradition: [echeverria]
-related: [[ontology_of_language]], [[speech_acts]], [[echeverria]]
+related: [[ontology_of_language]], [[speech_acts]], [[echeverria]], [[tensions/linguistic_identity_vs_inborn_type]]
 ---
 
 # Шесть фундаментальных личных деклараций (Echeverría)

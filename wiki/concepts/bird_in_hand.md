@@ -1,7 +1,7 @@
 ---
 type: concept
 tradition: [sarasvathy]
-related: [[effectuation]], [[sarasvathy]], [[affordable_loss]], [[crazy_quilt]], [[emergent_goal]]
+related: [[effectuation]], [[sarasvathy]], [[affordable_loss]], [[crazy_quilt]], [[emergent_goal]], [[validated_learning_vs_effectuation]]
 ---
 
 # Bird-in-hand (стартовать с того, что уже есть)

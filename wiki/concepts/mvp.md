@@ -4,7 +4,7 @@ description: Самая быстрая версия продукта, позво
 type: concept
 tradition: [ries]
 density: medium
-related: [[lean_startup]], [[build_measure_learn]], [[pivot_or_persevere]], [[ries]]
+related: [[lean_startup]], [[build_measure_learn]], [[pivot_or_persevere]], [[ries]], [[validated_learning_vs_effectuation]]
 ---
 
 # MVP (minimum viable product)

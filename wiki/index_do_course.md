@@ -985,15 +985,46 @@ index_do_course.md».
   вычитание») и с [[tensions/habit_vs_spiritual_exercise]] (ось
   «автоматизм / возобновляемый акт»), но ось третья —
   «внутреннее / внешнее».
+- [[tensions/high_leverage_vs_accessible_start]] — Meadows vs
+  Fogg, Kegan: у Медоуз «the higher the leverage point, the more
+  the system will resist changing it» — высокий рычаг (цели,
+  правила, парадигма, transcending paradigms) и сопротивление
+  системы сцеплены, параметрический низ списка не двигает поведение
+  системы; её собственный ответ — не «push», а «letting go and
+  dancing with the system». У Фогга поведение собирается над
+  Action Line через крошечный размер, а структурный сдвиг
+  идентичности — побочный эффект накопления; работа с мотивацией
+  объявлена самой нестабильной. Кеган стоит между: target высокий
+  (Big Assumption ≈ парадигма-уровень), но шаг — маленький
+  проверяемый эксперимент; связка между шагом и target — не
+  накопление, а опровергающие данные. Ось расхождения — может
+  ли изменение в системе быть инициировано накоплением малых
+  доступных действий, или сама природа структурных рычагов делает
+  такое накопление неэффективным. Соседствует с
+  [[tensions/environment_design_vs_self_interference]] (среда vs
+  внутренний голос) и с
+  [[tensions/biological_substrate_vs_defensive_structure]]
+  (источник стойкости паттерна).
+- [[tensions/validated_learning_vs_effectuation]] — Ries vs
+  Sarasvathy: единица действия под крайней неопределённостью —
+  фальсифицируемая гипотеза (leap-of-faith assumption, проверяемая
+  через MVP, с pivot/persevere по cohort-метрике) или коммитмент
+  стейкхолдера (bird-in-hand, the ask, lemonade), при котором
+  эффект эмерджентен. Сарасвати через March'а атакует презумпцию
+  pre-existent goals, на которой Рис надстраивает scientific method
+  применительно к стартапу. Сарасвати оговаривает границы (causation
+  для knowledge, effectuation для contingencies; зрелые венчуры
+  уместнее в каузальной логике), Рис своей границы не оговаривает
+  явно — метод предполагает recognizable customer category и
+  измеримую cohort, чего нет в случаях вроде U-Haul 1945. Соседствует
+  с готовой [[tensions/effectuation_vs_goal_setting]] (там
+  оппонент — пре-формулированная цель Locke/Latham; здесь —
+  пре-формулированная гипотеза Риса).
 
 ### В работе
 - (пусто)
 
 ### Кандидаты
-- Validated learning vs effectuation (Ries vs Sarasvathy): Ries —
-  поставь falsifiable hypothesis, проверь через MVP, pivot или
-  persevere; Sarasvathy — никакой гипотезы, стартуй со средств,
-  цель эмерджентна.
 - Deliberate practice формы vs неосудительное наблюдение
   (Strozzi-Heckler vs Gallwey): оба через тело, но противоположно
   — Strozzi «you are what you practice» (форма вырабатывается
@@ -1197,22 +1228,6 @@ index_do_course.md».
   уже существующим «Иатрогенный риск (Taleb vs Hallowell)», но
   ось иная — не фрагилизация, а уместность J-каркаса для
   ADHD-фенотипа.
-- Высокие точки воздействия недоступны по определению vs начинай
-  с низких уровней (Meadows vs Fogg, Kegan): у Медоуз «the
-  higher the leverage point, the more the system will resist
-  changing it» — сильнейшие точки (цели, парадигмы,
-  transcending paradigms) *потому* и сильны, что сопротивление
-  велико; «there are no cheap tickets to mastery». У Фогга и
-  Кигана наоборот — начинай с доступного уровня: крошечная
-  привычка, встраиваемая немедленно; маленький эксперимент,
-  проверяющий big assumption. Tension по оси: где должна
-  стартовать работа с системой — с сильной точки (несмотря на
-  сопротивление) или с доступной (несмотря на слабый эффект).
-  Соседствует с «Institution-level environment design vs
-  temperament diversity», но ось иная — про *уровень
-  вмешательства*, а не про дизайн среды. Проверить, не
-  распадается ли tension при распределении во времени (малое
-  сейчас, сильное потом).
 - Локус диагностики «почему ничего не меняется»: системный
   стресс vs индивидуальный иммунитет (Heifetz vs Kegan/Lahey):
   Хейфетц диагностирует адаптивный провал на уровне социальной

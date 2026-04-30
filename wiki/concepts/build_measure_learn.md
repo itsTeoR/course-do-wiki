@@ -4,7 +4,7 @@ description: Центральная петля в методе Риса — на
 type: concept
 tradition: [ries]
 density: medium
-related: [[lean_startup]], [[mvp]], [[pivot_or_persevere]], [[ries]]
+related: [[lean_startup]], [[mvp]], [[pivot_or_persevere]], [[ries]], [[validated_learning_vs_effectuation]]
 ---
 
 # Build-Measure-Learn и validated learning

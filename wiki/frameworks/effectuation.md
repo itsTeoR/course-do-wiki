@@ -1,7 +1,7 @@
 ---
 type: framework
 tradition: [sarasvathy]
-related: [[affordable_loss]], [[control_vs_prediction]], [[sarasvathy]], [[bird_in_hand]], [[crazy_quilt]], [[lemonade_principle]], [[the_ask]], [[emergent_goal]], [[effectuation_vs_goal_setting]]
+related: [[affordable_loss]], [[control_vs_prediction]], [[sarasvathy]], [[bird_in_hand]], [[crazy_quilt]], [[lemonade_principle]], [[the_ask]], [[emergent_goal]], [[effectuation_vs_goal_setting]], [[validated_learning_vs_effectuation]]
 ---
 
 # Эффектуация (effectuation)

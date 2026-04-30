@@ -1,7 +1,7 @@
 ---
 type: bridge
 tradition: [flores, sarasvathy, csikszentmihalyi]
-related: [[conversations_for_action]], [[conditions_of_satisfaction]], [[effectuation]], [[bird_in_hand]], [[affordable_loss]], [[creativity_csikszentmihalyi]], [[creative_process_five_phases]], [[effectuation_vs_goal_setting]]
+related: [[conversations_for_action]], [[conditions_of_satisfaction]], [[effectuation]], [[bird_in_hand]], [[affordable_loss]], [[creativity_csikszentmihalyi]], [[creative_process_five_phases]], [[effectuation_vs_goal_setting]], [[validated_learning_vs_effectuation]]
 density: medium
 status: ready
 ---

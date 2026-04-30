@@ -4,7 +4,7 @@ description: Решение после каждой петли Build-Measure-Lea
 type: concept
 tradition: [ries]
 density: medium
-related: [[lean_startup]], [[build_measure_learn]], [[mvp]], [[ries]]
+related: [[lean_startup]], [[build_measure_learn]], [[mvp]], [[ries]], [[validated_learning_vs_effectuation]]
 ---
 
 # Pivot или persevere

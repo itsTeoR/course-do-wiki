@@ -4,7 +4,7 @@ description: Центральная модель Фогга — поведени
 type: concept
 tradition: [fogg]
 density: medium
-related: [[tiny_habits]], [[tiny_habits_recipe]], [[ability_chain]]
+related: [[tiny_habits]], [[tiny_habits_recipe]], [[ability_chain]], [[tensions/environment_design_vs_self_interference]]
 ---
 
 # Fogg Behavior Model (B=MAP)
@@ -150,6 +150,11 @@ related: [[tiny_habits]], [[tiny_habits_recipe]], [[ability_chain]]
 политически важная часть книги: Фогг явно снимает моральный
 обвинительный слой с темы привычек («у тебя не хватает дисциплины» —
 неверный диагноз).
+
+Сама эта универсалистская заявка сталкивается с другой,
+противоположной по локусу — голлвеевским P = p − i, где помеха
+устроена внутри субъекта и не описывается ни одной из трёх
+переменных B=MAP. См. [[tensions/environment_design_vs_self_interference]].
 
 ## Источник
 

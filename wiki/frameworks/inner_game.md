@@ -4,7 +4,7 @@ description: Метод Тимоти Голлвея о том, как убира
 type: framework
 tradition: [gallwey]
 density: medium
-related: [[self_1_self_2]], [[stop_tool]], [[work_triangle]], [[focus_of_attention]], [[gallwey]]
+related: [[self_1_self_2]], [[stop_tool]], [[work_triangle]], [[focus_of_attention]], [[gallwey]], [[tensions/environment_design_vs_self_interference]]
 ---
 
 # Внутренняя игра (Inner Game of Work)
@@ -223,6 +223,11 @@ Conversations»):
 
 Метод Inner Game — не альтернатива работе, а способ делать работу
 так, чтобы она не разрушала того, кто её делает.
+
+Где этот подход максимально расходится с другими школами «как
+сделать, чтобы получалось», разобрано в
+[[tensions/environment_design_vs_self_interference]] (Inner Game
+против инженерии среды у Fogg).
 
 ## Что в книге неожиданно
 

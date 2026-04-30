@@ -4,7 +4,7 @@ description: Центральное различение Голлвея — го
 type: concept
 tradition: [gallwey]
 density: medium
-related: [[inner_game]], [[stop_tool]], [[focus_of_attention]], [[bridges/via_negativa_goldratt_gallwey]], [[bridges/evaluative_voice_suspension]]
+related: [[inner_game]], [[stop_tool]], [[focus_of_attention]], [[bridges/via_negativa_goldratt_gallwey]], [[bridges/evaluative_voice_suspension]], [[tensions/environment_design_vs_self_interference]]
 ---
 
 # Self 1 и Self 2
@@ -178,6 +178,12 @@ Self 1, а в том, чтобы научиться переключаться.
   как форма стоической дисциплины согласия (*sugkatathesis*) в
   прочтении Эпиктета/Адо, а также как тактический аналог
   исчезновения self-consciousness в потоке у Чиксентмихайи.
+- См. [[tensions/environment_design_vs_self_interference]] —
+  Self 1 как «интериоризованный внешний инструктор»
+  («tactics learned from teachers in the outside world»); там же —
+  почему любой внешний дизайн поведения, попадая внутрь,
+  превращается в новую команду Self 1 и в инженерной рамке Fogg
+  не обнаруживается как помеха.
 
 ## Источник
 

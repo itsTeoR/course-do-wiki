@@ -1,7 +1,7 @@
 ---
 type: framework
 tradition: [sher]
-related: [[sher]], [[rewards_and_durations]], [[good_enough_job]], [[learn_try_teach_leave]], [[best_work_project]]
+related: [[sher]], [[rewards_and_durations]], [[good_enough_job]], [[learn_try_teach_leave]], [[best_work_project]], [[tensions/norm_vs_clinic_phenotype]]
 ---
 
 # Refuse to Choose (сканеры)
@@ -53,7 +53,9 @@ emptiness of those lives shocks me», — цитата Тима Краббе в
 - От ADHD. Некоторые сканеры имеют и сканерскую природу, и
   СДВГ; но «быть интересующимся многим» — не то же, что быть
   несобранным. Сканер, поглощённый конкретным проектом, вполне
-  способен концентрироваться в его пределах.
+  способен концентрироваться в его пределах. Подробно — где Шер
+  расходится с клиническим прочтением того же фенотипа у
+  Хэлловелла, см. [[tensions/norm_vs_clinic_phenotype]].
 
 ## Три объяснительные оси
 

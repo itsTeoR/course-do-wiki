@@ -1,7 +1,7 @@
 ---
 type: person
 tradition: [sher]
-related: [[refuse_to_choose]], [[rewards_and_durations]], [[good_enough_job]], [[learn_try_teach_leave]], [[best_work_project]]
+related: [[refuse_to_choose]], [[rewards_and_durations]], [[good_enough_job]], [[learn_try_teach_leave]], [[best_work_project]], [[tensions/norm_vs_clinic_phenotype]]
 ---
 
 # Барбара Шер (Barbara Sher, 1935–2020)

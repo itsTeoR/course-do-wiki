@@ -1,7 +1,7 @@
 ---
 type: person
 tradition: [hallowell, clinical-psychiatry, adhd]
-related: [[add_hallowell]], [[moral_vs_neurobiological_model]]
+related: [[add_hallowell]], [[moral_vs_neurobiological_model]], [[tensions/norm_vs_clinic_phenotype]]
 ---
 
 # Эдвард Хэлловелл (Edward M. Hallowell, р. 1949)

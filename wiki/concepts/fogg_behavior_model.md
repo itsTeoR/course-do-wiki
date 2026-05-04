@@ -16,6 +16,9 @@ related: [[tiny_habits]], [[tiny_habits_recipe]], [[ability_chain]], [[tensions/
 > Prompt—come together at the same moment.
 > (raw/fogg/tiny-habits.pdf, гл. 1 «The Elements of Behavior»)
 
+> *Перевод:* Поведение случается, когда три элемента — мотивация,
+> способность и подсказка — сходятся в одном и том же моменте.
+
 Если любого из трёх не хватает — поведения не будет.
 
 Фогг иллюстрирует моделью собственное одноразовое поведение: донат в
@@ -62,6 +65,11 @@ related: [[tiny_habits]], [[tiny_habits_recipe]], [[ability_chain]], [[tensions/
 > prompt is like lightning. It comes and goes.
 > (raw/fogg/tiny-habits.pdf, гл. 1, «No behavior happens without a prompt»)
 
+> *Перевод:* Мотивация и способность — непрерывные переменные. У
+> тебя всегда есть какой-то уровень мотивации и способности для
+> любого данного поведения. А подсказка — как молния. Она
+> вспыхивает и пропадает.
+
 ## Action Line: визуальная часть модели
 
 Фогг изображает модель как прямоугольник:
@@ -78,6 +86,9 @@ related: [[tiny_habits]], [[tiny_habits_recipe]], [[ability_chain]], [[tensions/
 > the Action Line.
 > (raw/fogg/tiny-habits.pdf, гл. 1)
 
+> *Перевод:* Поведения, которые в итоге становятся привычками, будут
+> надёжно ложиться выше Action Line — линии действия.
+
 Отсюда — принцип компенсации:
 
 > You need to have both motivation and ability for a behavior to
@@ -86,6 +97,11 @@ related: [[tiny_habits]], [[tiny_habits_recipe]], [[ability_chain]], [[tensions/
 > strong to get you above the curve.
 > (raw/fogg/tiny-habits.pdf, гл. 1, «Motivation and ability work
 > together like teammates»)
+
+> *Перевод:* Чтобы поведение оказалось выше Action Line, нужна и
+> мотивация, и способность, но мотивация и способность могут
+> работать вместе как товарищи по команде. Если одна слаба, другая
+> должна быть сильной, чтобы вытащить тебя выше кривой.
 
 Очень лёгкое поведение при низкой мотивации проходит выше линии.
 Трудное — требует высокой мотивации. Именно поэтому Фогг
@@ -112,6 +128,10 @@ related: [[tiny_habits]], [[tiny_habits_recipe]], [[ability_chain]], [[tensions/
 > (ability and prompt).
 > (raw/fogg/tiny-habits.pdf, гл. 1)
 
+> *Перевод:* Если ты не можешь изменить один компонент модели
+> поведения (в данном случае — мотивацию), сосредоточься на
+> изменении других (способности и подсказки).
+
 То есть сначала подсказка, потом способность, и только потом
 мотивация. Это противоречит интуиции — но в модели Фогга мотивация
 самая нестабильная из трёх.
@@ -132,6 +152,9 @@ related: [[tiny_habits]], [[tiny_habits_recipe]], [[ability_chain]], [[tensions/
 > from happening.
 > (raw/fogg/tiny-habits.pdf, гл. 1)
 
+> *Перевод:* Убрать подсказку — лучший первый ход, чтобы остановить
+> поведение.
+
 Он не уговаривал себя, не пломбировал корзину — переставил её в
 закрытый шкаф. К утру забыл.
 
@@ -143,6 +166,9 @@ related: [[tiny_habits]], [[tiny_habits_recipe]], [[ability_chain]], [[tensions/
 > core mechanisms are the same.
 > (raw/fogg/tiny-habits.pdf, гл. 1, «B=MAP Applies to All Human
 > Behavior»)
+
+> *Перевод:* Поведения — как велосипеды. Они могут выглядеть
+> по-разному, но основные механизмы у них одинаковые.
 
 То есть механизм «здоровая привычка» и «вредная привычка»,
 «медитация» и «скроллинг» одинаков. Если модель универсальна, то

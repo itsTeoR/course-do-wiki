@@ -25,6 +25,13 @@ related: [[stress_plus_rest]], [[peak_performance]], [[flow_conditions_for_creat
 > beyond your skills you're in the sweet spot.
 > (raw/stulberg/peak-performance.epub, с. 51–52)
 
+> *Перевод:* Лучший вид стресса — то, что мы называем
+> *just-manageable challenges*, «на пределе посильного», — лежит в
+> правом верхнем углу зоны потока. Такой вызов проявляется, когда
+> ты берёшься за что-то, от чего чувствуешь себя слегка вне
+> контроля, но ещё не тревожным и не перевозбуждённым. Когда задача
+> чуть выше твоих умений — ты в нужной точке.
+
 Диаграмма — чиксентмихайевская: по осям способность и вызов. В
 правом верхнем углу, где вызов чуть выше способности, находится
 flow, и именно здесь, по Стульбергу и Мэгнессу, лежит
@@ -43,6 +50,11 @@ flow, и именно здесь, по Стульбергу и Мэгнессу,
 > your mind trying to pull you back to the familiar path that
 > represents your comfort zone.
 > (raw/stulberg/peak-performance.epub, с. 52)
+
+> *Перевод:* Тот тихий голос в голове, говорящий «я никак не могу
+> это сделать», — на самом деле признак того, что ты на верном
+> пути. Это твой ум пытается утянуть тебя обратно на знакомую
+> дорожку, представляющую зону комфорта.
 
 Иллюстрация из тренерской практики Стива — воркауты элитных
 бегунов (Sara Hall готовилась к чемпионату мира по полумарафону
@@ -84,8 +96,9 @@ Challenges», raw/stulberg/peak-performance.epub, с. 52–53):
 (raw/stulberg/peak-performance.epub, с. 55–57).
 
 В этом же контексте Стульберг и Мэгнесс приводят Джоша Вайцкина:
-«growth comes at the point of resistance». И исследование
-школьных учителей в Oakland County, где «cookie-cutter»
+«growth comes at the point of resistance» (рус.: «рост случается
+в точке сопротивления»). И исследование школьных учителей в
+Oakland County, где «cookie-cutter» (рус.: шаблонная)
 стандартизация Common Core лишила преподавателей возможности
 выводить учеников за их зону — результат, предсказуемо, хуже
 (raw/stulberg/peak-performance.epub, с. 46–47).
@@ -105,14 +118,17 @@ Challenges», raw/stulberg/peak-performance.epub, с. 52–53):
   challenge нельзя, нужны циклы. Авторы прямо пишут: «We aren't
   suggesting that you spend all of your time immersed in
   just-manageable challenges. Doing so is probably not very
-  practical» (raw/stulberg/peak-performance.epub, с. 53).
+  practical» (рус.: «мы не предлагаем проводить всё своё время в
+  погружении в задачи на пределе посильного. Это, скорее всего,
+  не очень практично»; raw/stulberg/peak-performance.epub, с. 53).
 
 ## Mindset как регулятор
 
-Отдельный сдвиг — Кэрол Двэк («growth mindset») и Келли
-Макгонигал («challenge response»). Один и тот же стимул у
-человека с fixed-mindset вызывает защиту и уход, у growth-
-mindset — движение к вызову. Биохимически это фиксируется как
+Отдельный сдвиг — Кэрол Двэк («growth mindset», рус.: «установка
+на рост») и Келли Макгонигал («challenge response», рус.:
+«реакция вызова»). Один и тот же стимул у человека с
+fixed-mindset вызывает защиту и уход, у growth-mindset — движение
+к вызову. Биохимически это фиксируется как
 разное отношение DHEA/кортизол — «growth index of stress». Люди,
 трактующие стресс как вызов (challenge response), биологически
 выигрывают от него, а не страдают

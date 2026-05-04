@@ -17,30 +17,42 @@ status: ready
 > Individuation, therefore, is a process of differentiation, having for its goal the development of the individual personality.
 > (raw/jung/psychological-types.pdf, с. 561)
 
+> *Перевод:* Индивидуация, таким образом, есть процесс дифференциации, имеющий своей целью развитие индивидуальной личности.
+
 Эта *differentiation* у Юнга — не просто вычленение себя из коллективного фона; у неё есть определённое внутреннее направление. Доминирующая функция, на которой человек строит себя в первой половине жизни, оплачивается тем, что противоположная функция той же оси оказывается подавленной — *inferior function*:
 
 > Very frequently, indeed as a general rule, a man identifies himself more or less completely with the most favoured, hence the most developed, function. ... But, as a consequence of such a one-sided process of development, one or more functions necessarily remain backward in development. Such functions, therefore, may be fittingly termed "inferior" in the psychological, though not in the psycho-pathological, sense, since these retarded functions are in no way morbid but merely backward as compared with the more favoured function.
 > (raw/jung/psychological-types.pdf, с. 563–564)
+
+> *Перевод:* Очень часто, а как правило, человек более или менее полностью отождествляет себя с наиболее предпочитаемой и потому наиболее развитой функцией. ... Но как следствие такого одностороннего развития одна или несколько функций неизбежно остаются отставшими в развитии. Эти функции поэтому уместно называть «подчинёнными» в психологическом, но не в психопатологическом смысле, ибо они никоим образом не болезненны, а лишь отставшие по сравнению с более предпочитаемой.
 
 Это не просто «недоразвитая способность». Подавленная функция продолжает существовать, но в архаичной, бессознательной форме, и оттуда автоматически *компенсирует* односторонность сознания:
 
 > I regard the activity of the unconscious as a compensation to the onesidedness of the general attitude produced by the function of consciousness.
 > (raw/jung/psychological-types.pdf, с. 531–532)
 
+> *Перевод:* Я рассматриваю активность бессознательного как компенсацию односторонности общей установки, производимой функцией сознания.
+
 Чем сильнее одностороннее, тем мощнее напряжение бессознательного противовеса:
 
 > The contents that are excluded and inhibited by the chosen direction sink into the unconscious, where by virtue of their effective existence they form a definite counterweight against the conscious orientation. The strengthening of this counterposition keeps pace with the intensification of the conscious onesidedness until finally a noticeable tension is produced.
 > (raw/jung/psychological-types.pdf, с. 532)
+
+> *Перевод:* Содержания, исключённые и подавленные избранным направлением, погружаются в бессознательное, где в силу своего действенного существования они образуют определённый противовес сознательной ориентации. Усиление этой контрпозиции идёт в ногу с усилением сознательной односторонности, пока наконец не возникает заметное напряжение.
 
 Отсюда формируется юнговская программа развития. Цель — не симметрия (доминанта остаётся доминантой пожизненно), а постепенное возвращение подавленных функций в сознательную работу. Расширение сознания, при котором подавленная функция перестаёт работать только архаично из бессознательного:
 
 > Individuation is practically the same as the development of consciousness out of the original state of identity. Hence it signifies an extension of the sphere of consciousness, an enriching of the conscious psychological life.
 > (raw/jung/psychological-types.pdf, с. 563)
 
+> *Перевод:* Индивидуация по сути есть то же, что и развитие сознания из изначального состояния тождества. Поэтому она означает расширение сферы сознания, обогащение сознательной психологической жизни.
+
 Юнг же оговаривает процедурную тонкость: подавленную функцию нельзя освоить лобовой атакой. У сугубо мыслительного человека попытка «развить чувство» напрямую из бессознательного срывается:
 
 > For I have frequently observed the way in which a physician, in the case for instance of an exclusively intellectual subject, will do his utmost to develop the feeling function directly out of the unconscious. This attempt must always come to grief, since it involves too great a violation of the conscious standpoint.
 > (raw/jung/psychological-types.pdf, с. 516)
+
+> *Перевод:* Я часто наблюдал, как врач, в случае, например, исключительно интеллектуального субъекта, прикладывает все усилия, чтобы развить функцию чувства непосредственно из бессознательного. Эта попытка всегда обречена на крах, ибо влечёт за собой слишком сильное насилие над сознательной установкой.
 
 Путь идёт через *вспомогательную* функцию — с другой оси, не противоположной доминанте, — которая постепенно открывает доступ к подавленной (раскрытие механики — в [[four_functions_jung]]). Программа в целом постепенная, не лобовая, но направленная: внутренняя композиция сознания должна со временем стать менее односторонней, чем была в первой половине жизни.
 
@@ -51,10 +63,14 @@ status: ready
 > Our brain is a sort of computer which has temperament for its hardware and character for its software. The hardware is the physical base from which character emerges, placing an identifiable fingerprint on each individual's attitudes and actions. ... Thus temperament is the inborn form of human nature; character, the emergent form, which develops through the interaction of temperament and environment.
 > (raw/keirsey/please-understand-me-ii.epub, ch. 2)
 
+> *Перевод:* Наш мозг — нечто вроде компьютера, у которого темперамент — это hardware, а характер — software. Hardware — физическая основа, из которой вырастает характер, накладывая опознаваемый отпечаток на установки и действия каждого индивида. ... Таким образом, темперамент — врождённая форма человеческой природы; характер — её эмерджентная форма, развивающаяся во взаимодействии темперамента со средой.
+
 Из этого следует структурный тезис о *конфигурированности* черт. Самообраз каждого темперамента собран из связки черт, развивающихся вместе и одновременно *исключающих* черты соседнего темперамента:
 
 > The SPs base their self-image on graceful action, bold spirit, and adaptability to circumstance, these three traits evolving together of necessity. Furthermore, these three traits, developing together as if out of a single seed, preclude the emergence of a self-image based on, say, empathy, benevolence, and authenticity, which are characteristics of the NFs.
 > (raw/keirsey/please-understand-me-ii.epub, ch. 2)
+
+> *Перевод:* SP строят свой самообраз на изящном действии, дерзновенности духа и приспособляемости к обстоятельствам — эти три черты развиваются вместе по необходимости. Более того, эти три черты, развивающиеся вместе словно из одного семени, исключают возникновение самообраза, основанного, скажем, на эмпатии, благожелательности и аутентичности, которые характерны для NF.
 
 Эта формулировка структурно отрицает возможность, что человек одного темперамента «дополнит себя» чертами противоположного. Конфигурация — не сборка из независимых параметров, а связный пучок; попытка установить «чужое ПО» на «своё железо» даёт искажение, не рост.
 
@@ -63,12 +79,16 @@ status: ready
 > A mature NF is strikingly different from a mature SP. Likewise, a mature NT is astonishingly different from a mature SJ.
 > (raw/keirsey/please-understand-me-ii.epub, ch. 2)
 
+> *Перевод:* Зрелый NF разительно отличается от зрелого SP. Точно так же зрелый NT поразительно отличается от зрелого SJ.
+
 Зрелый Artisan — не «SP, заодно развивший SJ-надёжность и NF-эмпатию»; это *крайне развитый SP*, доведённый в собственной линии самообраза до предельной формы. Зрелый Rational — *mastery* в своём предмете; зрелый Guardian — *contribution* и заслуженное место; зрелый Idealist — *authenticity* в работе с людьми. У Кирси это четыре *несводимые* линии зрелости, не четыре скорости движения по одной шкале.
 
 Из этой позиции Кирси прямо полемизирует с моделями универсального развития:
 
 > The point of this updated and expanded edition is that people are different from each other, and that no amount of getting after them is going to change them. Nor is there any reason to change them, because the differences are probably good.
 > (raw/keirsey/please-understand-me-ii.epub, ch. 1 «Different Drummers»)
+
+> *Перевод:* Смысл этого обновлённого и расширенного издания в том, что люди отличаются друг от друга, и сколько бы их ни одёргивали — это их не изменит. Нет и причины их менять, ибо различия, вероятно, хороши.
 
 Маслоу с self-actualization, Эриксон со стадиями возраста, Пиаже, Левинсон — у Кирси все они описывают *одну форму* зрелости (по его прочтению — NF-зрелость) и ошибочно её обобщают на остальные темпераменты. Юнга в эту критику Кирси прямо не включает, но юнговская программа индивидуации структурно принадлежит к той же линии: «зрелость = становление более полным через интеграцию подавленного».
 

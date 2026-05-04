@@ -13,8 +13,9 @@ related: [[keirsey]], [[pygmalion_project]], [[temperament_vs_character]], [[fou
 относительно MBTI — *темперамент первичен, шестнадцать типов
 вторичны*. Шестнадцать майерсовских комбинаций у него
 группируются в четыре темперамента, которые между собой
-«light years apart», тогда как внутри каждого темперамента —
-«very much like one another»
+«light years apart» (рус.: «отстоят на световые годы»), тогда
+как внутри каждого темперамента — «very much like one another»
+(рус.: «очень похожи друг на друга»)
 (raw/keirsey/please-understand-me-ii.epub, ch. 2 «Myers's Four
 Groups»).
 
@@ -74,7 +75,13 @@ athletic — aware of reality and never fighting it, open-minded,
 on the lookout for workable compromises, easygoing, tolerant,
 persuasive, gifted with machines and tools, acting with
 effortless economy, wanting first-hand experiences and in general
-enjoying life» (raw/keirsey/please-understand-me-ii.epub, ch. 2).
+enjoying life» (рус.: «приспособляемый, артистичный, атлетичный
+— чувствующий реальность и никогда с ней не борющийся,
+открытый, ищущий работоспособных компромиссов, лёгкий в общении,
+терпимый, убеждающий, одарённый в обращении с машинами и
+инструментами, действующий с непринуждённой экономностью,
+стремящийся к опыту из первых рук и в целом наслаждающийся
+жизнью») (raw/keirsey/please-understand-me-ii.epub, ch. 2).
 
 Четыре роли внутри: Promoter (ESTP), Crafter (ISTP), Performer
 (ESFP), Composer (ISFP). Исторические примеры, которых разбирает
@@ -85,7 +92,9 @@ enjoying life» (raw/keirsey/please-understand-me-ii.epub, ch. 2).
 Concrete + Cooperative. Воспринимают мир непосредственно,
 действуют ради поддержания порядка — *scheduling their own and
 others' activities so that needs are met and conduct is kept
-within bounds* (raw/keirsey/please-understand-me-ii.epub, ch. 2
+within bounds* (рус.: «расписывая свою и чужую деятельность так,
+чтобы потребности были удовлетворены, а поведение удерживалось
+в рамках») (raw/keirsey/please-understand-me-ii.epub, ch. 2
 «The SJs»). Ценят надёжность, традицию, заслуженное место,
 безопасность — для себя, для семьи, для коллектива.
 Аристотелевское *propraietari* — счастье через накопление
@@ -95,7 +104,11 @@ caretaking, забота о социальной структуре.
 Самообраз строится на *reliability, service, respectability*.
 У Майерс: «conservative, stable, consistent, routinized, sensible,
 factual, unimpulsive, patient, dependable, hard-working, detailed,
-painstaking, persevering, thorough». Четыре роли: Supervisor
+painstaking, persevering, thorough» (рус.: «консервативный,
+устойчивый, последовательный, действующий по заведённому порядку,
+здравомыслящий, фактичный, неимпульсивный, терпеливый, надёжный,
+работящий, внимательный к деталям, тщательный, упорный,
+основательный»). Четыре роли: Supervisor
 (ESTJ), Inspector (ISTJ), Provider (ESFJ), Protector (ISFJ).
 Исторический пример — Джордж Вашингтон
 (raw/keirsey/please-understand-me-ii.epub, ch. 9 «Leading and
@@ -106,6 +119,8 @@ Intelligence»).
 Abstract + Cooperative. Воспринимают мир абстрактно, действуют
 ради согласия и развития людей — *friendly to the core in
 dreaming up how to give meaning and wholeness to people's lives*
+(рус.: «дружественные до самой сердцевины в том, как они
+вынашивают замысел придать жизням людей смысл и целостность»)
 (raw/keirsey/please-understand-me-ii.epub, ch. 2 «The NFs»).
 Конфликт в окружении — болезненный, с ним нужно работать лично.
 Аристотелевское *ethikos* — счастье через нравственную
@@ -113,7 +128,9 @@ dreaming up how to give meaning and wholeness to people's lives*
 
 Самообраз строится на *empathy, benevolence, authenticity*.
 У Майерс: «humane, sympathetic, enthusiastic, religious, creative,
-intuitive, insightful, subjective». Четыре роли: Teacher (ENFJ),
+intuitive, insightful, subjective» (рус.: «гуманный, сочувствующий,
+воодушевлённый, религиозный, творческий, интуитивный, проницательный,
+субъективный»). Четыре роли: Teacher (ENFJ),
 Counselor (INFJ), Champion (ENFP), Healer (INFP). Исторический
 пример — Ганди.
 
@@ -121,7 +138,9 @@ Counselor (INFJ), Champion (ENFP), Healer (INFP). Исторический
 
 Abstract + Utilitarian. Воспринимают мир абстрактно, действуют
 эффективно — *tough-minded in figuring out what sort of technology
-might be useful to solve a given problem*
+might be useful to solve a given problem* (рус.: «жёстко-трезвые
+в том, как они вычисляют, какая технология могла бы оказаться
+полезной для решения той или иной задачи»)
 (raw/keirsey/please-understand-me-ii.epub, ch. 2 «The NTs»).
 Требуют от себя *rational* в действиях. Аристотелевское
 *dialogike* — счастье через логическое исследование (сам
@@ -132,7 +151,12 @@ might be useful to solve a given problem*
 Майерс: «analytical, systematic, abstract, theoretical,
 intellectual, complex, competent, inventive, efficient, exacting,
 independent, logical, technical, curious, scientific, research-
-oriented». Четыре роли: Fieldmarshal (ENTJ), Mastermind (INTJ),
+oriented» (рус.: «аналитичный, систематичный, абстрактный,
+теоретичный, интеллектуальный, сложный, компетентный,
+изобретательный, эффективный, требовательный, независимый,
+логичный, технический, любознательный, научный,
+исследовательски-ориентированный»). Четыре роли: Fieldmarshal
+(ENTJ), Mastermind (INTJ),
 Inventor (ENTP), Architect (INTP). Исторические примеры —
 Линкольн, Эйнштейн.
 
@@ -160,6 +184,10 @@ phlegmatic, см. примечания к главе 2.)
 > temperament pre-disposition.
 > (raw/keirsey/please-understand-me-ii.epub, ch. 2 «Temperament,
 > Character, Personality»)
+
+> *Перевод:* Темперамент есть конфигурация склонностей, тогда как
+> характер — конфигурация привычек. Характер — это диспозиция,
+> темперамент — пред-диспозиция.
 
 Темперамент — *hardware* мозга, характер — *software*. Hardware
 не переделывается, software развивается во взаимодействии

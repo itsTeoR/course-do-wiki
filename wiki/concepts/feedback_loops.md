@@ -23,6 +23,11 @@ related: [[thinking_in_systems]], [[stocks_and_flows]], [[leverage_points]], [[s
 > (raw/meadows/thinking-in-systems.epub, гл. 1 «The Basics», раздел
 > «How the System Runs Itself — Feedback»)
 
+> *Перевод:* Контур обратной связи — замкнутая цепь причинных
+> связей: от запаса через набор решений, или правил, или
+> физических законов, или действий, зависящих от уровня этого
+> запаса, и обратно через поток, который этот запас меняет.
+
 Первый признак обратной связи — не в диаграмме, а в поведении:
 
 > If you see a behavior that persists over time, there is likely a
@@ -31,6 +36,13 @@ related: [[thinking_in_systems]], [[stocks_and_flows]], [[leverage_points]], [[s
 > long period of time that is the first hint of the existence of a
 > feedback loop.
 > (там же)
+
+> *Перевод:* Если ты видишь поведение, которое сохраняется во
+> времени, скорее всего, есть механизм, создающий это устойчивое
+> поведение. Этот механизм действует через контур обратной
+> связи. Именно устойчивый паттерн поведения, удерживающийся
+> длительное время, — первый намёк на существование контура
+> обратной связи.
 
 Медоуз различает два типа контуров.
 
@@ -47,6 +59,11 @@ related: [[thinking_in_systems]], [[stocks_and_flows]], [[leverage_points]], [[s
 > (raw/meadows/thinking-in-systems.epub, гл. 1, раздел «Stabilizing
 > Loops — Balancing Feedback»)
 
+> *Перевод:* Балансирующие контуры обратной связи — это
+> равновесные или стремящиеся к цели структуры в системах; они
+> одновременно источники стабильности и источники сопротивления
+> изменениям.
+
 Балансирующая петля противостоит любому направлению изменения: если
 запас загнан вверх — она тянет вниз; если вниз — вверх.
 
@@ -59,6 +76,13 @@ related: [[thinking_in_systems]], [[stocks_and_flows]], [[leverage_points]], [[s
 > interpret. The action it triggers may be too weak or delayed or
 > resource-constrained or simply ineffective.
 > (там же)
+
+> *Перевод:* Присутствие механизма обратной связи ещё не
+> означает, что этот механизм работает хорошо. [...] Информация
+> может приходить слишком поздно или не в то место. Она может
+> быть неясной, неполной или трудной для интерпретации.
+> Действие, которое она запускает, может быть слишком слабым,
+> задержанным, ограниченным в ресурсах или просто неэффективным.
 
 У каждой балансирующей связи есть *точка отказа* — уровень возмущения,
 при котором другие силы в системе оказываются сильнее. Термостат в плохо
@@ -74,7 +98,10 @@ related: [[thinking_in_systems]], [[stocks_and_flows]], [[leverage_points]], [[s
 - Кролики рождают больше кроликов.
 - Эрозия: меньше почвы — меньше корней — меньше почвы.
 - «The more I practice piano, the more pleasure I get from the sound,
-  and so the more I play the piano, which gives me more practice».
+  and so the more I play the piano, which gives me more practice»
+  (рус.: «чем больше я занимаюсь на пианино, тем больше удовольствия
+  получаю от звука, поэтому тем больше играю, что даёт мне ещё больше
+  упражнений»).
   (raw/meadows/thinking-in-systems.epub, гл. 1, раздел «Runaway Loops
   — Reinforcing Feedback»)
 
@@ -84,6 +111,12 @@ related: [[thinking_in_systems]], [[stocks_and_flows]], [[leverage_points]], [[s
 > growth or to runaway collapses over time. They are found whenever a
 > stock has the capacity to reinforce or reproduce itself.
 > (там же)
+
+> *Перевод:* Усиливающие контуры обратной связи самоусиливаются,
+> ведя со временем к экспоненциальному росту или
+> неконтролируемому обрушению. Они обнаруживаются всякий раз,
+> когда у запаса есть способность усиливать или воспроизводить
+> себя.
 
 Неуправляемая усиливающая петля в конечном счёте разрушает систему — или
 упирается в балансирующую. Поэтому в природе и в устойчивых социальных
@@ -97,6 +130,10 @@ related: [[thinking_in_systems]], [[stocks_and_flows]], [[leverage_points]], [[s
 > growth rate (expressed as a percentage).
 > (raw/meadows/thinking-in-systems.epub, гл. 1, врезка «Hint on
 > Reinforcing Loops and Doubling Time»)
+
+> *Перевод:* Время, за которое экспоненциально растущий запас
+> удваивается, — «время удвоения» — приблизительно равно 70,
+> делённому на темп роста (в процентах).
 
 7% в год → удвоение за 10 лет. 5% → 14 лет.
 
@@ -118,6 +155,11 @@ related: [[thinking_in_systems]], [[stocks_and_flows]], [[leverage_points]], [[s
 > Systems Zoo», раздел «A Two-Stock System — A Renewable Stock
 > Constrained by a Nonrenewable Stock»)
 
+> *Перевод:* Сложные поведения систем часто возникают, когда
+> относительная сила контуров обратной связи смещается, — и в
+> поведении начинает доминировать сначала один контур, потом
+> другой.
+
 Отсюда практическое следствие: спрашивая «что сейчас делает система»,
 спрашивай «какой контур доминирует» и «при каких условиях он перестанет
 доминировать».
@@ -133,6 +175,12 @@ related: [[thinking_in_systems]], [[stocks_and_flows]], [[leverage_points]], [[s
 > that is made without regard to any information about the level of
 > the stock it influences.
 > (raw/meadows/thinking-in-systems.epub, гл. 1, раздел «Runaway Loops»)
+
+> *Перевод:* Иногда я предлагаю своим студентам попробовать
+> придумать какое-нибудь человеческое решение, происходящее без
+> контура обратной связи, — то есть решение, принимаемое без
+> учёта какой-либо информации об уровне запаса, на который оно
+> влияет.
 
 Чаще всего предлагают «влюбиться» и «покончить с собой»; Медоуз оставляет
 вопрос открытым — и в этом весь её регистр: она не замыкает тезис, она

@@ -37,6 +37,10 @@ game (поскольку медиум-риск подвержен огромны
 > and let the upside, the positive Black Swans, take care of itself
 > (raw/taleb/antifragile.epub, Book II, Seneca's Barbell).
 
+> *Перевод:* Антихрупкость — это сочетание агрессии и паранойи:
+> отрежь свой downside, защити себя от крайнего вреда, а upside,
+> позитивные Чёрные Лебеди, пусть сам о себе заботится.
+
 ## Неограниченность финансовой метафоры
 
 Штангу Талеб применяет гораздо шире:
@@ -78,6 +82,9 @@ game (поскольку медиум-риск подвержен огромны
 > necessary, but not sufficient
 > (raw/taleb/antifragile.epub, Book II, Seneca's Barbell, Domestication).
 
+> *Перевод:* У большинства вещей справа в Триаде есть
+> barbell-компонент — необходимый, но недостаточный.
+
 Талеб обосновывает избегание середины через проблему измерения:
 медиум-риск — это иллюзия контроля. Он не поддаётся надёжной
 оценке, потому что редкие события плохо измеряются, и именно в
@@ -88,7 +95,10 @@ game (поскольку медиум-риск подвержен огромны
 Ещё одно обоснование — через середина-как-компромисс: «halfway —
 here, the regulation of both — doesn't work, as it can be gamed by
 a good lawyer. Hedge funds need to be unregulated and banks
-nationalized, as a barbell»
+nationalized, as a barbell» (рус.: «срединное решение — здесь
+регулирование и того, и другого — не работает, его обойдёт
+хороший юрист. Хедж-фонды должны быть нерегулируемы, а банки —
+национализированы; вот это и есть штанга»)
 (raw/taleb/antifragile.epub, Book II, Seneca's Barbell, footnote 2).
 
 ## Связь со stoicism
@@ -99,6 +109,10 @@ nationalized, as a barbell»
 > emotions, so is the barbell a domestication, not the elimination,
 > of uncertainty
 > (raw/taleb/antifragile.epub, Book II, Seneca's Barbell, Domestication).
+
+> *Перевод:* Как стоицизм — это одомашнивание, а не уничтожение
+> эмоций, так и barbell — одомашнивание, а не уничтожение
+> неопределённости.
 
 ## Личный режим Талеба
 
@@ -116,7 +130,8 @@ nationalized, as a barbell»
 
 Ray Dalio в той же главе цитируется с правилом: «Make sure that
 the probability of the unacceptable (i.e., the risk of ruin) is
-nil».
+nil» (рус.: «Удостоверься, что вероятность неприемлемого (то есть
+риска разорения) равна нулю»).
 
 ## Пересечение с эффектуацией
 

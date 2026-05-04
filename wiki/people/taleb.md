@@ -29,13 +29,18 @@ related: [[antifragile]], [[via_negativa]], [[barbell_strategy]], [[optionality_
 > (raw/taleb/antifragile.epub, Prologue §IV, Defossilizing
 > Things).
 
+> *Перевод:* Коммерция, особенно мелкая коммерция, — это дверь к
+> терпимости; единственная, на мой взгляд, дверь к какой бы то ни
+> было терпимости. Она бьёт любые рационализации и лекции.
+
 Он сформулировал личное правило: «I eat my own cooking» —
 писать только о том, что делал сам. Экспертные позиции без
 экзистенциальной экспозиции его отталкивают.
 
 Его скептическое отношение к «learned experts without skin in
-the game» (Friedman, Stiglitz и др.) — один из сквозных мотивов
-Antifragile. См. [[skin_in_the_game_taleb]].
+the game» (рус.: «учёным экспертам без шкуры на кону»; Friedman,
+Stiglitz и др.) — один из сквозных мотивов Antifragile. См.
+[[skin_in_the_game_taleb]].
 
 ## Incerto
 
@@ -50,9 +55,18 @@ Antifragile. См. [[skin_in_the_game_taleb]].
 > complex; that is, decision making under opacity
 > (raw/taleb/antifragile.epub, Prologue §IV).
 
+> *Перевод:* Мои тексты — не отдельные эссе на частные темы... это
+> непересекающиеся главы одной центральной идеи, главного корпуса
+> о неопределённости, случайности, вероятности, беспорядке и о
+> том, что делать в мире, который мы не понимаем, — мире со
+> скрытыми элементами и свойствами, случайным и сложным; то есть
+> о принятии решений под непрозрачностью.
+
 Antifragile Талеб называет своей центральной книгой: «Antifragile
 would be the main volume and The Black Swan its backup of sorts,
-and a theoretical one, perhaps even its junior appendix».
+and a theoretical one, perhaps even its junior appendix» (рус.:
+«Antifragile — главный том, а The Black Swan — его подспорье,
+теоретическое, может, даже младшее приложение»).
 
 ## Что он делает с языком
 

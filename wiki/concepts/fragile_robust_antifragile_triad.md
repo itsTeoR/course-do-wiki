@@ -17,6 +17,8 @@ related: [[antifragile]], [[barbell_strategy]], [[via_negativa]], [[optionality_
 > FRAGILE — ROBUST — ANTIFRAGILE
 > (raw/taleb/antifragile.epub, Appendix: The Triad).
 
+> *Перевод:* ХРУПКОЕ — СТОЙКОЕ — АНТИХРУПКОЕ.
+
 - Fragile — хочет покоя; любая волатильность, время, ошибки,
   неожиданности вредят;
 - Robust — не особо страдает, но и не выигрывает;
@@ -27,6 +29,7 @@ related: [[antifragile]], [[barbell_strategy]], [[via_negativa]], [[optionality_
 Робастное не равно аристотелевской «золотой середине». Бывают
 случаи, когда антихрупкость стоит дорого и нежелательна. Цитата
 Талеба, перефразирующая Ницше: «one can die from being immortal»
+(рус.: «можно умереть от бессмертия»)
 (raw/taleb/antifragile.epub, Appendix: The Triad, The Golden Robust).
 
 Триада — инструмент картирования: для конкретного объекта в

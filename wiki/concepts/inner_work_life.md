@@ -25,6 +25,10 @@ related: [[progress_principle]], [[catalysts_and_nourishers]], [[meaningful_work
 > (raw/amabile/progress-principle.mobi, гл. 2, «The Three
 > Components of Inner Work Life»)
 
+> *Перевод:* Компоненты внутренней рабочей жизни: восприятия
+> (также называемые мыслями или когнициями), эмоции (или
+> чувства) и мотивация (или драйв).
+
 Авторы сознательно ограничиваются этими тремя процессами —
 именно потому, что психологические исследования давно показали:
 эти три влияют на performance. Грёзы, фантазии, прочие
@@ -167,7 +171,9 @@ Life Discoveries»; гл. 3, «The Inner Work Life Effect»)
 Все три категории влияют на inner work life ежедневно. Каждый
 рабочий день, как пишут авторы, «is a series of events that
 shape inner work life, steer performance, and set the course of
-the organization».
+the organization» (рус.: «это последовательность событий, которые
+формируют внутреннюю рабочую жизнь, направляют исполнение и
+задают курс всей организации»).
 
 ## Источник
 

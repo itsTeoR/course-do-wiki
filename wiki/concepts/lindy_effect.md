@@ -30,12 +30,18 @@ related: [[antifragile]], [[via_negativa]], [[iatrogenics]], [[fragile_robust_an
 > every additional day may imply a longer life expectancy
 > (raw/taleb/antifragile.epub, Book VI, ch. 20).
 
+> *Перевод:* Для портящегося каждый прожитый день означает
+> сокращение остающейся ожидаемой жизни. Для непортящегося каждый
+> прожитый день может означать увеличение ожидаемой жизни.
+
 Талеб строит это на т.н. Lindy effect в версии, развитой
 Мандельбротом. Если книга находится в печати 40 лет — можно
 ожидать, что она пробудет в печати ещё 40. Если она пробудет
 ещё десятилетие — её ожидаемая остаточная жизнь станет 50.
 
 > The robustness of an item is proportional to its life!
+
+> *Перевод:* Стойкость вещи пропорциональна её возрасту!
 
 ## Эмпирическая проверка
 
@@ -54,7 +60,9 @@ related: [[antifragile]], [[via_negativa]], [[iatrogenics]], [[fragile_robust_an
    телефон или печатную газету как «контрпример»: это средняя
    оценка, не закон для каждого случая. «I am not saying that
    all technologies do not age, only that those technologies that
-   were prone to aging are already dead».
+   were prone to aging are already dead» (рус.: «Я не говорю, что
+   технологии не стареют — я говорю, что технологии, склонные к
+   старению, уже мертвы»).
 
 2. Ошибка «действовать молодо, используя молодую технологию».
    Это путаница логических слоёв: технология не стареет
@@ -78,8 +86,9 @@ related: [[antifragile]], [[via_negativa]], [[iatrogenics]], [[fragile_robust_an
 
 Если человеку нужно решить, чему учить детей в условиях
 неопределённости будущего — Талеб отвечает: заставьте их читать
-классиков. «The future is in the past». Арабская пословица: «he
-who does not have a past has no future»
+классиков. «The future is in the past» (рус.: «Будущее — в
+прошлом»). Арабская пословица: «he who does not have a past has
+no future» (рус.: «у кого нет прошлого, нет и будущего»)
 (raw/taleb/antifragile.epub, Book VI, ch. 20).
 
 ## Связь с via negativa и iatrogenics

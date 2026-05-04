@@ -16,6 +16,9 @@ related: [[antifragile]], [[fragile_robust_antifragile_triad]], [[iatrogenics]],
 > (raw/taleb/antifragile.epub, Prologue §II, Upside at the
 > Expense of Others).
 
+> *Перевод:* Не строй свою антихрупкость за счёт хрупкости
+> других.
+
 Отсюда вся седьмая книга Antifragile. Skin in the game — это
 механизм, восстанавливающий симметрию между тем, кто принимает
 решение, и тем, кто несёт последствия.
@@ -28,6 +31,10 @@ related: [[antifragile]], [[fragile_robust_antifragile_triad]], [[iatrogenics]],
 > the death of the owner of the house — the builder shall be put
 > to death
 > (raw/taleb/antifragile.epub, Book VII, ch. 23, Hammurabi).
+
+> *Перевод:* Если строитель построит дом и дом обрушится и
+> повлечёт смерть владельца дома — строитель должен быть предан
+> смерти.
 
 Смысл не в ретроактивном наказании, а в вложении up-front
 дисинцентива. Строитель знает свою работу лучше любого
@@ -71,6 +78,10 @@ option». Человек, чьё мнение влияет на действия
 > plane
 > (raw/taleb/antifragile.epub, Book VII, ch. 23, Hammurabi).
 
+> *Перевод:* Прогнозы — любые прогнозы — без шкуры на кону для
+> других так же опасны, как беспилотные АЭС без инженера,
+> ночующего на площадке. Пилоты должны быть на борту.
+
 Традиционное общество: статус приходит вместе с обязанностями.
 Хочешь быть феодалом — умри первым. Хочешь войну — иди в бой.
 Цезарь, Александр, Ганнибал, Вашингтон, Наполеон лично
@@ -93,6 +104,9 @@ Option).
 > post cherry-picking
 > (raw/taleb/antifragile.epub, Book VII, ch. 23, Stiglitz Syndrome).
 
+> *Перевод:* Синдром Стиглица = fragilista (с благими намерениями)
+> + задним числом подобранные удачные предсказания.
+
 Это комбинация: остроумный аналитический аппарат + слепота к
 хрупкости + selective memory + отсутствие skin in the game.
 
@@ -102,6 +116,9 @@ Option).
 > recommendation. Just ask them what they have — or don't have — in
 > their portfolio
 > (raw/taleb/antifragile.epub, Book VII, ch. 23, Stiglitz Syndrome).
+
+> *Перевод:* Никогда не спрашивай у человека его мнение, прогноз
+> или рекомендацию. Спроси, что у него в портфеле — а чего нет.
 
 Вариант Гигеренцера: никогда не спрашивай доктора, что тебе
 делать. Спроси, что он сделал бы на твоём месте.
@@ -114,6 +131,10 @@ Option).
 > Suckers try to win arguments, nonsuckers try to win
 > (raw/taleb/antifragile.epub, Book VII, ch. 23, The Problem of
 > Frequency).
+
+> *Перевод:* Лохи пытаются быть правы, не-лохи пытаются заработать
+> бабла... Лохи пытаются выиграть спор, не-лохи пытаются
+> выиграть.
 
 Смысл — эволюционный. Для природы не важно, прав ли человек;
 важно, выживает ли он. Поппер ошибался, думая, что идеи
@@ -150,6 +171,9 @@ game — человек рискует своей репутацией, врем
 
 > If you see fraud and do not say fraud, you are a fraud
 > (raw/taleb/antifragile.epub, Prologue §IV).
+
+> *Перевод:* Если ты видишь жульничество и не называешь его
+> жульничеством — ты сам жулик.
 
 ## Где режет в wiki
 

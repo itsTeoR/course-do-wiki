@@ -23,6 +23,9 @@ related: [[antifragile]], [[barbell_strategy]], [[iatrogenics]], [[lindy_effect]
 > It's simple. I just remove everything that is not David
 > (raw/taleb/antifragile.epub, Book VI, Via Negativa).
 
+> *Перевод:* Это просто. Я лишь убираю всё то, что не есть
+> Давид.
+
 ## Эпистемологический тезис
 
 Центральный тезис Талеба:
@@ -34,6 +37,13 @@ related: [[antifragile]], [[barbell_strategy]], [[iatrogenics]], [[lindy_effect]
 > wrong but what we know to be wrong cannot turn out to be right,
 > at least not easily
 > (raw/taleb/antifragile.epub, Book VI, Subtractive Knowledge).
+
+> *Перевод:* Негативное знание (что неверно, что не работает)
+> устойчивее к ошибке, чем позитивное знание (что верно, что
+> работает). Поэтому знание растёт через вычитание намного
+> сильнее, чем через сложение, — ведь то, что мы знаем сегодня,
+> может оказаться неверным, а то, что мы знаем как неверное, не
+> может оказаться верным, во всяком случае не легко.
 
 Талеб называет это subtractive epistemology. Это та же логика,
 что у Поппера с его фальсифицируемостью, но Талеб утверждает, что
@@ -48,6 +58,12 @@ related: [[antifragile]], [[barbell_strategy]], [[iatrogenics]], [[lindy_effect]
 > sucker-proneness for recipes that hit you in a flash as just
 > obvious, then evaporate later as you forget them
 > (raw/taleb/antifragile.epub, Book VI, Where Is the Charlatan?).
+
+> *Перевод:* Шарлатан узнаётся по тому, что даёт позитивный совет
+> и только позитивный совет, эксплуатируя нашу доверчивость и
+> склонность вестись на рецепты, которые в первый миг бьют как
+> самоочевидные, а потом испаряются по мере того, как ты их
+> забываешь.
 
 Профессионалы работают от негативного: гроссмейстеры в шахматах
 обычно выигрывают, не проигрывая; люди становятся богатыми,
@@ -73,7 +89,8 @@ Book VI, Barbells Again / Less Is More):
   было более одной причины отсутствия («смерть бабушки, простуда
   и укус кабана»).
 - Бергсоновская бритва: «A philosopher should be known for one
-  single idea, not more».
+  single idea, not more» (рус.: «Философа должна знать одна-
+  единственная идея, не больше»).
 - Если у кого-то длинное резюме — пропусти.
 - Если тебе представляют академика с тремя сотнями статей и
   двадцатью почётными докторскими, но без одной крупной идеи —
@@ -99,6 +116,12 @@ Book VI, Barbells Again / Less Is More):
 > make sure it does not harm you in case it turns out to be false
 > (raw/taleb/antifragile.epub, Book VI, Barbells, Again).
 
+> *Перевод:* Субтрактивное знание — это разновидность barbell.
+> Что важно, оно конвексно. То, что заведомо неверно, вполне
+> устойчиво; то, чего ты не знаешь, хрупко и спекулятивно — но
+> ты не принимаешь это всерьёз и потому страхуешься, чтобы оно
+> не повредило тебе, если окажется ложным.
+
 То есть via negativa — это инструмент сдвига вправо по
 [[fragile_robust_antifragile_triad|триаде]]: снять хрупкое,
 оставить антихрупкое.
@@ -115,6 +138,12 @@ Book VI, Barbells Again / Less Is More):
 > done as the things I have done. Innovation is saying no to
 > 1,000 things
 > (raw/taleb/antifragile.epub, Book VI, Subtractive Knowledge).
+
+> *Перевод:* Люди думают, что фокус — это сказать «да» тому,
+> на чём надо сосредоточиться. Но это вовсе не так. Это значит
+> сказать «нет» сотне других хороших идей. Выбирать надо
+> тщательно. Я горжусь тем, что мы не сделали, не меньше, чем
+> тем, что я сделал. Инновация — это сказать «нет» тысяче вещей.
 
 ## Где это режет другие статьи wiki
 

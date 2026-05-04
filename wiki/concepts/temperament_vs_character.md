@@ -22,6 +22,11 @@ related: [[four_temperaments_keirsey]], [[keirsey]], [[pygmalion_project]], [[te
 > (raw/keirsey/please-understand-me-ii.epub, ch. 2 «Temperament,
 > Character, Personality»)
 
+> *Перевод:* У личности две стороны: одна из них — темперамент,
+> другая — характер. Темперамент есть конфигурация склонностей,
+> тогда как характер — конфигурация привычек. Характер — это
+> диспозиция, темперамент — пред-диспозиция.
+
 ## Метафора Кирси: hardware и software
 
 > Our brain is a sort of computer which has temperament for its
@@ -36,6 +41,19 @@ related: [[four_temperaments_keirsey]], [[keirsey]], [[pygmalion_project]], [[te
 > character, the emergent form, which develops through the
 > interaction of temperament and environment.
 > (raw/keirsey/please-understand-me-ii.epub, ch. 2)
+
+> *Перевод:* Наш мозг — что-то вроде компьютера, в котором
+> темперамент играет роль hardware, а характер — software. Hardware
+> — это физическая основа, из которой возникает характер,
+> оставляющий узнаваемый отпечаток на установках и действиях
+> каждого индивида. Эту лежащую в основе устойчивость можно
+> наблюдать с самого раннего возраста — одни черты раньше, другие
+> позже, — задолго до того, как у индивидуального опыта или
+> социального контекста (то есть собственного «software»)
+> появилось время или повод отпечататься в человеке. Таким
+> образом, темперамент — это врождённая форма человеческой
+> природы; характер — её эмерджентная форма, развивающаяся через
+> взаимодействие темперамента и среды.
 
 Различение работает так:
 
@@ -63,6 +81,14 @@ related: [[four_temperaments_keirsey]], [[keirsey]], [[pygmalion_project]], [[te
 > temperament: stealing chickens, building dams, nurturing
 > companions, or hunting at night.
 
+> *Перевод:* Лисы пред-расположены — рождены — совершать набеги
+> на курятники, бобры — запруживать ручьи, дельфины — держаться
+> сплочённой стаей, а совы — охотиться в одиночку в темноте.
+> Каждый тип существ, если только его созревание не остановлено
+> неблагоприятной средой, развивает привычку, соответствующую
+> его темпераменту: воровать кур, строить плотины, опекать
+> сородичей или охотиться по ночам.
+
 Логика: *habit* (поведенческая рутина конкретной лисы) растёт из
 *pre-disposition* (лисой-вообще-ли быть хищником на птичниках).
 Если среда неблагоприятна, рост habit может быть заторможен, но
@@ -83,6 +109,14 @@ related: [[four_temperaments_keirsey]], [[keirsey]], [[pygmalion_project]], [[te
 > emergence of a self-image based on, say, empathy, benevolence,
 > and authenticity, which are characteristics of the NFs.
 > (raw/keirsey/please-understand-me-ii.epub, ch. 2)
+
+> *Перевод:* SP строят свой самообраз на изящном действии,
+> дерзком духе и приспособляемости к обстоятельствам, причём эти
+> три черты развиваются совместно, по необходимости. Более того,
+> эти три черты, развиваясь вместе словно из единого семени,
+> исключают возникновение самообраза, основанного, скажем, на
+> эмпатии, благожелательности и аутентичности — характеристиках
+> NF.
 
 То есть нельзя хотеть «взять у Artisan адаптивность, а у Idealist
 эмпатию, и стать ещё лучше»: эти черты *противопоказаны* друг
@@ -106,6 +140,9 @@ respectability) и NT (ingenuity, autonomy, willpower).
 > A mature NF is strikingly different from a mature SP. Likewise,
 > a mature NT is astonishingly different from a mature SJ.
 > (raw/keirsey/please-understand-me-ii.epub, ch. 2)
+
+> *Перевод:* Зрелый NF разительно отличается от зрелого SP. Точно
+> так же зрелый NT поразительно отличается от зрелого SJ.
 
 Маслоу с self-actualization, по Кирси, описывает скорее
 *NF-зрелость* (рост как раскрытие аутентичного «я») и ошибочно

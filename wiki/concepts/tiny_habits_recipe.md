@@ -16,12 +16,19 @@ related: [[tiny_habits]], [[fogg_behavior_model]], [[celebration_wires_habit]]
 > (raw/fogg/tiny-habits.pdf, гл. 5 «Emotions Create Habits»,
 > карточка-recipe)
 
+> *Перевод:* После того как [якорь], я [поведение]. Чтобы прошить
+> привычку в мозг, я сразу же [празднование].
+
 Пример из собственной практики Фогга:
 
 > After I brush my teeth, I will floss one tooth. To wire the habit
 > into my brain, I will immediately smile in the mirror and say
 > "Victory!"
 > (raw/fogg/tiny-habits.pdf, гл. 5, личная история Фогга о флоссинге)
+
+> *Перевод:* После того как я почищу зубы, я почищу нитью один зуб.
+> Чтобы прошить привычку в мозг, я сразу же улыбнусь себе в зеркало
+> и скажу «Victory!»
 
 ## 1. Anchor (якорь)
 
@@ -34,6 +41,9 @@ related: [[tiny_habits]], [[fogg_behavior_model]], [[celebration_wires_habit]]
 > After a shower, I always dry off. After I dry off, I hang my
 > towel. [...] The key is "after."
 > (raw/fogg/tiny-habits.pdf, гл. 4)
+
+> *Перевод:* После душа я всегда вытираюсь. После того как
+> вытерся, — вешаю полотенце. […] Ключевое слово — «после».
 
 Якорь должен быть:
 - надёжно повторяющимся;
@@ -64,10 +74,16 @@ prompts», гл. 4).
 > become habit.
 > (raw/fogg/tiny-habits.pdf, гл. 1)
 
+> *Перевод:* Чем проще поведение выполнить, тем больше вероятность,
+> что оно станет привычкой.
+
 И ещё жёстче:
 
 > Make the behavior so tiny that you don't need much motivation.
 > (raw/fogg/tiny-habits.pdf, гл. 3 «Ability — Easy Does It»)
+
+> *Перевод:* Сделай поведение настолько крошечным, чтобы для него не
+> требовалось много мотивации.
 
 Цель — не полезный результат в сам момент (две отжимания ничего не
 тренируют). Цель — *автоматизировать связку якорь→поведение*. Когда
@@ -85,6 +101,9 @@ prompts», гл. 4).
 > was all I had to do.
 > (raw/fogg/tiny-habits.pdf, гл. 3)
 
+> *Перевод:* Я зачислял себе дополнительный балл за то, что прошёлся
+> нитью по большему числу зубов, хотя обязан был только по одному.
+
 ## 3. Celebration (празднование)
 
 Моментальный внутренний жест радости сразу после выполнения. Не
@@ -99,6 +118,11 @@ prompts», гл. 4).
 > performed.
 > (raw/fogg/tiny-habits.pdf, гл. 5)
 
+> *Перевод:* Когда ты эффективно празднуешь, ты подключаешься к
+> системе вознаграждения мозга. Чувствуя себя хорошо в нужный
+> момент, ты заставляешь мозг распознать и закодировать только что
+> выполненную последовательность поведения.
+
 И специально оговаривает, что так называемые «награды» в бытовом
 смысле (массаж раз в месяц за тренировки) не работают:
 
@@ -107,6 +131,11 @@ prompts», гл. 4).
 > massage can motivate you, but they don't rewire your brain.
 > (raw/fogg/tiny-habits.pdf, гл. 5, «Why Celebration Works Best to
 > Build Habits»)
+
+> *Перевод:* Награда должна происходить либо во время поведения,
+> либо через миллисекунды после него. […] Стимулы вроде бонуса с
+> продаж или ежемесячного массажа могут мотивировать, но они не
+> перепрошивают мозг.
 
 Что считается празднованием — индивидуально. Каталог Фогга (гл. 5):
 
@@ -130,11 +159,19 @@ prompts», гл. 4).
 > the habit into my brain, I will immediately say "I'm on fire!"
 > and make a fist.
 
+> *Перевод:* После того как я заварю утренний кофе, я сделаю два
+> отжимания. Чтобы прошить привычку в мозг, я сразу же скажу «I'm on
+> fire!» и сожму кулак.
+
 Или:
 
 > After I put my toothbrush down, I will floss one tooth. To wire
 > the habit into my brain, I will immediately smile at myself in the
 > mirror.
+
+> *Перевод:* После того как я положу зубную щётку, я почищу нитью
+> один зуб. Чтобы прошить привычку в мозг, я сразу же улыбнусь себе
+> в зеркало.
 
 ## Как подбирать
 
@@ -151,6 +188,10 @@ habits to do at once»):
 > Start with three super easy habits—that's what most Habiteers
 > begin with—and add three new habits each month.
 > (raw/fogg/tiny-habits.pdf, гл. 6)
+
+> *Перевод:* Начни с трёх очень простых привычек — именно с этого
+> стартует большинство Habiteer-ов — и каждый месяц добавляй ещё по
+> три новых.
 
 ## Отличие от других «habit stacking» подходов
 

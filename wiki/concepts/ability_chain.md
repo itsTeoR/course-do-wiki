@@ -36,6 +36,10 @@ related: [[tiny_habits]], [[fogg_behavior_model]], [[tiny_habits_recipe]]
 > Factor link.
 > (raw/fogg/tiny-habits.pdf, гл. 3 «Ability — Easy Does It»)
 
+> *Перевод:* Твоя Цепь Способности сильна ровно настолько,
+> насколько силён самый слабый из факторов способности в её
+> звеньях.
+
 ## Discovery Question
 
 Главный вопрос, который Фогг предлагает задавать вместо «почему я
@@ -43,6 +47,8 @@ related: [[tiny_habits]], [[fogg_behavior_model]], [[tiny_habits_recipe]]
 
 > What is making this behavior hard to do?
 > (raw/fogg/tiny-habits.pdf, гл. 3)
+
+> *Перевод:* Что делает это поведение трудным для выполнения?
 
 Фогг называет это Discovery Question — вопросом, который вскрывает,
 по какому именно звену цепи рвётся. Важный акцент: «трудно» здесь —
@@ -53,6 +59,11 @@ related: [[tiny_habits]], [[fogg_behavior_model]], [[tiny_habits_recipe]]
 > hard. I mean any amount of hard to do that would keep you from
 > doing the behavior.
 > (raw/fogg/tiny-habits.pdf, гл. 3)
+
+> *Перевод:* Когда я говорю «трудно выполнить», имей в виду:
+> я не имею в виду «очень трудно». Я имею в виду любую степень
+> трудности, которая удерживает тебя от выполнения этого
+> поведения.
 
 ## Пример самого Фогга: флоссинг
 

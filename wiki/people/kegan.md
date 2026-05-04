@@ -4,7 +4,7 @@ description: Гарвардские исследователи развития 
 type: person
 tradition: [kegan, lahey]
 density: medium
-related: [[immunity_to_change]], [[immunity_map]], [[big_assumptions]], [[adaptive_vs_technical]], [[mental_complexity_stages]]
+related: [[immunity_to_change]], [[immunity_map]], [[big_assumptions]], [[adaptive_vs_technical]], [[mental_complexity_stages]], [[berger]]
 ---
 
 # Роберт Киган и Лайза Лейски (Robert Kegan, Lisa Laskow Lahey)
@@ -85,3 +85,15 @@ immunity to change»).
   Kegan, R. *The Evolving Self* (1982) и *In Over Our Heads*
   (1994). В wiki не разобраны; цитируются только через ссылки в
   *Immunity to Change*.
+
+## Ученики и продолжатели
+
+- [[berger|Дженнифер Гарви Бергер]] — гарвардская ученица Кигана,
+  переводит конструктивно-развитийную теорию в практику коучинга
+  и лидерства в комплексности (*Changing on the Job*, 2012;
+  *Simple Habits for Complex Times*, 2015). Использует ту же
+  модель плато (Imperial / Socialized / Self-Authoring /
+  Self-Transforming) и ту же диагностическую процедуру
+  (Subject-Object Interview), но добавляет операционные понятия
+  [[growth_edge|границы роста]] и [[three_habits_of_mind|трёх
+  привычек разума]], которых у самого Кигана нет.

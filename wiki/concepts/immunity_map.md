@@ -63,6 +63,13 @@ related: [[immunity_to_change]], [[big_assumptions]], [[adaptive_vs_technical]],
 > (raw/kegan/immunity-to-change.epub, гл. 2, «Peter’s immunity
 > map»)
 
+> *Перевод:* Мы занимаем контринтуитивно уважительную позицию
+> по отношению к мешающим поведениям второй колонки. Вместо
+> того чтобы относиться к ним как к тому, чему просто нужно
+> исчезнуть, мы смотрим на эти поведения как на ценный ресурс,
+> ценную информацию, из которой можно извлечь более полную
+> картину того, что на самом деле может происходить.
+
 Поведение колонки 2 — *симптом*, а не *болезнь*. Его надо читать
 как улику.
 
@@ -84,7 +91,11 @@ related: [[immunity_to_change]], [[big_assumptions]], [[adaptive_vs_technical]],
   Колонка 3: «To have things done my way; to experience myself as
   having a direct impact; to preserve my sense of myself as the
   super problem solver, the one who knows best, the one who is in
-  control» (raw/kegan/immunity-to-change.epub, гл. 2, «Peter’s
+  control» (рус.: «Чтобы дела делались по-моему; чтобы чувствовать
+  свой прямой вклад; чтобы сохранять собственный образ
+  супер-решателя проблем, того, кто знает лучше, того, кто держит
+  всё под контролем»)
+  (raw/kegan/immunity-to-change.epub, гл. 2, «Peter’s
   immunity map»).
 
 - *Рон, COO, кейс гл. 2.* Колонка 1: быть прямее, говорить CEO
@@ -102,6 +113,9 @@ related: [[immunity_to_change]], [[big_assumptions]], [[adaptive_vs_technical]],
 > raw/kegan/immunity-to-change.epub, гл. 2, «When an immune
 > system becomes part of the problem»)
 
+> *Перевод:* Моя карта иммунитета — это картина: я с одной ногой
+> на газу и другой на тормозе!
+
 Колонки 1 и 3 вместе — не ложь и правда. Это *живое противоречие*.
 Обе стороны искренни.
 
@@ -110,6 +124,12 @@ related: [[immunity_to_change]], [[big_assumptions]], [[adaptive_vs_technical]],
 > he reaches for another cigarette. Change fails to occur because
 > we mean both things. It fails to occur because we are a living
 > contradiction. (ibid.)
+
+> *Перевод:* Изменение не срывается из-за неискренности.
+> Сердечный больной не неискренен в своём желании продолжать
+> жить, даже когда тянется за очередной сигаретой. Изменение
+> срывается потому, что мы имеем в виду и то, и другое. Оно
+> срывается потому, что мы — живое противоречие.
 
 ## Колонка 4: Big Assumptions
 
@@ -123,6 +143,14 @@ related: [[immunity_to_change]], [[big_assumptions]], [[adaptive_vs_technical]],
 > working beautifully to manage it automatically.
 > (raw/kegan/immunity-to-change.epub, гл. 2, «The emotional
 > ecology of an immune system»)
+
+> *Перевод:* Иммунная система Питера, по-видимому, справляется с
+> постоянной тревогой по поводу его возможной заменимости и со
+> страхом потерять контроль. Иммунная система Рона — с
+> постоянной тревогой о риске для важных отношений. Но ни один
+> из них не переживает эту тревогу сознательно и постоянно,
+> потому что иммунная система прекрасно работает, чтобы
+> управляться с ней автоматически.
 
 Big Assumption обычно имеет форму условного утверждения:
 

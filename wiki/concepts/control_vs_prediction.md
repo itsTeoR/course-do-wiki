@@ -1,7 +1,7 @@
 ---
 type: concept
 tradition: [sarasvathy]
-related: [[effectuation]], [[affordable_loss]], [[validated_learning_vs_effectuation]]
+related: [[effectuation]], [[affordable_loss]], [[validated_learning_vs_effectuation]], [[purpose_statement_vs_emergent_goal]]
 ---
 
 # Контроль вместо прогноза (control vs prediction)

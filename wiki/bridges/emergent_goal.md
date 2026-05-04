@@ -1,7 +1,7 @@
 ---
 type: bridge
 tradition: [flores, sarasvathy, csikszentmihalyi]
-related: [[conversations_for_action]], [[conditions_of_satisfaction]], [[effectuation]], [[bird_in_hand]], [[affordable_loss]], [[creativity_csikszentmihalyi]], [[creative_process_five_phases]], [[effectuation_vs_goal_setting]], [[validated_learning_vs_effectuation]], [[grand_ideal_vs_emergent_vision]]
+related: [[conversations_for_action]], [[conditions_of_satisfaction]], [[effectuation]], [[bird_in_hand]], [[affordable_loss]], [[creativity_csikszentmihalyi]], [[creative_process_five_phases]], [[effectuation_vs_goal_setting]], [[validated_learning_vs_effectuation]], [[grand_ideal_vs_emergent_vision]], [[purpose_statement_vs_emergent_goal]]
 density: medium
 status: ready
 ---
@@ -342,6 +342,17 @@ gatekeepers: сколько бы insights ни меняли направлени
   работа принята полем. Но структурно это другие вещи, чем
   «переход венчура из эффектуации в каузацию», и их
   сопоставление нужно делать отдельно.
+- Прямой оппонент всему этому мосту — операция, противоположная
+  эмерджентной цели: предварительно сформулированный письменный
+  purpose statement, перенастраивающий нейрологию исполнителя
+  *до* действия. См.
+  [[purpose_statement_vs_emergent_goal]] (Stulberg/Magness vs
+  Sarasvathy): спор не «нужна ли цель», а об операции — *уже*
+  зафиксирована в тексте до действия или *складывается* в
+  действии. Если позиция Стульберга и Мэгнесса работает на
+  заявленных нейрологических основаниях, она противоречит не
+  только Сарасвати, но всем трём авторам этого моста
+  одновременно.
 
 ---
 

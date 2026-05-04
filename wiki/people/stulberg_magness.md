@@ -3,7 +3,7 @@ name: Брэд Стульберг и Стив Мэгнесс
 description: Американский автор-популяризатор (Стульберг) и тренер бегунов на длинные дистанции (Мэгнесс); соавторы Peak Performance (2017) — применения принципов элитного спорта к когнитивной и творческой работе
 type: person
 tradition: [stulberg, magness]
-related: [[peak_performance]], [[stress_plus_rest]], [[just_manageable_challenge]], [[purpose_as_performance]]
+related: [[peak_performance]], [[stress_plus_rest]], [[just_manageable_challenge]], [[purpose_as_performance]], [[purpose_statement_vs_emergent_goal]]
 ---
 
 # Брэд Стульберг и Стив Мэгнесс

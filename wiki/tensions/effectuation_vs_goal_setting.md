@@ -1,7 +1,7 @@
 ---
 type: tension
 tradition: [sarasvathy]
-related: [[effectuation]], [[control_vs_prediction]], [[affordable_loss]], [[emergent_goal]], [[validated_learning_vs_effectuation]], [[grand_ideal_vs_emergent_vision]]
+related: [[effectuation]], [[control_vs_prediction]], [[affordable_loss]], [[emergent_goal]], [[validated_learning_vs_effectuation]], [[grand_ideal_vs_emergent_vision]], [[purpose_statement_vs_emergent_goal]]
 status: seed
 ---
 
@@ -91,6 +91,16 @@ KPI, OKR — в этой логике.
   стратегическая идентичность складывается по ходу. Та же
   ось «pre-existent vs emergent», но на этаж выше тактической
   цели.
+- Четвёртый угол — экзистенциальный масштаб:
+  [[purpose_statement_vs_emergent_goal]] (Stulberg/Magness vs
+  Sarasvathy). Оппонент эффектуации здесь — не SMART-цель
+  Locke/Latham и не grand ideal Бойда, а *purpose statement* —
+  одно-три предложения, в которых ранжированные core values
+  соединяются в письменно зафиксированную направляющую,
+  перенастраивающую нейрологию исполнителя *до* действия. Та
+  же ось «pre-formulated vs emergent», но в третьем масштабе —
+  не тактическая цель задачи, не стратегическое видение, а
+  цель, структурирующая жизнь и работу в целом.
 
 ---
 

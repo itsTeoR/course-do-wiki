@@ -4,7 +4,7 @@ description: Трёхчастный каркас устойчивой пиков
 type: framework
 tradition: [stulberg, magness]
 density: medium
-related: [[stress_plus_rest]], [[just_manageable_challenge]], [[purpose_as_performance]], [[stulberg_magness]], [[flow_conditions_for_creativity]], [[stress_plus_rest]]
+related: [[stress_plus_rest]], [[just_manageable_challenge]], [[purpose_as_performance]], [[stulberg_magness]], [[flow_conditions_for_creativity]], [[purpose_statement_vs_emergent_goal]]
 ---
 
 # Peak Performance

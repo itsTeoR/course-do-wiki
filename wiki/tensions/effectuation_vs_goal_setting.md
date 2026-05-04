@@ -1,7 +1,7 @@
 ---
 type: tension
 tradition: [sarasvathy]
-related: [[effectuation]], [[control_vs_prediction]], [[affordable_loss]], [[emergent_goal]], [[validated_learning_vs_effectuation]]
+related: [[effectuation]], [[control_vs_prediction]], [[affordable_loss]], [[emergent_goal]], [[validated_learning_vs_effectuation]], [[grand_ideal_vs_emergent_vision]]
 status: seed
 ---
 
@@ -83,6 +83,14 @@ KPI, OKR — в этой логике.
   одной альтернативе, а *классу* пре-формулированных утверждений;
   стоит отдельно картировать его внутреннюю структуру (цель /
   гипотеза / vision / strategic intent / ...).
+- Третий угол того же класса — стратегическая идентичность
+  целиком, а не отдельная цель: [[grand_ideal_vs_emergent_vision]]
+  (Boyd vs Sarasvathy, Flores, Csikszentmihalyi). У Бойда grand
+  ideal / unifying vision / noble philosophy — структурное
+  условие стратегии и моральной связности своих; у троих
+  стратегическая идентичность складывается по ходу. Та же
+  ось «pre-existent vs emergent», но на этаж выше тактической
+  цели.
 
 ---
 

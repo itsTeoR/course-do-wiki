@@ -1,7 +1,7 @@
 ---
 type: bridge
 tradition: [flores, sarasvathy, csikszentmihalyi]
-related: [[conversations_for_action]], [[conditions_of_satisfaction]], [[effectuation]], [[bird_in_hand]], [[affordable_loss]], [[creativity_csikszentmihalyi]], [[creative_process_five_phases]], [[effectuation_vs_goal_setting]], [[validated_learning_vs_effectuation]]
+related: [[conversations_for_action]], [[conditions_of_satisfaction]], [[effectuation]], [[bird_in_hand]], [[affordable_loss]], [[creativity_csikszentmihalyi]], [[creative_process_five_phases]], [[effectuation_vs_goal_setting]], [[validated_learning_vs_effectuation]], [[grand_ideal_vs_emergent_vision]]
 density: medium
 status: ready
 ---
@@ -316,11 +316,12 @@ gatekeepers: сколько бы insights ни меняли направлени
   противоположный полюс (Locke & Latham, SMART, OKR) как один
   культурно доминирующий. Возможно, tension усилится, если в
   wiki появится статья по goal-setting theory и её можно будет
-  сопоставить со всеми тремя авторами сразу. Отдельно в индексе
-  стоит кандидат «Unifying vision / grand ideal vs эмерджентная
-  цель» (Boyd vs Sarasvathy, Flores, Csikszentmihalyi) — прямое
-  tension-соседство этого bridge на уровне *стратегической* цели,
-  а не тактической.
+  сопоставить со всеми тремя авторами сразу. Параллельно
+  существует готовый
+  [[grand_ideal_vs_emergent_vision|tension про grand ideal Бойда
+  vs эмерджентную стратегическую идентичность Сарасвати, Флореса
+  и Чиксентмихайи]] — прямое tension-соседство этого bridge на
+  уровне *стратегической* цели/видения, а не тактической.
 - У Чиксентмихайи есть сильная оговорка: creativity с большой C
   доступна меньшинству, и требует десятилетия мастерства в
   домене. У Флореса и Сарасвати такой оговорки нет: их операция

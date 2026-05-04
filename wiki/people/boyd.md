@@ -3,7 +3,7 @@ name: Джон Бойд (John R. Boyd)
 description: Полковник USAF, военный теоретик; автор OODA-петли, Destruction and Creation, Patterns of Conflict, Conceptual Spiral
 type: person
 tradition: [boyd]
-related: [[ooda_loop]], [[patterns_of_conflict]], [[destruction_and_creation]], [[conceptual_spiral]], [[categories_of_conflict]], [[implicit_orientation_and_schwerpunkt]]
+related: [[ooda_loop]], [[patterns_of_conflict]], [[destruction_and_creation]], [[conceptual_spiral]], [[categories_of_conflict]], [[implicit_orientation_and_schwerpunkt]], [[grand_ideal_vs_emergent_vision]]
 ---
 
 # Джон Бойд (John R. Boyd, 1927–1997)

@@ -1,7 +1,7 @@
 ---
 type: framework
 tradition: [flores, speech-act-theory]
-related: [[speech_acts]], [[conditions_of_satisfaction]], [[conversations_for_possibilities]], [[assessments_vs_assertions]], [[moods_and_trust]], [[flores]], [[emergent_goal]]
+related: [[speech_acts]], [[conditions_of_satisfaction]], [[conversations_for_possibilities]], [[assessments_vs_assertions]], [[moods_and_trust]], [[flores]], [[emergent_goal]], [[grand_ideal_vs_emergent_vision]]
 ---
 
 # Conversations for Action (Fernando Flores)

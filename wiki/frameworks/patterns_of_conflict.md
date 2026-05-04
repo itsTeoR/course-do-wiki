@@ -4,7 +4,7 @@ description: Исторический синтез Бойда — от Сунь-
 type: framework
 tradition: [boyd]
 density: high
-related: [[boyd]], [[ooda_loop]], [[categories_of_conflict]], [[destruction_and_creation]], [[implicit_orientation_and_schwerpunkt]], [[directed_opportunism]]
+related: [[boyd]], [[ooda_loop]], [[categories_of_conflict]], [[destruction_and_creation]], [[implicit_orientation_and_schwerpunkt]], [[directed_opportunism]], [[grand_ideal_vs_emergent_vision]]
 ---
 
 # Patterns of Conflict (Бойд)

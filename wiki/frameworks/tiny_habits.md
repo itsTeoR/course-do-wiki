@@ -4,7 +4,7 @@ description: Инженерный метод поведенческого диз
 type: framework
 tradition: [fogg]
 density: medium
-related: [[fogg_behavior_model]], [[tiny_habits_recipe]], [[celebration_wires_habit]], [[ability_chain]], [[fogg]], [[tensions/via_negativa_vs_via_positiva]], [[tensions/habit_vs_spiritual_exercise]], [[tensions/environment_design_vs_self_interference]], [[tensions/high_leverage_vs_accessible_start]]
+related: [[fogg_behavior_model]], [[tiny_habits_recipe]], [[celebration_wires_habit]], [[ability_chain]], [[fogg]], [[tensions/via_negativa_vs_via_positiva]], [[tensions/habit_vs_spiritual_exercise]], [[tensions/environment_design_vs_self_interference]], [[tensions/high_leverage_vs_accessible_start]], [[tensions/identity_relabelling_vs_behavior_first]]
 ---
 
 # Tiny Habits (Фогг)
@@ -241,7 +241,13 @@ B=MAP-инженерия среды сталкивается с голлвеев
 на накопление параметрических действий («tiny → transformative»)
 сталкивается с замечанием Медоуз, что параметрический низ списка
 leverage points не сдвигает поведение системы, а структурный верх
-сцеплён с её сопротивлением. Фогг явно оппонирует:
+сцеплён с её сопротивлением. Пятая ось — порядок между
+самоописанием и действием: в
+[[tensions/identity_relabelling_vs_behavior_first]] фогговское
+«identity will shift» как побочный эффект накопленных
+tiny-поведений сталкивается с шеровским «claim their true
+identity» как первой и иногда единственной нужной операцией.
+Фогг явно оппонирует:
 
 - Подходу «привычка формируется за 21/66/90 дней через повторение»
   — Фогг называет это «recycling old ideas» (рус.: «переработкой

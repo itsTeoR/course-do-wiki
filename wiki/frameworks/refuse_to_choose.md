@@ -1,7 +1,7 @@
 ---
 type: framework
 tradition: [sher]
-related: [[sher]], [[rewards_and_durations]], [[good_enough_job]], [[learn_try_teach_leave]], [[best_work_project]], [[tensions/norm_vs_clinic_phenotype]]
+related: [[sher]], [[rewards_and_durations]], [[good_enough_job]], [[learn_try_teach_leave]], [[best_work_project]], [[tensions/norm_vs_clinic_phenotype]], [[tensions/identity_relabelling_vs_behavior_first]]
 ---
 
 # Refuse to Choose (сканеры)
@@ -160,6 +160,16 @@ emptiness of those lives shocks me», — цитата Тима Краббе в
   который сканер вкладывает всё и доводит до результата, со всеми
   атрибутами завершения (real deadline, внешняя презентация).
   Между best-work проектами — полный режим сканера.
+
+## Где Шер расходится с поведенческой инженерией
+
+Шер ставит распознавание идентичности перед любым инструментом:
+«the only thing Scanners needed was to […] claim their true
+identity» (raw/sher/refuse-to-choose.epub, гл. 1). Поведенческая
+традиция (Fogg, *Tiny Habits*) разворачивает порядок —
+identity-сдвиг там описан как побочный эффект накопленных
+крошечных действий с celebration. Подробный разбор оси —
+[[tensions/identity_relabelling_vs_behavior_first]].
 
 ## Что Шер не утверждает
 

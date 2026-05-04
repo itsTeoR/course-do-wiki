@@ -4,7 +4,7 @@ description: Фогг о том, что привычку прошивает не
 type: concept
 tradition: [fogg]
 density: medium
-related: [[tiny_habits]], [[tiny_habits_recipe]], [[fogg_behavior_model]], [[tensions/habit_vs_spiritual_exercise]]
+related: [[tiny_habits]], [[tiny_habits_recipe]], [[fogg_behavior_model]], [[tensions/habit_vs_spiritual_exercise]], [[tensions/identity_relabelling_vs_behavior_first]]
 ---
 
 # Celebration: привычка прошивается положительной эмоцией

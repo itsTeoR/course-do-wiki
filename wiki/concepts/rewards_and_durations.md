@@ -1,7 +1,7 @@
 ---
 type: concept
 tradition: [sher]
-related: [[refuse_to_choose]], [[sher]]
+related: [[refuse_to_choose]], [[sher]], [[tensions/identity_relabelling_vs_behavior_first]]
 ---
 
 # Rewards и Durations (метафора пчелы)

@@ -3,7 +3,7 @@ name: BJ Фогг
 description: Американский исследователь поведения, основатель Stanford Behavior Design Lab, автор Tiny Habits (2020)
 type: person
 tradition: [fogg]
-related: [[tiny_habits]], [[fogg_behavior_model]], [[tiny_habits_recipe]], [[celebration_wires_habit]], [[ability_chain]]
+related: [[tiny_habits]], [[fogg_behavior_model]], [[tiny_habits_recipe]], [[celebration_wires_habit]], [[ability_chain]], [[tensions/identity_relabelling_vs_behavior_first]]
 ---
 
 # BJ Фогг (BJ Fogg)

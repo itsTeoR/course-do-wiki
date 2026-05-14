@@ -62,6 +62,13 @@ index_do_course.md».
 - [Энхиридион (Эпиктет)](frameworks/enchiridion_epictetus.md)
 - [Адаптивное лидерство (Heifetz)](frameworks/adaptive_leadership.md)
 - [Reboot — лидерство как искусство взросления (Colonna)](frameworks/reboot_colonna.md)
+- [The War of Art (Pressfield)](frameworks/war_of_art.md)
+- [Structured procrastination (Perry)](frameworks/structured_procrastination.md)
+- [Procrastination puzzle (Pychyl)](frameworks/procrastination_puzzle.md)
+- [Executive Functions (Barkley)](frameworks/executive_functions_barkley.md)
+- [Structural dynamics (Fritz)](frameworks/structural_dynamics_fritz.md)
+- [Временные перспективы (Zimbardo & Boyd)](frameworks/time_perspectives_zimbardo.md)
+- [Бхагавад-гита As It Is (Prabhupada)](frameworks/bhagavad_gita.md)
 
 ### Concepts — отдельные идеи
 Единичные операциональные понятия, которые можно вырвать из родного
@@ -177,6 +184,30 @@ index_do_course.md».
 - [Предсказуемое vs непредсказуемое (Berger & Johnston, Snowden)](concepts/predictable_vs_complex.md)
 - [Radical self-inquiry (Colonna)](concepts/radical_self_inquiry.md)
 - [Loyal Soldier и Crow — защитные структуры детства (Colonna)](concepts/loyal_soldier_and_crow.md)
+- [Resistance — внутренняя сила, противостоящая работе (Pressfield)](concepts/resistance_pressfield.md)
+- [Turning pro — позиция профессионала против Resistance](concepts/turning_pro.md)
+- [Territory vs hierarchy — два режима ориентации (Pressfield)](concepts/territorial_vs_hierarchical.md)
+- [Task triage — разрешение себе сделать adequate (Perry)](concepts/task_triage.md)
+- [Akrasia — слабость воли как философская проблема](concepts/akrasia.md)
+- [Giving in to feel good — короткое возмещение настроения (Pychyl)](concepts/giving_in_to_feel_good.md)
+- [Implementation intentions — преддекизии «IF X, THEN Y» (Gollwitzer)](concepts/implementation_intentions.md)
+- [Affective forecasting — почему «завтра не захочется» (Gilbert/Wilson)](concepts/affective_forecasting.md)
+- [Self-handicapping — откладывание как защита самооценки (Ferrari)](concepts/self_handicapping.md)
+- [EF как extended phenotype (Barkley)](concepts/extended_phenotype_ef.md)
+- [Cross-temporal organization (Barkley)](concepts/cross_temporal_organization.md)
+- [Time blindness (Barkley)](concepts/time_blindness.md)
+- [Структурное натяжение (Fritz)](concepts/structural_tension.md)
+- [Creative vs reactive-responsive orientation (Fritz)](concepts/creative_vs_reactive_orientation.md)
+- [Oscillating vs advancing pattern (Fritz)](concepts/oscillating_vs_advancing_pattern.md)
+- [Структурный конфликт (Fritz)](concepts/structural_conflict.md)
+- [Hierarchy of goals (Fritz)](concepts/hierarchy_of_goals.md)
+- [Balanced time perspective (Zimbardo)](concepts/balanced_time_perspective.md)
+- [Present fatalism (Zimbardo)](concepts/present_fatalism.md)
+- [Карма-йога (Гита)](concepts/karma_yoga.md)
+- [Дхарма (Гита)](concepts/dharma.md)
+- [Три гуны (Гита)](concepts/three_gunas.md)
+- [Джняна-йога (Гита)](concepts/jnana_yoga.md)
+- [Бхакти-йога (Гита)](concepts/bhakti_yoga.md)
 
 ### People — ключевые авторы
 Короткие справки о людях, чьи идеи мы используем. Не биографии — а
@@ -210,6 +241,13 @@ index_do_course.md».
 - [Рональд Хейфетц (Ronald A. Heifetz)](people/heifetz.md)
 - [Дженнифер Гарви Бергер (Jennifer Garvey Berger)](people/berger.md)
 - [Джерри Колонна (Jerry Colonna)](people/colonna.md)
+- [Стивен Прессфилд (Steven Pressfield)](people/pressfield.md)
+- [Джон Перри (John Perry)](people/perry.md)
+- [Тимоти Пычил (Timothy A. Pychyl)](people/pychyl.md)
+- [Russell A. Barkley](people/barkley.md)
+- [Роберт Фриц (Robert Fritz)](people/fritz.md)
+- [Филип Зимбардо (Philip Zimbardo)](people/zimbardo.md)
+- [А. Ч. Бхактиведанта Свами Прабхупада](people/prabhupada.md)
 
 ## Bridges
 
@@ -992,6 +1030,78 @@ index_do_course.md».
   третий — не про устойчивость защиты к натиску и не про
   траекторию повторения, а про *модус работы* (приветствие
   домой вместо борьбы) как методологический выбор.
+- Внутренний наблюдатель vs внутренний исполнитель (Pressfield,
+  Gallwey, Strozzi): Прессфилд делит психику на Ego (где живёт
+  Resistance) и Self (где импульс к творчеству); Голлвей — на
+  Self 1 (комментатор-инструктор) и Self 2 (исполнитель);
+  Строцци — на conditioned tendency (заученная реактивная форма)
+  и центрированное присутствие. Все три различения структурно об
+  одном: внутри человека есть «инструктор», который мешает «тому,
+  кто делает», и работа — переключение центра действия от первого
+  ко второму. У Прессфилда «инструктор» назван врагом, у Голлвея
+  — нужен в рефлексии, в действии вреден, у Строцци —
+  conditioned tendency не уничтожается, а интегрируется через
+  practice. Соседствует с готовым [[bridges/via_negativa_goldratt_gallwey]]
+  и кандидатом «welcoming home защитной структуры»; угол —
+  «комментатор vs исполнитель» как универсальная диагностическая
+  ось.
+- «Just get started» в трёх регистрах (Pychyl, Pressfield, Fogg):
+  Пычил — экспериментально, через experience sampling: восприятие
+  задачи в момент начала меняется, аверзия снижается; мантра
+  «just get started». Прессфилд — мифологически: «Start before
+  you're ready», «the moment one definitely commits oneself, then
+  providence moves too» (Goethe/Murray). Фогг — поведенчески: tiny
+  habits размером настолько малым, что начало гарантированно
+  состоится. Один ход в трёх упаковках — психологической,
+  поэтической, инженерной. Кандидат проверить, не растворяется ли
+  в существующем «Малое действие как обход сопротивления системы»
+  (Fogg, Goldratt, Ries) — там акцент на *размер* действия, здесь
+  на *приоритет начала над подготовкой*. Угол отдельный.
+- Implementation intentions ≈ Tiny Habits recipe (Pychyl/Gollwitzer,
+  Fogg): формула Голлвитцера «IF X, THEN Y» и формула Фогга «After
+  I [anchor], I will [tiny behavior]» — структурно один шаг:
+  привязать поведение к конкретному триггеру, чтобы убрать момент
+  волевого решения. Различие в фокусе: Голлвитцер/Пычил — на
+  инициации действия в момент-X; Фогг — на закреплении привычки
+  через celebration после действия. Один и тот же поведенческий
+  шаблон, разные акценты на стадиях цепочки. Соседствует с
+  кандидатом «Just get started в трёх регистрах».
+- Сопротивление как навигационный сигнал (Pressfield, Berger,
+  Kegan, Heifetz): у Прессфилда Resistance is infallible — указывает
+  на true North, на то, что важнее всего сделать. У Бергер growth
+  edge — там, где встречаешься с собственными пределами, начинается
+  рост. У Кигана big assumption — точка, в которой защита сильнее
+  всего, — место для эксперимента. У Хейфетца work avoidance —
+  диагностический знак, что вопрос важен (адаптивный), потому и
+  избегается. Общая операция: сила, с которой сопротивление держит
+  систему/субъекта в нынешнем состоянии, пропорциональна важности
+  следующего шага. Не «убрать сопротивление», а «использовать его
+  как компас». Очень крупный кандидат, проверить, не разлагается
+  ли на два-три более узких.
+- Resistance ≈ work avoidance, два локуса (Pressfield, Heifetz):
+  Прессфилд описывает Resistance как внутреннюю силу, мешающую
+  индивиду делать «work that matters»; Хейфетц описывает work
+  avoidance как системные паттерны (denial, scapegoating,
+  externalizing the enemy, pretending the problem is technical),
+  которыми социальная система уходит от адаптивной работы. Тот же
+  феномен на двух масштабах. Каталоги симптомов местами буквально
+  совпадают (rationalization, distraction, attacking
+  individuals). Можно собрать как bridge с акцентом на изоморфизм
+  «защитная структура индивида ↔ защитная структура системы», но
+  кандидат может оказаться слишком крупным; альтернативно — как
+  tension по локусу вмешательства (Прессфилд — индивидуальная
+  воля; Хейфетц — лидерская работа с дистрессом системы).
+  Проверить, не лучше ли оформить как tension.
+- Task triage ≈ affordable loss ≈ MVP (Perry, Sarasvathy, Ries):
+  все три ходом отказываются от **прогноза идеального результата** и
+  переводят решение к контролируемой величине. Перри: на стадии
+  принятия задачи решить, что сделать adequate, а не perfect.
+  Сарасвати: считать allowable loss, а не expected return.
+  Рис: минимально жизнеспособный продукт, чтобы быстрее перейти
+  к learning. Структурно — снятие фантазии идеала на старте.
+  Соседствует с готовой «Affordable loss ≈ карма-йога» и
+  кандидатом «Affordable loss как разновидность via negativa» —
+  там разные углы; здесь акцент на **операционализации**.
 
 ### Готовые
 - [[tensions/effectuation_vs_goal_setting]] (H1, H2) — эффектуация
@@ -1554,6 +1664,55 @@ index_do_course.md».
   позиция с discipline of assent у стоиков (искать bridge с
   Эпиктетом/Хадо), и насколько радикальный-жест-литература
   представлена в wiki как отдельный автор.
+- Использовать прокрастинацию vs преодолеть её (Perry vs Pychyl):
+  Перри строит протокол *из* прокрастинации — structured
+  procrastination, task triage, horizontal organization,
+  collaboration с non-procrastinators; цель «не превратить
+  читателя в нон-прокрастинатора», а вернуть ему чувство
+  компетентности при сохранении черты. Пычил строит протокол
+  *против* прокрастинации — implementation intentions, just get
+  started, willpower как ресурс, self-forgiveness как
+  возвращение к approach motivation; прокрастинация — failure,
+  её надо лечить. Перри сам ссылается на Пычила в Appendix как на
+  единственное self-help исключение и одобряет его книгу,
+  одновременно противопоставляя свою позицию: «If you can commit
+  yourself to leaving procrastination behind, Dr. Pychyl's book
+  will help you, I'm sure. You might prefer a more indirect
+  approach, however»
+  (raw/perry/art_of_procrastination.epub, App.). Tension чистый,
+  с прямым диалогом авторов — расхождение в самом приёме изменения,
+  не в диагнозе.
+- Resistance как онтологически отдельная сила vs прокрастинация
+  как self-regulation failure (Pressfield vs Pychyl): Прессфилд
+  даёт Resistance имя с прописной буквы, описывает её свойства
+  (invisible, internal, insidious, implacable, impersonal,
+  infallible, universal), помещает её в космологию Self/Ego,
+  и в третьей книге *War of Art* помещает за этим — Муз и ангелов.
+  Пычил относится к тому же феномену как к **поведенческой
+  привычке**, основанной на giving in to feel good, поддерживаемой
+  cognitive biases (affective forecasting, temporal discounting,
+  intransitive preferences). Расхождение онтологическое: одна сила
+  или набор поведенческих/когнитивных механизмов. Прескриптивные
+  следствия разные: у Прессфилда — turning pro как акт воли,
+  ежедневное возвращение в окоп; у Пычила — инженерия среды и
+  предрешений. На уровне *первого вмешательства* — два разных
+  входа в работу.
+- Voluntaristic pro-decision vs behavior engineering (Pressfield
+  vs Pychyl, Fogg): у Прессфилда turning pro — «a decision
+  brought about by an act of will. We make up our minds to view
+  ourselves as pros and we do it. Simple as that». У Пычила и
+  Фогга воля — ограниченный или ненадёжный ресурс, главное —
+  заранее инженерить среду и предрешения, чтобы воля не
+  потребовалась в момент Х. Tension о роли воли в изменении
+  поведения: суверенный акт идентичности vs минимизация роли
+  воли через дизайн. Соседствует с
+  [[tensions/environment_design_vs_self_interference]] (Fogg vs
+  Gallwey, ось «внутреннее / внешнее»); здесь ось «воля как
+  главный двигатель / воля как ненадёжный ресурс, который
+  нужно обойти». Сюда же относится Прессфилдовское: «Resistance
+  recruits criticism, illness, support — anything to keep you
+  from your work» — это критика инфраструктурного подхода
+  как формы Resistance.
 
 ### Отклонённые
 - Внутренний локус (тело, Self 2) vs внешний локус (речь,

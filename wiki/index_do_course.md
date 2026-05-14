@@ -62,6 +62,7 @@ index_do_course.md».
 - [Энхиридион (Эпиктет)](frameworks/enchiridion_epictetus.md)
 - [Адаптивное лидерство (Heifetz)](frameworks/adaptive_leadership.md)
 - [Reboot — лидерство как искусство взросления (Colonna)](frameworks/reboot_colonna.md)
+- [Feel-Good Productivity (Абдаал)](frameworks/feel_good_productivity.md)
 
 ### Concepts — отдельные идеи
 Единичные операциональные понятия, которые можно вырвать из родного
@@ -177,6 +178,10 @@ index_do_course.md».
 - [Предсказуемое vs непредсказуемое (Berger & Johnston, Snowden)](concepts/predictable_vs_complex.md)
 - [Radical self-inquiry (Colonna)](concepts/radical_self_inquiry.md)
 - [Loyal Soldier и Crow — защитные структуры детства (Colonna)](concepts/loyal_soldier_and_crow.md)
+- [Три типа выгорания — overexertion / depletion / misalignment (Абдаал)](concepts/three_types_of_burnout.md)
+- [Unblock method — диагноз мешающей эмоции вместо мотивации/дисциплины (Абдаал)](concepts/unblock_method.md)
+- [NICE goals (Абдаал)](concepts/nice_goals.md)
+- [Relative Autonomy Continuum (Шелдон, Абдаал)](concepts/relative_autonomy_continuum.md)
 
 ### People — ключевые авторы
 Короткие справки о людях, чьи идеи мы используем. Не биографии — а
@@ -210,6 +215,7 @@ index_do_course.md».
 - [Рональд Хейфетц (Ronald A. Heifetz)](people/heifetz.md)
 - [Дженнифер Гарви Бергер (Jennifer Garvey Berger)](people/berger.md)
 - [Джерри Колонна (Jerry Colonna)](people/colonna.md)
+- [Али Абдаал (Ali Abdaal)](people/abdaal.md)
 
 ## Bridges
 
@@ -992,6 +998,44 @@ index_do_course.md».
   третий — не про устойчивость защиты к натиску и не про
   траекторию повторения, а про *модус работы* (приветствие
   домой вместо борьбы) как методологический выбор.
+- Прокрастинация как диагностируемый симптом, не моральный
+  провал (Abdaal, Hallowell, Wohl): Абдаал противопоставляет
+  unblock-метод «методу мотивации» и «методу дисциплины» и
+  заменяет их *диагнозом конкретной мешающей эмоции*
+  (uncertainty / fear / inertia), вместо подавления нежелания.
+  Хэлловелл переходит от моральной модели ADHD («ленивый,
+  несфокусированный») к нейробиологической, снимая
+  интернализованную самостигматизацию. Майкл Воль (2010)
+  эмпирически показывает: студенты, прощающие себе
+  прокрастинацию, прокрастинируют меньше на следующем этапе —
+  самонаказание усиливает следующий заход. Три традиции —
+  самопомощь, клиника, экспериментальная психология — выстраивают
+  одну операцию: *диагноз вместо морального осуждения*.
+  Соседствует с готовой [[bridges/evaluative_voice_suspension]]
+  и с кандидатом «Моральная vs нейробиологическая модель как
+  снятие интернализованного критика (Hallowell, Gallwey)», но
+  угол другой — не про *операцию во время действия*, а про
+  *метаход к рамке* «это симптом, а не я».
+- Жизнь и работа как объект самопостановки экспериментов
+  (Abdaal, Ries, Sarasvathy, Burnett): все четыре каркаса делают
+  экспериментальный режим *центральной операциональной единицей*,
+  а не метафорой. Райс — Build-Measure-Learn для венчура;
+  Сарасвати — эффектуальный цикл с действием как первым шагом и
+  проверкой через коммитменты; Билл Бёрнетт (*Designing Your
+  Life*) — Odyssey Plan + prototyping conversations как
+  prototyping будущего «я»; Абдаал — alignment experiments как
+  локальные изменения с гипотезой и наблюдением плюс
+  «productivity scientist» как итоговая позиция книги. Общая
+  форма: единицей прогресса является *цикл проверки гипотезы* —
+  но в отличие от научной лаборатории, гипотезы касаются
+  *самого экспериментатора*: какой карьерный путь, какой образ
+  жизни, какие отношения подходят именно мне. Соседствует с
+  готовой [[bridges/affordable_loss_karma_yoga]] и с кандидатами
+  «Validated learning ≈ process of ongoing improvement (Ries,
+  Goldratt)» и «Рекурсивный цикл как структура всякого
+  творческого действия (Csikszentmihalyi, Ries)», но угол иной —
+  не цикл per se и не валидация продукта, а *само-применение*:
+  объект эксперимента — собственная жизнь.
 
 ### Готовые
 - [[tensions/effectuation_vs_goal_setting]] (H1, H2) — эффектуация
@@ -1554,6 +1598,21 @@ index_do_course.md».
   позиция с discipline of assent у стоиков (искать bridge с
   Эпиктетом/Хадо), и насколько радикальный-жест-литература
   представлена в wiki как отдельный автор.
+- Output-цели vs input-цели как единица постановки (SMART vs
+  NICE-цели Абдаала vs tiny habits Фогга): SMART требует
+  measurable/observable outcome (Doran, 1981); NICE Абдаала
+  требует controllable input («писать 100 слов в день» вместо
+  «попасть в bestseller list»), прицельно как ответ на критику
+  SMART в *Goals Gone Wild* (Ordóñez et al., 2009 — tunnel
+  vision и подрыв внутренней мотивации); tiny habits Фогга
+  доводят input до атомарного («сделать одно отжимание»). Три
+  позиции на оси input/output, и Абдаал прямо ссылается на
+  критику SMART как обоснование переключения. Соседствует с
+  готовой [[tensions/effectuation_vs_goal_setting]] (там
+  оппонент — *наличие* цели как стартовой точки), но угол
+  другой — не про наличие цели, а про её *форму*: что считается
+  легитимным предметом обязательства — желаемый результат или
+  выполнимое действие.
 
 ### Отклонённые
 - Внутренний локус (тело, Self 2) vs внешний локус (речь,

@@ -176,9 +176,7 @@ index_do_course.md».
 - [Три привычки разума (Berger & Johnston)](concepts/three_habits_of_mind.md)
 - [Предсказуемое vs непредсказуемое (Berger & Johnston, Snowden)](concepts/predictable_vs_complex.md)
 - [Radical self-inquiry (Colonna)](concepts/radical_self_inquiry.md)
-- [Вопрос соучастия — «как я соучастен в том, чего, по моим словам, не хочу» (Colonna)](concepts/complicity_question.md)
 - [Loyal Soldier и Crow — защитные структуры детства (Colonna)](concepts/loyal_soldier_and_crow.md)
-- [Warrior stance — strong back, open heart (Colonna)](concepts/warrior_stance.md)
 
 ### People — ключевые авторы
 Короткие справки о людях, чьи идеи мы используем. Не биографии — а

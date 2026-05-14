@@ -4,7 +4,7 @@ description: Два образа защитных структур у Колон
 type: concept
 tradition: [colonna]
 density: medium
-related: [[colonna]], [[reboot_colonna]], [[radical_self_inquiry]], [[complicity_question]], [[compensation_by_unconscious]], [[individuation_jung]], [[immunity_to_change]], [[redemption_and_contamination_sequences]]
+related: [[colonna]], [[reboot_colonna]], [[radical_self_inquiry]], [[compensation_by_unconscious]], [[individuation_jung]], [[immunity_to_change]], [[redemption_and_contamination_sequences]]
 ---
 
 # Loyal Soldier и Crow

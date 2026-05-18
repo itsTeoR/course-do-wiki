@@ -2,7 +2,7 @@
 type: concept
 tradition: [pychyl]
 density: low
-related: [[procrastination_puzzle]], [[pychyl]], [[implementation_intentions]], [[affective_forecasting]], [[bridges/priority_of_starting]]
+related: [[procrastination_puzzle]], [[pychyl]], [[implementation_intentions]], [[affective_forecasting]], [[bridges/priority_of_starting]], [[bridges/self_forgiveness_after_failure]]
 ---
 
 # Giving in to feel good — короткое возмещение настроения как механизм прокрастинации

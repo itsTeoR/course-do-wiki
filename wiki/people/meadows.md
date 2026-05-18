@@ -3,7 +3,7 @@ name: Донелла Медоуз
 description: Американская исследовательница систем, соавтор Limits to Growth, автор Thinking in Systems; ученица Джея Форрестера
 type: person
 tradition: [meadows]
-related: [[thinking_in_systems]], [[stocks_and_flows]], [[feedback_loops]], [[leverage_points]], [[system_traps]]
+related: [[thinking_in_systems]], [[stocks_and_flows]], [[feedback_loops]], [[leverage_points]], [[system_traps]], [[bridges/externalizing_self_regulation]]
 ---
 
 # Донелла Медоуз (Donella H. Meadows, 1941–2001)

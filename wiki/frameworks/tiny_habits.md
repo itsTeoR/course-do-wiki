@@ -4,7 +4,7 @@ description: Инженерный метод поведенческого диз
 type: framework
 tradition: [fogg]
 density: medium
-related: [[fogg_behavior_model]], [[tiny_habits_recipe]], [[celebration_wires_habit]], [[ability_chain]], [[fogg]], [[tensions/via_negativa_vs_via_positiva]], [[tensions/habit_vs_spiritual_exercise]], [[tensions/environment_design_vs_self_interference]], [[tensions/high_leverage_vs_accessible_start]], [[tensions/identity_relabelling_vs_behavior_first]], [[bridges/priority_of_starting]], [[tensions/pro_decision_vs_will_engineering]]
+related: [[fogg_behavior_model]], [[tiny_habits_recipe]], [[celebration_wires_habit]], [[ability_chain]], [[fogg]], [[tensions/via_negativa_vs_via_positiva]], [[tensions/habit_vs_spiritual_exercise]], [[tensions/environment_design_vs_self_interference]], [[tensions/high_leverage_vs_accessible_start]], [[tensions/identity_relabelling_vs_behavior_first]], [[bridges/priority_of_starting]], [[tensions/pro_decision_vs_will_engineering]], [[bridges/externalizing_self_regulation]]
 ---
 
 # Tiny Habits (Фогг)

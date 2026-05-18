@@ -4,7 +4,7 @@ description: Самая быстрая версия продукта, позво
 type: concept
 tradition: [ries]
 density: medium
-related: [[lean_startup]], [[build_measure_learn]], [[pivot_or_persevere]], [[ries]], [[validated_learning_vs_effectuation]]
+related: [[lean_startup]], [[build_measure_learn]], [[pivot_or_persevere]], [[ries]], [[validated_learning_vs_effectuation]], [[triage_affordable_loss_mvp]]
 ---
 
 # MVP (minimum viable product)
@@ -122,6 +122,15 @@ Viable Product»).
 усомниться в формулировке критической гипотезы и сделать следующий
 цикл с уточнённой гипотезой. Научение — что-то конкретное стало
 известно — это уже валидно и ценно. Следующий MVP будет прицельнее.
+
+## Связи наружу
+
+Логика «не идеально, но достаточно, чтобы запустить и узнать»
+встречается за пределами стартап-жанра. У Перри в task triage —
+тот же ход на индивидуальной задаче ([[task_triage]]). У Сарасвати
+в affordable loss — тот же ход на отдельной ставке предпринимателя
+([[affordable_loss]]). Совместный разбор — в
+[[triage_affordable_loss_mvp]].
 
 ## Источник
 

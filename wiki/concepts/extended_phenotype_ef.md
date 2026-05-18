@@ -2,7 +2,7 @@
 type: concept
 tradition: [barkley, evolutionary-psychology, neuropsychology]
 density: medium
-related: [[executive_functions_barkley]], [[barkley]], [[cross_temporal_organization]]
+related: [[executive_functions_barkley]], [[barkley]], [[cross_temporal_organization]], [[tensions/prosthetic_environment_vs_strengths_ecology]], [[bridges/externalizing_self_regulation]]
 ---
 
 # Расширенный фенотип EF (extended phenotype of EF)

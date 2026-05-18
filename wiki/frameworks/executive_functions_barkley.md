@@ -2,7 +2,7 @@
 type: framework
 tradition: [barkley, neuropsychology, evolutionary-psychology]
 density: medium
-related: [[barkley]], [[extended_phenotype_ef]], [[cross_temporal_organization]], [[time_blindness]], [[hallowell]], [[add_hallowell]], [[tensions/norm_vs_clinic_phenotype]], [[tensions/biological_substrate_vs_defensive_structure]]
+related: [[barkley]], [[extended_phenotype_ef]], [[cross_temporal_organization]], [[time_blindness]], [[hallowell]], [[add_hallowell]], [[tensions/norm_vs_clinic_phenotype]], [[tensions/biological_substrate_vs_defensive_structure]], [[tensions/prosthetic_environment_vs_strengths_ecology]], [[bridges/externalizing_self_regulation]]
 ---
 
 # Executive functions по Барклаю

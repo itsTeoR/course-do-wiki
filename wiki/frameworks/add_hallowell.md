@@ -1,7 +1,7 @@
 ---
 type: framework
 tradition: [hallowell, clinical-psychiatry, adhd]
-related: [[hallowell]], [[moral_vs_neurobiological_model]], [[tensions/biological_substrate_vs_defensive_structure]], [[tensions/norm_vs_clinic_phenotype]]
+related: [[hallowell]], [[moral_vs_neurobiological_model]], [[tensions/biological_substrate_vs_defensive_structure]], [[tensions/norm_vs_clinic_phenotype]], [[tensions/prosthetic_environment_vs_strengths_ecology]], [[bridges/trait_as_axis_starting_move]]
 ---
 
 # ADD / ADHD по Хэлловеллу

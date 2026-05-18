@@ -1,7 +1,7 @@
 ---
 type: tension
 tradition: [perry, pychyl]
-related: [[perry]], [[pychyl]], [[structured_procrastination]], [[procrastination_puzzle]], [[task_triage]], [[implementation_intentions]], [[giving_in_to_feel_good]], [[akrasia]], [[self_handicapping]]
+related: [[perry]], [[pychyl]], [[structured_procrastination]], [[procrastination_puzzle]], [[task_triage]], [[implementation_intentions]], [[giving_in_to_feel_good]], [[akrasia]], [[self_handicapping]], [[tensions/aligned_vs_misaligned_top_priority]]
 density: medium
 status: ready
 ---

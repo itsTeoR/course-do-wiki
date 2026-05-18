@@ -2,7 +2,7 @@
 type: concept
 tradition: [hinduism, gaudiya_vaishnavism]
 density: high
-related: [[bhagavad_gita]], [[prabhupada]], [[dharma]], [[jnana_yoga]], [[bhakti_yoga]], [[three_gunas]], [[affordable_loss_karma_yoga]], [[dichotomy_of_control]], [[affordable_loss]]
+related: [[bhagavad_gita]], [[prabhupada]], [[dharma]], [[jnana_yoga]], [[bhakti_yoga]], [[three_gunas]], [[affordable_loss_karma_yoga]], [[bridges/self_forgiveness_after_failure]], [[dichotomy_of_control]], [[affordable_loss]]
 ---
 
 # Карма-йога (*karma-yoga*)

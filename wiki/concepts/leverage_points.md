@@ -4,7 +4,7 @@ description: Двенадцать мест для вмешательства в 
 type: concept
 tradition: [meadows]
 density: medium
-related: [[thinking_in_systems]], [[feedback_loops]], [[system_traps]], [[tensions/high_leverage_vs_accessible_start]]
+related: [[thinking_in_systems]], [[feedback_loops]], [[system_traps]], [[tensions/high_leverage_vs_accessible_start]], [[bridges/externalizing_self_regulation]]
 ---
 
 # Точки воздействия (leverage points)

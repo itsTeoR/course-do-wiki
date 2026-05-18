@@ -3,7 +3,7 @@ name: Биологический субстрат vs защитная струк
 description: Tension об источнике стойкости поведенческого паттерна — нейробиология/темперамент (Hallowell, Keirsey) против иммунитета к изменению / big assumption (Kegan & Lahey)
 type: tension
 tradition: [hallowell, keirsey, kegan, lahey]
-related: [[add_hallowell]], [[four_temperaments_keirsey]], [[temperament_vs_character]], [[immunity_to_change]], [[big_assumptions]], [[moral_vs_neurobiological_model]], [[iatrogenics]]
+related: [[add_hallowell]], [[four_temperaments_keirsey]], [[temperament_vs_character]], [[immunity_to_change]], [[big_assumptions]], [[moral_vs_neurobiological_model]], [[iatrogenics]], [[tensions/prosthetic_environment_vs_strengths_ecology]]
 density: medium
 status: ready
 ---

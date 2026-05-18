@@ -4,7 +4,7 @@ description: Подход Джерри Колонны к лидерству ка
 type: framework
 tradition: [colonna]
 density: medium
-related: [[colonna]], [[radical_self_inquiry]], [[loyal_soldier_and_crow]], [[individuation_jung]], [[holding_environment]], [[immunity_to_change]]
+related: [[colonna]], [[radical_self_inquiry]], [[loyal_soldier_and_crow]], [[individuation_jung]], [[holding_environment]], [[immunity_to_change]], [[bridges/self_forgiveness_after_failure]]
 ---
 
 # Reboot (Colonna): лидерство как искусство взросления

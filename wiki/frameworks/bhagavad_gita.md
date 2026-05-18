@@ -2,7 +2,7 @@
 type: framework
 tradition: [hinduism, gaudiya_vaishnavism]
 density: high
-related: [[prabhupada]], [[karma_yoga]], [[dharma]], [[three_gunas]], [[jnana_yoga]], [[bhakti_yoga]], [[affordable_loss_karma_yoga]], [[dichotomy_of_control]]
+related: [[prabhupada]], [[karma_yoga]], [[dharma]], [[three_gunas]], [[jnana_yoga]], [[bhakti_yoga]], [[affordable_loss_karma_yoga]], [[bridges/self_forgiveness_after_failure]], [[dichotomy_of_control]]
 ---
 
 # Бхагавад-гита

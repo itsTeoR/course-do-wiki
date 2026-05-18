@@ -1,7 +1,7 @@
 ---
 type: concept
 tradition: [hallowell, clinical-psychiatry]
-related: [[hallowell]], [[add_hallowell]], [[tensions/biological_substrate_vs_defensive_structure]]
+related: [[hallowell]], [[add_hallowell]], [[tensions/biological_substrate_vs_defensive_structure]], [[tensions/prosthetic_environment_vs_strengths_ecology]], [[bridges/trait_as_axis_starting_move]]
 ---
 
 # Моральная vs нейробиологическая модель поведения

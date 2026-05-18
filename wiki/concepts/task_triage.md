@@ -2,7 +2,7 @@
 type: concept
 tradition: [perry]
 density: medium
-related: [[structured_procrastination]], [[perry]], [[affordable_loss]]
+related: [[structured_procrastination]], [[perry]], [[affordable_loss]], [[mvp]], [[triage_affordable_loss_mvp]]
 ---
 
 # Task triage — разрешение себе сделать adequate
@@ -93,7 +93,10 @@ to do an imperfect job right at the outset» — это и есть ход.
   строится результат. См. [[affordable_loss]]. Кандидат на bridge.
 - **MVP (Ries).** Минимально жизнеспособный продукт — структурно
   то же: разрешить себе сделать «не идеально, но достаточно
-  хорошо, чтобы запустить и узнать». См. [[mvp]].
+  хорошо, чтобы запустить и узнать». См. [[mvp]]. Совместно с
+  affordable loss три хода рассмотрены в
+  [[triage_affordable_loss_mvp]] как одна операция на разных
+  площадках.
 - **«Stay primitive» (Pressfield).** В *Do the Work* Прессфилд
   говорит то же иначе: «It is better to be primitive than to be
   sophisticated, and better to be stupid than to be smart». У

@@ -1,7 +1,7 @@
 ---
 type: concept
 tradition: [sarasvathy]
-related: [[effectuation]], [[control_vs_prediction]], [[emergent_goal]], [[affordable_loss_karma_yoga]]
+related: [[effectuation]], [[control_vs_prediction]], [[emergent_goal]], [[affordable_loss_karma_yoga]], [[triage_affordable_loss_mvp]]
 ---
 
 # Affordable loss
@@ -58,7 +58,10 @@ Affordable loss — механизм, делающий это возможным
 — дихотомия контроля (то, что зависит от меня, против того, что не
 зависит); у Талеба — barbell strategy с ограниченным низом и
 открытым верхом. Связи существуют пока как кандидаты; см.
-[[affordable_loss_karma_yoga]].
+[[affordable_loss_karma_yoga]]. Внутри современного
+productivity/management-жанра тот же ход — смена опорной величины
+с выходной на входную — встречается у Перри (task triage) и Риса
+(MVP); см. [[triage_affordable_loss_mvp]].
 
 ## Источник
 

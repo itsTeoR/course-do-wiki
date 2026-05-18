@@ -2,7 +2,7 @@
 type: concept
 tradition: [pressfield]
 density: high
-related: [[war_of_art]], [[resistance_pressfield]], [[territorial_vs_hierarchical]], [[pressfield]]
+related: [[war_of_art]], [[resistance_pressfield]], [[territorial_vs_hierarchical]], [[pressfield]], [[tensions/pro_decision_vs_will_engineering]]
 ---
 
 # Turning pro — позиция профессионала против Resistance

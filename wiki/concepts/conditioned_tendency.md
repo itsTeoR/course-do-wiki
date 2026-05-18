@@ -3,7 +3,7 @@ name: Conditioned Tendency (Строцци-Хэклер)
 description: Автоматическая воплощённая реакция на давление, выученная в ранней жизни для выживания и принадлежности; не отменяется инсайтом, только телесной работой
 type: concept
 tradition: [strozzi-heckler, somatics]
-related: [[somatic_coaching]], [[somatic_arc_of_transformation]], [[you_are_what_you_practice]], [[big_assumptions]], [[immunity_to_change]]
+related: [[somatic_coaching]], [[somatic_arc_of_transformation]], [[you_are_what_you_practice]], [[big_assumptions]], [[immunity_to_change]], [[bridges/two_fold_psyche_blocker_and_doer]]
 ---
 
 # Conditioned Tendency

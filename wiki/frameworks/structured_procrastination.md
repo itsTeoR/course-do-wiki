@@ -2,7 +2,7 @@
 type: framework
 tradition: [perry]
 density: medium
-related: [[perry]], [[task_triage]], [[horizontal_organization]], [[akrasia]]
+related: [[perry]], [[task_triage]], [[horizontal_organization]], [[akrasia]], [[tensions/use_procrastination_vs_overcome_it]]
 ---
 
 # Structured procrastination — каркас Перри о продуктивности через прокрастинацию

@@ -4,7 +4,7 @@ description: Метод Тимоти Голлвея о том, как убира
 type: framework
 tradition: [gallwey]
 density: medium
-related: [[self_1_self_2]], [[stop_tool]], [[work_triangle]], [[focus_of_attention]], [[gallwey]], [[tensions/environment_design_vs_self_interference]]
+related: [[self_1_self_2]], [[stop_tool]], [[work_triangle]], [[focus_of_attention]], [[gallwey]], [[tensions/environment_design_vs_self_interference]], [[bridges/two_fold_psyche_blocker_and_doer]]
 ---
 
 # Внутренняя игра (Inner Game of Work)

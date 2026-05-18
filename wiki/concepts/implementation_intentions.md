@@ -2,7 +2,7 @@
 type: concept
 tradition: [gollwitzer, pychyl]
 density: medium
-related: [[procrastination_puzzle]], [[giving_in_to_feel_good]], [[pychyl]], [[tiny_habits_recipe]]
+related: [[procrastination_puzzle]], [[giving_in_to_feel_good]], [[pychyl]], [[tiny_habits_recipe]], [[tensions/pro_decision_vs_will_engineering]]
 ---
 
 # Implementation intentions — преддекизии формы «IF X, THEN Y»

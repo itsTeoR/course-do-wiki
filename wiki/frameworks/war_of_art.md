@@ -2,7 +2,7 @@
 type: framework
 tradition: [pressfield]
 density: high
-related: [[pressfield]], [[resistance_pressfield]], [[turning_pro]], [[territorial_vs_hierarchical]]
+related: [[pressfield]], [[resistance_pressfield]], [[turning_pro]], [[territorial_vs_hierarchical]], [[bridges/two_fold_psyche_blocker_and_doer]], [[bridges/priority_of_starting]], [[tensions/pro_decision_vs_will_engineering]]
 ---
 
 # The War of Art — каркас Прессфилда о творческой работе и её враге

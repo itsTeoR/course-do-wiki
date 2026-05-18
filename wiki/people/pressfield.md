@@ -4,7 +4,7 @@ description: Американский писатель, превративший
 type: person
 tradition: [pressfield]
 density: high
-related: [[war_of_art]], [[resistance_pressfield]], [[turning_pro]], [[territorial_vs_hierarchical]]
+related: [[war_of_art]], [[resistance_pressfield]], [[turning_pro]], [[territorial_vs_hierarchical]], [[tensions/pro_decision_vs_will_engineering]]
 ---
 
 # Стивен Прессфилд (Steven Pressfield)

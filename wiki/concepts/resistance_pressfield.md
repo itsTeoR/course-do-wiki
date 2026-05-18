@@ -2,7 +2,7 @@
 type: concept
 tradition: [pressfield]
 density: high
-related: [[war_of_art]], [[turning_pro]], [[pressfield]], [[work_avoidance]]
+related: [[war_of_art]], [[turning_pro]], [[pressfield]], [[work_avoidance]], [[bridges/two_fold_psyche_blocker_and_doer]], [[bridges/priority_of_starting]], [[tensions/pro_decision_vs_will_engineering]]
 ---
 
 # Resistance — внутренняя сила, противостоящая творческой работе

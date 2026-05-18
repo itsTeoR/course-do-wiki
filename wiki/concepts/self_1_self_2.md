@@ -4,7 +4,7 @@ description: Центральное различение Голлвея — го
 type: concept
 tradition: [gallwey]
 density: medium
-related: [[inner_game]], [[stop_tool]], [[focus_of_attention]], [[bridges/via_negativa_goldratt_gallwey]], [[bridges/evaluative_voice_suspension]], [[tensions/environment_design_vs_self_interference]]
+related: [[inner_game]], [[stop_tool]], [[focus_of_attention]], [[bridges/via_negativa_goldratt_gallwey]], [[bridges/evaluative_voice_suspension]], [[bridges/two_fold_psyche_blocker_and_doer]], [[tensions/environment_design_vs_self_interference]]
 ---
 
 # Self 1 и Self 2

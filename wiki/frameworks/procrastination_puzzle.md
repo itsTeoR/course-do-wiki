@@ -2,7 +2,7 @@
 type: framework
 tradition: [pychyl]
 density: low
-related: [[pychyl]], [[giving_in_to_feel_good]], [[implementation_intentions]], [[affective_forecasting]], [[self_handicapping]]
+related: [[pychyl]], [[giving_in_to_feel_good]], [[implementation_intentions]], [[affective_forecasting]], [[self_handicapping]], [[bridges/priority_of_starting]], [[tensions/use_procrastination_vs_overcome_it]], [[tensions/pro_decision_vs_will_engineering]]
 ---
 
 # Procrastination puzzle — каркас Пычила о прокрастинации как self-regulation failure

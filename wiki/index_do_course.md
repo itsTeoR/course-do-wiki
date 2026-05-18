@@ -183,7 +183,7 @@ index_do_course.md».
 - [Три привычки разума (Berger & Johnston)](concepts/three_habits_of_mind.md)
 - [Предсказуемое vs непредсказуемое (Berger & Johnston, Snowden)](concepts/predictable_vs_complex.md)
 - [Radical self-inquiry (Colonna)](concepts/radical_self_inquiry.md)
-- [Loyal Soldier и Crow — защитные структуры детства (Colonna)](concepts/loyal_soldier_and_crow.md)
+- [Преданный Солдат и Ворон — защитные структуры детства (Colonna)](concepts/loyal_soldier_and_crow.md)
 - [Resistance — внутренняя сила, противостоящая работе (Pressfield)](concepts/resistance_pressfield.md)
 - [Turning pro — позиция профессионала против Resistance](concepts/turning_pro.md)
 - [Territory vs hierarchy — два режима ориентации (Pressfield)](concepts/territorial_vs_hierarchical.md)
@@ -290,7 +290,7 @@ index_do_course.md».
   структурный ход опознаваем везде.
 - [[bridges/self_forgiveness_after_failure]] — Pychyl, карма-йога
   (Prabhupāda), Colonna: снятие удержания прошлого неудачного
-  эпизода (самонападение / присвоение плода / work of Crow) как
+  эпизода (самонападение / присвоение плода / работа Ворона) как
   технического условия возобновления действия, а не как
   эмоционального смягчения. Три регистра: экспериментально-
   психологический, ведантически-теистический, коучингово-
@@ -1048,9 +1048,9 @@ index_do_course.md».
   выше, но угол другой — не про *структуру* защитной
   архитектуры, а про *сдвиг рамки* (victim → participant) как
   первый акт работы.
-- Welcoming home защитной структуры в трёх регистрах (Colonna,
-  Jung, Kegan/Lahey): у Колонны Loyal Soldier (защитный
-  паттерн из детства) и Crow (внутренний критик) — *не*
+- Возвращение домой защитной структуры в трёх регистрах (Colonna,
+  Jung, Kegan/Lahey): у Колонны Преданный Солдат (защитный
+  паттерн из детства) и Ворон (внутренний критик) — *не*
   устраняются, *не* перепрограммируются; работа — поблагодарить
   за функцию, сообщить, что война окончена, распаковать дар.
   У Юнга подавленная функция / тень — не «дефект»: она содержит

@@ -29,9 +29,9 @@ Khalid Halim, Dan Putt и Ali Schultz основал Reboot.io —
 Sharon Salzberg): standing still, работа с непостоянством,
 история Миларепы. *Юнгианская глубинная психология* (через
 психоаналитика Dr. Avivah Sayres): работа с тенью, ghosts in the
-machine, Loyal Soldier (заимствованный у Bill Plotkin). И
-*двадцатилетний опыт работы с founder'ами* — сначала как
-инвестор (Flatiron, JPMorgan), затем как коуч.
+machine, Преданный Солдат (*Loyal Soldier*, заимствованный у Bill
+Plotkin). И *двадцатилетний опыт работы с founder'ами* — сначала
+как инвестор (Flatiron, JPMorgan), затем как коуч.
 
 ## Сигнатурный ход
 
@@ -76,8 +76,8 @@ Chödrön («keep opening», «things are always falling apart»).
 Sharon Salzberg (lovingkindness, «all beings own their own
 karma»). Parker Palmer («leading from within», «violence is what
 we do when we don't know what to do with our suffering»). Bill
-Plotkin (*Soulcraft* — образ Loyal Soldier'а). Marie Ponsot
-(образ Crow'а).
+Plotkin (*Soulcraft* — образ Преданного Солдата). Marie Ponsot
+(образ Ворона).
 
 ## В wiki
 

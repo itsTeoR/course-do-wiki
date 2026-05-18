@@ -20,6 +20,7 @@ index_do_course.md».
   - [[#Frameworks — целостные фреймворки]]
   - [[#Concepts — отдельные идеи]]
   - [[#People — ключевые авторы]]
+  - [[#Exercises — дискретные авторские упражнения]]
 - [[#Bridges]]
 - [[#Tensions]]
 
@@ -248,6 +249,21 @@ index_do_course.md».
 - [Роберт Фриц (Robert Fritz)](people/fritz.md)
 - [Филип Зимбардо (Philip Zimbardo)](people/zimbardo.md)
 - [А. Ч. Бхактиведанта Свами Прабхупада](people/prabhupada.md)
+
+### Exercises — дискретные авторские упражнения
+Конкретные процедуры, которые человек может выполнить за определённый
+отрезок времени. Не философские стойки и не различения — те живут в
+`concepts/`. См. правило «процедура vs стойка» в CLAUDE.md.
+
+- [Премедитация зол (Эпиктет, Адо)](exercises/praemeditatio_malorum.md)
+- [Вечерний разбор дня — examen (стоики, пифагорейцы, Адо)](exercises/evening_examen.md)
+- [Добровольный дискомфорт (стоики, Адо)](exercises/voluntary_discomfort.md)
+- [Инвентаризация bird-in-hand (Сарасвати и соавторы)](exercises/bird_in_hand_inventory.md)
+- [Запрос с conditions of satisfaction (Флорес, Эчеверрия)](exercises/making_a_request.md)
+- [Обещание с conditions of satisfaction (Флорес, Эчеверрия)](exercises/making_a_promise.md)
+- [Заземление оценки (Эчеверрия, Флорес)](exercises/grounding_an_assessment.md)
+- [Инвентаризация настроения (Эчеверрия)](exercises/mood_inventory.md)
+- [Практика личной декларации (Эчеверрия)](exercises/personal_declaration_practice.md)
 
 ## Bridges
 

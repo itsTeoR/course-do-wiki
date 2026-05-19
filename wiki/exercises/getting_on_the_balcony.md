@@ -10,8 +10,14 @@ related: [[getting_on_the_balcony]], [[adaptive_leadership]], [[work_avoidance]]
 
 # Подъём на балкон
 
-Процедурный экстракт из первой из семи личных практик, которыми
-Хейфетц завершает *Leadership Without Easy Answers*. Концепт
+Процедурный экстракт из аппарата адаптивного лидерства,
+который Хейфетц с соавторами развивает в трёх книгах: впервые —
+как последнюю из семи личных практик в *Leadership Without Easy
+Answers* (1994), затем как первый из четырёх ходов «The Response»
+в *Leadership on the Line* (Heifetz & Linsky, 2002, гл. 3) и
+наконец как первый шаг семишаговой процедуры «Design Effective
+Interventions» в *The Practice of Adaptive Leadership* (Heifetz,
+Grashow & Linsky, 2009, гл. 9). Концепт
 [[getting_on_the_balcony]] держит метафору и её роль в каркасе;
 эта статья выделяет операциональную форму — то, что человек,
 ведущий адаптивную работу, *делает*, когда поднимается на балкон.
@@ -19,8 +25,12 @@ related: [[getting_on_the_balcony]], [[adaptive_leadership]], [[work_avoidance]]
 Для Хейфетца это не созерцательная пауза и не «отойти подумать».
 Это диагностическая операция с конкретным предметом — паттерны
 социальной системы, в которой человек действует, — и конкретным
-инструментарием — список из пятнадцати вопросов, который он
-прямо собирает в гл. 11.
+инструментарием. В LWEA это список из пятнадцати вопросов,
+собранный по четырём стратегическим принципам каркаса. В LotL —
+четыре диагностических задачи, которые предупреждают типовые
+ловушки. В PoAL процедура встроена в более широкий цикл
+«observe → interpret → intervene», с практикой выделять в группе
+отдельного человека на роль *balcony person*.
 
 ## Что делается
 
@@ -70,6 +80,207 @@ related: [[getting_on_the_balcony]], [[adaptive_leadership]], [[work_avoidance]]
 
 Процедурно: остановка → подъём → диагноз через список вопросов
 → спуск обратно в действие с этим прочтением.
+
+### Уточнение в *Leadership on the Line*: видеть себя как часть паттерна
+
+В LotL Хейфетц и Linsky сужают и ужесточают саму процедуру.
+Балкон — это не выход *из* действия, а способность видеть себя
+*внутри* действия:
+
+> «Achieving a balcony perspective means taking yourself out of
+> the dance, in your mind, even if only for a moment. The only
+> way you can gain both a clearer view of reality and some
+> perspective on the bigger picture is by distancing yourself
+> from the fray. Otherwise, you are likely to misperceive the
+> situation and make the wrong diagnosis, leading you to
+> misguided decisions about whether and how to intervene.»
+> (raw/heifetz/Leadership on the line.pdf, гл. 3, с. 53).
+
+> *Перевод:* «Обрести перспективу балкона означает мысленно
+> вынуть себя из танца, пусть даже на мгновение. Получить более
+> ясный взгляд на реальность и одновременно перспективу на
+> более крупную картину можно только дистанцируясь от
+> схватки. Иначе скорее всего ошибочно поймёшь ситуацию,
+> поставишь неверный диагноз и придёшь к ошибочным решениям о
+> том, вмешиваться ли вообще и как».
+
+Ключевой поворот по сравнению с LWEA — балкон должен видеть и
+самого наблюдателя как одного из танцующих:
+
+> «You have to move back and forth between the dance floor and
+> the balcony, making interventions, observing their impact in
+> real time, and then returning to the action. The goal is to
+> come as close as you can to being in both places simultaneously,
+> as if you had one eye looking from the dance floor and one eye
+> looking down from the balcony, watching all the action,
+> including your own. This is a critical point: When you observe
+> from the balcony you must see yourself as well as the other
+> participants.»
+> (raw/heifetz/Leadership on the line.pdf, гл. 3, с. 53-54).
+
+> *Перевод:* «Приходится двигаться туда и обратно между танцполом
+> и балконом, делать вмешательства, наблюдать их эффект в реальном
+> времени и возвращаться в действие. Цель — подойти настолько
+> близко, насколько возможно, к тому, чтобы быть в обоих местах
+> одновременно: будто один глаз смотрит с танцпола, а другой
+> сверху, с балкона, на всё происходящее, включая собственные
+> действия. Это критически важно: наблюдая с балкона, нужно
+> видеть себя так же, как и других участников».
+
+Технический совет, который Linsky и Heifetz формулируют буквально:
+
+> «Simple techniques, such as pushing your chair a few inches away
+> from the meeting table after you speak, may provide some literal
+> as well as metaphorical distance to help you detach just enough
+> to become an observer.»
+> (raw/heifetz/Leadership on the line.pdf, гл. 3, с. 54).
+
+> *Перевод:* «Простые приёмы — например, отодвинуть стул на
+> несколько сантиметров от стола сразу после того, как ты
+> высказался, — могут дать буквальную и одновременно
+> метафорическую дистанцию, достаточную, чтобы переключиться в
+> наблюдателя».
+
+### Четыре диагностические задачи на балконе (LotL)
+
+LotL заменяет пятнадцать вопросов LWEA на более короткий и
+оперативный набор — четыре диагностические задачи, каждая
+закрывает определённую ловушку:
+
+> «Any one of a number of questions will help you get beyond your
+> own blind spots. The most basic question is always the best
+> place to start: What’s going on here? Beyond that question, we
+> suggest four diagnostic tasks to safeguard against the more
+> common traps that snare people. 1. Distinguish technical from
+> adaptive challenges. 2. Find out where people are at. 3. Listen
+> to the song beneath the words. 4. Read the behavior of authority
+> figures for clues.»
+> (raw/heifetz/Leadership on the line.pdf, гл. 3, с. 55).
+
+> *Перевод:* «Любой из ряда вопросов поможет выйти за пределы
+> собственных слепых пятен. Самый простой вопрос всегда — лучшее
+> место для начала: что здесь происходит? За этим вопросом мы
+> предлагаем четыре диагностические задачи, которые страхуют
+> от типичных ловушек. 1. Различить технические и адаптивные
+> вызовы. 2. Узнать, где находятся люди. 3. Услышать песню под
+> словами. 4. Прочитать поведение фигур авторитета как
+> подсказку».
+
+Каждая из четырёх задач у Heifetz и Linsky развёрнута в
+отдельный раздел главы с кейсами (с. 55–73). Соотношение с
+пятнадцатью вопросами LWEA: задача 1 = блок 1 «адаптивный
+вызов»; задача 2 = блок 2 «регулирование дистресса» в части
+«где у людей сейчас порог переносимости»; задача 3 =
+интерпретативный слой («что не сказано прямо»), частично
+покрывающий блок 3; задача 4 = новая по сравнению с LWEA
+конкретизация: фигура авторитета — индикатор того, насколько
+далеко система отъехала от равновесия, не самостоятельный
+агент.
+
+### Кодификация в *Practice of Adaptive Leadership*: observe → interpret → intervene
+
+PoAL прямо встраивает балкон в трёхтактный цикл и даёт явное
+имя каждому такту:
+
+> «Adaptive leadership involves doing three activities: (1)
+> observing events and patterns around you; (2) interpreting
+> what you are observing (developing multiple hypotheses about
+> what is really going on); and (3) designing interventions
+> based on the observations and interpretations to address the
+> adaptive challenge you have identified. Each of these
+> activities builds on the ones that come before it; and the
+> process overall is iterative: you repeatedly refine your
+> observations, interpretations, and interventions.»
+> (raw/heifetz/Practice of Adaptive Leadership.pdf, гл. 2,
+> с. 32-33).
+
+> *Перевод:* «Адаптивное лидерство состоит из трёх активностей:
+> (1) наблюдения за событиями и паттернами вокруг; (2)
+> интерпретации того, что наблюдается (разработки нескольких
+> гипотез о том, что на самом деле происходит); и (3) дизайна
+> вмешательств на основании наблюдений и интерпретаций, чтобы
+> ответить на идентифицированный адаптивный вызов. Каждая из
+> этих активностей опирается на предыдущие; в целом процесс
+> итеративен — наблюдения, интерпретации и вмешательства
+> многократно уточняются».
+
+Балкон здесь — то, что делает возможным первую и вторую
+активности:
+
+> «Getting off the dance floor and onto the balcony is a powerful
+> way to do this. It enables you to gain some distance, to watch
+> yourself as well as others while you are in the action, and to
+> see patterns in what is happening that are hard to observe if
+> you are stuck at the ground-floor level.»
+> (raw/heifetz/Practice of Adaptive Leadership.pdf, гл. 2, с. 33).
+
+> *Перевод:* «Сойти с танцпола и подняться на балкон — мощный
+> способ это сделать. Так получаешь дистанцию, возможность
+> наблюдать и за собой, и за другими, оставаясь в действии, и
+> различать паттерны, которые из положения на полу различить
+> трудно».
+
+### Прокси-практика: «balcony person» в группе
+
+PoAL добавляет ещё одну процедурную форму, которой нет в LWEA и
+LotL. Если человек не может сам выйти на балкон во время
+действия, в группе можно посадить кого-то на роль наблюдателя:
+
+> «In our client work, we often ask someone to act as a “balcony
+> person” in a meeting or workshop. This person’s role is to sit
+> in the back of the room and take notes on what happens,
+> recapitulating participants' various comments and behaviors. It
+> is remarkable how much more you can see when you momentarily
+> take yourself out of the action and simply watch and record. We
+> typically ask the balcony person to tell the group initially
+> what he or she observed, just the facts, without any
+> interpretation, as if the group were watching a videotape of a
+> soccer game without any commentary.»
+> (raw/heifetz/Practice of Adaptive Leadership.pdf, гл. 2, с. 34).
+
+> *Перевод:* «В работе с клиентами мы часто просим кого-то взять
+> на себя роль „балконного человека“ на встрече или семинаре. Его
+> задача — сидеть в задней части комнаты и фиксировать
+> происходящее, пересказывая разные реплики и поведение
+> участников. Поразительно, насколько больше видно, когда
+> ненадолго выходишь из действия и просто наблюдаешь и
+> записываешь. Балконного человека обычно просят сначала
+> рассказать группе только то, что он наблюдал, без интерпретации,
+> как если бы группа смотрела видеозапись футбольного матча без
+> комментариев».
+
+### Семь шагов «Design Effective Interventions» (PoAL)
+
+В гл. 9 PoAL подъём на балкон становится первым шагом более
+длинной семишаговой процедуры дизайна вмешательства:
+
+> «Step 1: Get on the Balcony. This takes the famous “count to
+> ten” one leap further. Do not just count to ten. Observe what
+> is going on around you. Stay diagnostic even as you take action.
+> Develop more than one interpretation. Watch for patterns.
+> Reality test your interpretation when it is self-serving or
+> close to your default. Debrief with partners as often as you
+> can to assess the information generated by your actions, and
+> the interventions of others, in order to think through your
+> next move.»
+> (raw/heifetz/Practice of Adaptive Leadership.pdf, гл. 9, с. 126).
+
+> *Перевод:* «Шаг 1: подняться на балкон. Это известное „сосчитай
+> до десяти“, продвинутое на шаг дальше. Не просто считать до
+> десяти. Наблюдать, что происходит вокруг. Оставаться в
+> диагностическом режиме, даже когда действуешь. Сформировать
+> более одной интерпретации. Отслеживать паттерны. Проверять
+> свою интерпретацию реальностью, особенно если она
+> само-обслуживающая или близка к привычной для тебя. По
+> возможности часто разбирать ситуацию с партнёрами, чтобы
+> оценить информацию, которую породили твои действия и
+> вмешательства других, и продумать следующий ход».
+
+Остальные шесть шагов (определить созревание вопроса; спросить
+«кем я в этой картине?»; продумать фрейминг; держать стойкость;
+анализировать формирующиеся фракции; удерживать работу в центре
+внимания) — отдельная процедура «дизайна вмешательства», но
+все они опираются на балкон как на первый.
 
 ### Без аппарата вопросов балкон не работает
 
@@ -309,9 +520,53 @@ related: [[getting_on_the_balcony]], [[adaptive_leadership]], [[work_avoidance]]
 *epilogismoi* в [[praemeditatio_malorum]]: заранее размещённые
 формулы, к которым можно обратиться в плотном моменте действия,
 когда искать их уже поздно. Хейфетц так и устроил аппарат —
-пятнадцать вопросов, разбитых на четыре блока, ровно по четырём
-стратегическим принципам, которые иначе пришлось бы вспоминать
-заново в каждой ситуации.
+пятнадцать вопросов LWEA, четыре диагностические задачи LotL,
+семь шагов «Design Effective Interventions» PoAL, — все
+разбитые на короткие списки, ровно потому, что иначе их
+пришлось бы вспоминать заново в каждой ситуации.
+
+В LotL добавлена ещё одна функция балкона, отсутствующая в LWEA
+как явная, — *выживание*. Хейфетц и Linsky называют свою книгу
+«Leadership *on the Line*», и балкон у них работает не только
+на диагностику системы, но и на то, чтобы человек, делающий
+адаптивную работу, не был сметён её обратной волной. Когда
+человека атакуют лично, балкон позволяет различить, что
+атакуется на самом деле его роль и сообщение, а не он сам:
+
+> «We all find it exceedingly difficult in the midst of a
+> personal attack to get to the balcony, maintain an interpretive
+> stance, and identify the way our messages generate distress in
+> other people.»
+> (raw/heifetz/Leadership on the line.pdf, гл. 9, с. 191-192).
+
+> *Перевод:* «Всем нам крайне трудно посреди личной атаки выйти
+> на балкон, удержать интерпретативную позицию и распознать, как
+> наши собственные сообщения порождают дистресс в других людях».
+
+## Источник
+
+- Heifetz, R. (1994). *Leadership Without Easy Answers*. Гл. 11
+  («The Personal Challenge»), с. 250–276. Первая формулировка
+  балкона как одной из семи личных практик. Источник пятнадцати
+  диагностических вопросов и кейса LBJ (Selma vs Вьетнам).
+  raw/heifetz/Leadership Without Easy Answers.pdf,
+  raw/heifetz/heifetz.txt.
+- Heifetz, R., & Linsky, M. (2002). *Leadership on the Line:
+  Staying Alive Through the Dangers of Leading*. Гл. 3 («Get on
+  the Balcony»), с. 51–74. Балкон как первый из четырёх
+  ответных ходов («The Response»). Уточнение процедуры:
+  видеть себя как часть паттерна; четыре диагностические задачи
+  взамен пятнадцати вопросов LWEA; рамка «leadership on the
+  line» — балкон работает и на выживание ведущего, не только на
+  диагностику системы. raw/heifetz/Leadership on the line.pdf.
+- Heifetz, R., Grashow, A., & Linsky, M. (2009). *The Practice
+  of Adaptive Leadership*. Гл. 2 («The Theory Behind the
+  Practice»), с. 32–37 — балкон встроен в трёхтактный цикл
+  observe → interpret → intervene; роль *balcony person* как
+  прокси-практика для группы. Гл. 9 («Design Effective
+  Interventions»), с. 126 — балкон как первый шаг семишаговой
+  процедуры дизайна вмешательства.
+  raw/heifetz/Practice of Adaptive Leadership.pdf.
 
 ## Связки
 

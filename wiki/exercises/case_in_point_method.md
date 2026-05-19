@@ -21,13 +21,17 @@ related: [[getting_on_the_balcony]], [[adaptive_leadership]], [[work_avoidance]]
 
 В *Leadership Without Easy Answers* (1994) Хейфетц называет
 операцию буквально — *using the organization as a case in point —
-a laboratory* (raw/heifetz/heifetz.txt, гл. 11, с. 256). Полное
-методологическое имя «Case-In-Point teaching» Хейфетц и его
-коллеги разрабатывали и кодифицировали позднее, в *Leadership on
-the Line* (2002) и *The Practice of Adaptive Leadership* (2009);
-этих книг в raw/ нет, поэтому здесь описано только то, что
-Хейфетц уже даёт в книге 1994 года. **Здесь нужна доработка по
-более поздним книгам Хейфетца с Linsky и Grashow.**
+a laboratory* (raw/heifetz/heifetz.txt, гл. 11, с. 256). В более
+поздних книгах с Linsky и Grashow — *Leadership on the Line*
+(2002) и *The Practice of Adaptive Leadership* (2009) — авторы
+уже не используют фразу «case in point», но та же процедура
+кодифицируется в виде набора отдельных ходов: в LotL она
+проявляется как «обсервации, вопросы и интерпретации» в гл. 6
+«Give the Work Back» (с. 136-138); в PoAL — как один из
+конкретных способов поднять температуру в гл. 11 «Orchestrate
+Conflict» (табл. 11-1, с. 160-161). Структурно это та же
+операция, которую LWEA назвала «case in point»; ниже
+скоординированы все три источника.
 
 ## Что делается
 
@@ -165,6 +169,151 @@ lynching»). Позже понимает: группа выбрала черно
   как мы это обсуждаем). Это [[giving_the_work_back]] в локальной
   форме.
 
+### Та же процедура в *Leadership on the Line* — три уровня жёсткости
+
+В LotL (Heifetz & Linsky, 2002) гл. 6 «Give the Work Back»
+авторы раскладывают эту же базовую операцию на три
+последовательных уровня жёсткости вмешательства — наблюдение,
+вопрос, интерпретация:
+
+> «Observations are simply statements that reflect back to people
+> their behavior or attempt to describe current conditions. They
+> shift the group momentarily onto the balcony so that they can
+> get a little distance from and perspective on what they are
+> doing. For example, when a heated argument breaks out in a
+> meeting, someone might say: “Wait a second. It seems to me the
+> tensions are getting really high here. Everything was going
+> fine until Bob made his comment.”»
+> (raw/heifetz/Leadership on the line.pdf, гл. 6, с. 136).
+
+> *Перевод:* «Обсервации — это просто высказывания, которые
+> отражают людям их собственное поведение или пытаются описать
+> текущие условия. Они на мгновение переводят группу на балкон,
+> так что она получает некоторую дистанцию и перспективу на то,
+> что делает. Например, когда на встрече разгорается жаркий
+> спор, кто-нибудь может сказать: „Минуту. Похоже, напряжение
+> здесь становится очень высоким. Всё шло хорошо, пока Боб не
+> высказался“».
+
+Следующий уровень — вопрос, который возвращает разглядывание
+самой группе:
+
+> «A question such as: “What’s going on here?” or “Was there
+> something in what Bob said that was disturbing?” may have the
+> effect of giving the work back to the group. You might use a
+> question because you really do not know the answer and therefore
+> cannot render an interpretation. You might simply think it is
+> important for people to address the issue on their own, or you
+> might use a question because you want to stay as much out of the
+> line of fire as possible, while still getting the issue
+> addressed.»
+> (raw/heifetz/Leadership on the line.pdf, гл. 6, с. 137).
+
+> *Перевод:* «Вопрос вроде „Что здесь происходит?“ или „Было в
+> словах Боба что-то, что задело?“ может иметь эффект возвращения
+> работы группе. Вопрос можно задать, потому что ответа в
+> действительности не знаешь и потому не можешь предложить
+> интерпретацию. Можно — потому что считаешь важным, чтобы люди
+> сами разобрались с вопросом. Можно — потому что хочешь
+> оставаться по возможности вне линии огня, при этом всё-таки
+> поднимая тему».
+
+Самый жёсткий уровень — интерпретация, которая прямо
+переименовывает происходящее:
+
+> «A bolder and generally more useful alternative to a loaded
+> question is to follow an observation with an interpretation.
+> For example, instead of merely observing and asking about the
+> fight, you might say, “I don't think this conflict is really
+> about X. I think it's really about Y, a separate issue that's
+> been simmering in our meetings for the last four months. Until
+> we resolve that issue, I don't see how we can make progress on
+> this one.”»
+> (raw/heifetz/Leadership on the line.pdf, гл. 6, с. 137).
+
+> *Перевод:* «Более смелая и в целом более полезная альтернатива
+> наводящему вопросу — присоединить к обсервации интерпретацию.
+> Например, вместо того чтобы просто наблюдать и спрашивать о
+> ссоре, можно сказать: „Я не думаю, что этот конфликт на самом
+> деле про X. Я думаю, он на самом деле про Y — отдельный
+> вопрос, который тлеет на наших встречах последние четыре
+> месяца. Пока мы не решим тот вопрос, не вижу, как сдвинуть
+> этот“».
+
+Тройка обсервация → вопрос → интерпретация — это шкала
+*жёсткости* для одной и той же базовой операции LWEA. Слабый
+конец шкалы (просто описать поведение группы) почти не
+провоцирует сопротивления и часто продуктивен сам по себе;
+сильный конец (явная интерпретация, что на самом деле
+происходит) ближе всего к реплике из LWEA-кейса Джексона и
+несёт максимальный риск получить ответный удар.
+
+### Кодификация в *Practice of Adaptive Leadership* — как ход «поднять температуру»
+
+В PoAL (2009) та же процедура входит в более широкий аппарат
+«orchestrate conflict» как один из ходов регулировки
+температуры. Фраза «case in point» не используется; вместо неё
+— конкретное действие в табл. 11-1 «Controlling the
+temperature» (гл. 11, с. 160-161):
+
+> «To raise the temperature: […] Name and use some of the
+> dynamics in the room at the moment to illustrate some of the
+> issues facing the group — e.g., getting the authority figure to
+> do the work, scapegoating an individual, externalizing the
+> blame, and tossing technical fixes at the situation.»
+> (raw/heifetz/Practice of Adaptive Leadership.pdf, гл. 11,
+> с. 161, табл. 11-1).
+
+> *Перевод:* «Чтобы поднять температуру: […] Назвать и
+> использовать некоторые из динамик, происходящих в комнате прямо
+> сейчас, чтобы проиллюстрировать вопросы, стоящие перед группой,
+> — например, попытку заставить фигуру авторитета сделать работу
+> за группу, назначение козла отпущения, экстернализацию вины,
+> подбрасывание технических решений в адаптивную ситуацию».
+
+PoAL добавляет важное уточнение: эта операция диагностически
+*поднимает температуру*. То есть в каркасе регулирования
+дистресса (см. [[productive_disequilibrium]]) она применима
+*только* когда жара в комнате не хватает; если группа уже
+перегрета и распадается, тот же ход добавит разрыва. На
+языке табл. 11-1 у этой процедуры в PoAL есть и пара —
+действия для *понижения* температуры (структурировать проблему,
+временно вернуть ответственность себе, прерваться шуткой), и
+выбор между «raise» и «lower» — отдельный диагностический
+вопрос на балконе перед самой реплики.
+
+PoAL также даёт более операциональный пример того же ходa в
+секциях «On the Practice Field»:
+
+> «If you see the group lowering the heat to make things more
+> comfortable rather than dealing with the conflict, try naming
+> the behavior as soon as you notice it. Say something like, “It
+> feels as if we're moving off the tough stuff; can we stay there
+> for a while?” Try naming the issue being avoided: “How can we
+> move forward unless we discuss why we lost the client last week
+> and how people feel about it?” “I think we're all avoiding the
+> reality of Joe having been let go last week. Don't we need to
+> address that and what it represents to us?”»
+> (raw/heifetz/Practice of Adaptive Leadership.pdf, гл. 11,
+> с. 161).
+
+> *Перевод:* «Если видишь, что группа понижает жар, чтобы
+> устроиться поудобнее, вместо того чтобы заниматься конфликтом,
+> попробуй назвать это поведение, как только заметишь. Скажи
+> что-то вроде: „Чувствуется, что мы съезжаем с трудного; можем
+> мы там ещё побыть?“ Попробуй назвать тот вопрос, которого
+> избегают: „Как мы можем двигаться дальше, если не обсудим,
+> почему мы потеряли клиента на прошлой неделе и что люди по
+> этому поводу чувствуют?“ „По-моему, мы все обходим то, что
+> Джо отпустили на прошлой неделе. Не должны ли мы заняться
+> этим и тем, что это для нас означает?“».
+
+Это шкала менее радикальная, чем LWEA-реплика Джексона: PoAL
+показывает, что «case in point» не обязательно требует
+длинной перестроечной речи. Достаточно одной короткой реплики,
+которая называет уход — и удерживает группу в зоне
+дискомфорта.
+
 ### Что делает балкон в момент вмешательства
 
 Хейфетц подчёркивает, что эта операция требует балкона *вместо*
@@ -236,20 +385,45 @@ back to people» (см. [[adaptive_leadership]]).
 зеркала организация будет воспроизводить дисфункцию того
 сообщества, которое она хочет улучшить.
 
-## Источник и пробелы
+## Источник
 
-- Основная разработка процедуры в виде, доступном в raw/, —
-  Heifetz, *Leadership Without Easy Answers*, гл. 11, с. 252-258.
-  Сама фраза «case in point — a laboratory» — с. 256.
-- Полная методологическая разработка как педагогической формы
-  («Case-In-Point teaching») идёт в более поздних книгах с
-  Marty Linsky и Alexander Grashow: *Leadership on the Line*
-  (2002) и *The Practice of Adaptive Leadership* (2009). Этих
-  книг в raw/ нет. При следующей обработке источников статью
-  стоит дополнить процедурными деталями оттуда — особенно
-  тем, как ведущий калибрует темп вмешательства, как держит
-  holding environment, и какие виды «case in point moves»
-  Хейфетц и Linsky различают. **Здесь нужна доработка.**
+- Heifetz, R. (1994). *Leadership Without Easy Answers*, гл. 11
+  («The Personal Challenge»), с. 252–258. Первая разработка
+  процедуры и сам термин «using the organization as a case in
+  point — a laboratory» (с. 256). Кейс Кевина Джексона и
+  гипотетическая реплика «more experienced Jackson» как
+  модельный пример полной развёрнутой формы.
+  raw/heifetz/Leadership Without Easy Answers.pdf,
+  raw/heifetz/heifetz.txt.
+- Heifetz, R., & Linsky, M. (2002). *Leadership on the Line:
+  Staying Alive Through the Dangers of Leading*. Гл. 6 («Give
+  the Work Back»), с. 136–138. Та же операция разложена в
+  шкалу «обсервация → вопрос → интерпретация» — три уровня
+  жёсткости вмешательства от наименее рискованного к наиболее
+  рискованному. Фраза «case in point» здесь не используется,
+  но процедура структурно та же.
+  raw/heifetz/Leadership on the line.pdf.
+- Heifetz, R., Grashow, A., & Linsky, M. (2009). *The Practice
+  of Adaptive Leadership*. Гл. 11 («Orchestrate Conflict»),
+  табл. 11-1, с. 160–161 — операция «name and use some of the
+  dynamics in the room at the moment» помещена в каркас
+  регулирования температуры; диагностически — это ход на
+  поднятие жара, и в той же таблице есть симметричные ходы на
+  понижение. Конкретные шаблоны реплик «It feels as if we're
+  moving off the tough stuff…» — на с. 161. Фраза «case in
+  point» здесь также не используется.
+  raw/heifetz/Practice of Adaptive Leadership.pdf.
+
+Терминологический пробел: имя «case in point» закреплено за
+этой процедурой только в LWEA (1994). В LotL и PoAL та же
+операция кодифицируется без этого имени — как часть более
+крупных аппаратов «give the work back» и «orchestrate
+conflict» соответственно. Народное название «Case-In-Point
+teaching» распространено в кругу преподавателей Kennedy School,
+но в самих опубликованных книгах Heifetz/Linsky/Grashow это
+имя в указанной выше формуле не встречается. Здесь нужна
+проверка по более поздним статьям и интервью авторов, если
+такие появятся в raw/.
 
 ## Связки
 

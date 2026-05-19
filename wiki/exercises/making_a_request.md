@@ -22,13 +22,20 @@ related: [[the_ask]], [[speech_acts]], [[conditions_of_satisfaction]], [[convers
 
 Эчеверрия фиксирует ту же диагностику с другой стороны:
 
-> «Есть те, кто думает, что запрос или предложение делаются, но
+> «There are also those who believe they are making requests or
+> offers that are not usually heard as such. Some think, for example,
+> that saying they do not like something is equivalent to asking for
+> it to be changed. Obviously, this is not the same thing, and often
+> things will remain as they were, simply because no specific and
+> clear request was made.»
+> (raw/echarria/extract/index_split_010.html, гл. 3).
+
+> *Перевод:* «Есть те, кто думает, что запрос или предложение делаются, но
 > их обычно так не слышат. Некоторые полагают, например, что
 > сказать "мне это не нравится" — то же самое, что попросить это
 > изменить. Очевидно, что это не одно и то же, и часто всё
 > останется как было, просто потому что никакой конкретной и
-> ясной просьбы сделано не было»
-> (raw/echarria/..., index_split_010.html, гл. 3).
+> ясной просьбы сделано не было».
 
 ## Что делается
 
@@ -49,8 +56,23 @@ related: [[the_ask]], [[speech_acts]], [[conditions_of_satisfaction]], [[convers
 > 8. Presupposition of hearer's ability to fulfill.
 > 9. Sincerity.
 > 10. The speaker and hearer share concerns that make the
-> conditions of satisfaction relevant»
-> (raw/flores/..., part0009.html).
+> conditions of satisfaction relevant.»
+> (raw/flores/extract/text/part0009.html).
+
+> *Перевод:* «Акт запроса требует, чтобы все следующие элементы
+> присутствовали в слышании соответствующих сторон:
+> 1. Говорящий (конкретная идентичность).
+> 2. Слушающий (конкретная идентичность).
+> 3. Conditions of satisfaction (COS), сформулированные в
+> соответствии со стандартными практиками сообщества.
+> 4. Background of obviousness, достаточный для запроса.
+> 5. Указанное время для исполнения запроса.
+> 6. Будущее действие, которое выполнит слушающий.
+> 7. Выносит наружу нечто отсутствующее: новую возможность.
+> 8. Презумпция способности слушающего исполнить.
+> 9. Sincerity.
+> 10. Говорящий и слушающий разделяют concerns, которые делают
+> conditions of satisfaction релевантными».
 
 Эчеверрия приводит сокращённый вариант той же структуры, выделяя
 четыре «фундаментальных элемента»: говорящий, слушающий, действие
@@ -66,9 +88,14 @@ index_split_010.html, гл. 3). Он оговаривает, что «более
 ту заботу или беспокойство, ради удовлетворения которой запрос
 вообще делается. Эчеверрия:
 
-> «Запрос подразумевает, что запрашиваемое действие, если оно
-> будет принято, выполнит слушающий, чтобы удовлетворить *concern*
-> говорящего» (raw/echarria/..., index_split_010.html, гл. 3).
+> «When the process of making a promise begins with a request, we
+> understand that the requested action, if accepted, will be carried
+> out by the listener to satisfy a concern of the speaker.»
+> (raw/echarria/extract/index_split_010.html, гл. 3).
+
+> *Перевод:* «Когда процесс создания обещания начинается с запроса, мы
+> понимаем, что запрашиваемое действие, если оно будет принято,
+> выполнит слушающий, чтобы удовлетворить *concern* говорящего».
 
 Без явного concern conditions of satisfaction остаются произвольным
 описанием объекта или события, не привязанным к тому, что
@@ -84,14 +111,23 @@ index_split_010.html, гл. 3). Он оговаривает, что «более
 возможности, и никто конкретно не обязан её исполнять. Флорес
 разбирает случай, в котором ровно так и происходит:
 
-> «Если бы я сделал ту же просьбу в общей форме всему офисному
+> «Suppose that instead of making the request explicitly of you, I'd
+> make the request in a general way to the whole office staff. The
+> next morning only three of six staff members arrive half an hour
+> earlier, and I get furious about the other three staff members'
+> unreliability. In fact, though, what had happened had nothing to do
+> with their reliability. As the customer, I'd simply not noticed that
+> they hadn't promised to be there in the morning; consequently, some
+> of them didn't see themselves as performers and didn't show up.»
+> (raw/flores/extract/text/part0009.html).
+
+> *Перевод:* «Если бы я сделал ту же просьбу в общей форме всему офисному
 > коллективу, на следующее утро только трое из шести сотрудников
 > пришли раньше, и я был бы в ярости из-за ненадёжности
 > остальных трёх. На самом деле, однако, происшедшее не имело
 > отношения к их ненадёжности. Как клиент, я просто не заметил,
 > что они не обещали быть утром на месте; следовательно, некоторые
-> из них не увидели себя как перформеров и не пришли»
-> (raw/flores/..., part0009.html).
+> из них не увидели себя как перформеров и не пришли».
 
 Далее проговариваются собственно COS — то, что в мире должно
 измениться, чтобы concerns говорящего были удовлетворены. У
@@ -105,7 +141,18 @@ index_split_010.html, гл. 3). Он оговаривает, что «более
 После COS называется срок выполнения. Запрос без срока, по
 Эчеверрии, запросом в строгом смысле не является:
 
-> «Обещание, которое не определяет чётко времени, в которое оно
+> «A promise that does not clearly specify the time by which it
+> must be fulfilled is not a promise. Those who expect it to be
+> fulfilled are not in a position to rest assured that the promise
+> will be kept, since it is not known when that might happen.
+> Moreover, since the time of fulfillment is not specified, there is
+> no room for complaint, since it can always be argued that at some
+> point, sooner or later, the promise will be fulfilled. A promise
+> that does not specify the time factor is not binding and,
+> therefore, strictly speaking, cannot be considered a promise.»
+> (raw/echarria/extract/index_split_010.html, гл. 3).
+
+> *Перевод:* «Обещание, которое не определяет чётко времени, в которое оно
 > должно быть выполнено, не есть обещание. Те, кто ожидают
 > выполнения, не могут быть спокойны, что обещание будет
 > сдержано, поскольку неизвестно, когда это может произойти.
@@ -113,8 +160,7 @@ index_split_010.html, гл. 3). Он оговаривает, что «более
 > жалобе, поскольку всегда можно сказать, что когда-нибудь,
 > рано или поздно, обещание будет выполнено. Обещание, не
 > определяющее временной фактор, не связывает и потому, строго
-> говоря, не может считаться обещанием»
-> (raw/echarria/..., index_split_010.html, гл. 3).
+> говоря, не может считаться обещанием».
 
 То же относится и к запросу: формула «когда сможешь» — это не
 указание срока, а отказ от назначения.
@@ -138,7 +184,16 @@ index_split_010.html, гл. 3). Он оговаривает, что «более
 Эчеверрия добавляет к этой процедуре отдельное различение, важное
 для тех, кто запросов вообще не делает:
 
-> «Не запрашивать не только обусловливает определённую идентичность
+> «Not asking not only conditions a certain identity and results in
+> a particular way of being, but it is also a factor that defines the
+> kind of life we can expect. We insist on one of our basic
+> postulates: it is not that, being who we are, we do not ask;
+> rather, not asking makes us who we are and gives us a corresponding
+> way of life. If we start asking where we do not, we transform our
+> way of being.»
+> (raw/echarria/extract/index_split_010.html, гл. 3).
+
+> *Перевод:* «Не запрашивать не только обусловливает определённую идентичность
 > и приводит к определённому способу быть, но также является
 > фактором, определяющим тот род жизни, на который мы можем
 > рассчитывать. Мы настаиваем на одном из наших базовых
@@ -146,7 +201,7 @@ index_split_010.html, гл. 3). Он оговаривает, что «более
 > запрашиваем; скорее, не запрашивая, мы делаем себя теми, кто мы
 > есть, и получаем соответствующий род жизни. Если мы начнём
 > запрашивать там, где не запрашиваем, мы трансформируем наш
-> способ быть» (raw/echarria/..., index_split_010.html, гл. 3).
+> способ быть».
 
 Здесь процедура смыкается с практикой обнаружения мест, в
 которых запрос не делается вообще: семья, офис, отношения —

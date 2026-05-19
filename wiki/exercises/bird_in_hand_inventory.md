@@ -27,8 +27,16 @@ Means» и описано в главе 10 учебника:
 > and experience), and who we know (social networks). For the
 > effectual entrepreneur, the fundamental question is, "What
 > effects can I create, given who I am, what I know and who I
-> know?"» (raw/sarasvathy/Effectual Entrepreneurship.epub, гл. 10,
+> know?"»
+> (raw/sarasvathy/Effectual Entrepreneurship.epub, гл. 10,
 > «What do we mean by "start with your means?"»; с. 111–112).
+
+> *Перевод:* «Существует три категории средств, доступных каждому из нас:
+> кто мы есть (черты, способности, особенности), что мы знаем
+> (экспертиза и опыт) и кого мы знаем (социальные сети). Для
+> эффектуального предпринимателя фундаментальный вопрос: «Какие
+> эффекты я могу создать, исходя из того, кто я есть, что я знаю и
+> кого я знаю?»».
 
 ## Что делается
 
@@ -78,6 +86,14 @@ Read и соавторы дают конкретное указание, как 
 > hobbies, activities. From your parents?»
 > (raw/sarasvathy/Effectual Entrepreneurship.epub, гл. 10, «Map
 > Your Means»).
+
+> *Перевод:* «Начни с того, что распечатай одностраничный вариант своего
+> резюме. Потом начинай добавлять. Будь креативным в том, что
+> рассматриваешь; это необязательно вещи, которые ты обычно
+> включаешь в резюме. Чтобы начать, оглянись на свою жизнь. Какие
+> средства ты приобрёл или построил: подростком. В школе. В
+> университете. На первой, второй… работе. В личной жизни. В
+> хобби, активностях. От родителей?».
 
 Авторы прямо указывают, что список должен быть шире обычного
 резюме — в него входит то, что в резюме не пишут (хобби, бытовые
@@ -141,8 +157,13 @@ Read и соавторы называют ещё одну функцию: опи
 > «People focus so much on whether they will be successful or not,
 > whether their idea is a good one or not, that they forget about
 > all the things they could be doing with what they already
-> have—their means» (raw/sarasvathy/Effectual
-> Entrepreneurship.epub, гл. 10).
+> have—their means.»
+> (raw/sarasvathy/Effectual Entrepreneurship.epub, гл. 10).
+
+> *Перевод:* «Люди настолько сосредотачиваются на том, будут ли они
+> успешны или нет, хорошая ли у них идея или нет, что забывают обо
+> всём, что они могли бы делать с тем, что у них уже есть, — со
+> своими средствами».
 
 Инвентаризация эту фокусировку обращает. Авторы перечисляют, что
 именно меняется, когда человек становится means-driven вместо

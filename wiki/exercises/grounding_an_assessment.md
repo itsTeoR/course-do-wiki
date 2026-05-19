@@ -17,15 +17,23 @@ judgment) от утверждения (assertion) и рассматривают 
 ложно. Оценка — иной класс акта: она *grounded* или *ungrounded*,
 то есть основана или не основана в определённой структуре.
 
-> «Что делает суждения отличными от утверждений, то есть что
+> «What makes judgments different from assertions, that is, what
+> makes them different actions, are the social commitments that both
+> imply. When we make an assertion, we commit to providing evidence.
+> This means that if someone brings a witness, that person will agree
+> with what we say. When we make a judgment, we commit, first, to
+> having the authority to make that judgment and, second, to
+> providing grounds for that judgment.»
+> (raw/echarria/extract/index_split_012.html, гл. 4).
+
+> *Перевод:* «Что делает суждения отличными от утверждений, то есть что
 > делает их разными действиями, — это социальные обязательства,
 > которые они подразумевают. Когда мы делаем утверждение, мы
 > обязуемся предоставить свидетельство. Это значит, что если
 > кто-то приведёт свидетеля, тот согласится с тем, что мы
 > говорим. Когда мы делаем суждение, мы обязуемся, во-первых,
 > иметь полномочие сделать это суждение и, во-вторых, предоставить
-> основания для него»
-> (raw/echarria/..., index_split_012.html, гл. 4).
+> основания для него».
 
 Большинство оценок в обыденной и организационной речи произносятся
 без этой структуры — они звучат как утверждения, действуют как
@@ -36,15 +44,23 @@ judgment) от утверждения (assertion) и рассматривают 
 описывают. Эчеверрия отдельно показывает, как это смешение питает
 фундаментализм и нетолерантность:
 
-> «Для тех, кто действует таким образом, последствия часто —
+> «For those who operate in this way, the consequences are often
+> rigidity/intolerance and the closure of multiple learning
+> possibilities. For them, judgments do not represent the possibility
+> of differing points of view and even greater diversity and
+> enrichment. A different judgment is treated as an error, as
+> falsehood. The legitimate space for disagreement is transformed
+> into a potential space for confrontation.»
+> (raw/echarria/extract/index_split_012.html, гл. 4).
+
+> *Перевод:* «Для тех, кто действует таким образом, последствия часто —
 > ригидность/нетолерантность и закрытие множественных
 > возможностей обучения. Для них суждения не представляют
 > возможности для различных точек зрения и тем более — для
 > большего разнообразия и обогащения. Иное суждение
 > рассматривается как ошибка, как ложь. Законное пространство
 > разногласия превращается в потенциальное пространство
-> конфронтации»
-> (raw/echarria/..., index_split_012.html, гл. 4).
+> конфронтации».
 
 ## Что делается
 
@@ -52,7 +68,18 @@ judgment) от утверждения (assertion) и рассматривают 
 пять условий, проверка которых превращает оценку из необоснованной
 в обоснованную:
 
-> «Чтобы суждение было обоснованным, требуются следующие условия:
+> «To recap, then, we can say that the following conditions are
+> required to make a judgment well-founded: 1. the action we project
+> into the future when we make it, 2. the standards held in relation
+> to the projected future action, 3. the domain of observation within
+> which the judgment is made, 4. the assertions we provide regarding
+> the standards held, and finally, 5. the fact that we find
+> insufficient grounds to support the contrary judgment. […] We call
+> judgments that do not satisfy these five conditions "unfounded"
+> judgments.»
+> (raw/echarria/extract/index_split_012.html, гл. 4).
+
+> *Перевод:* «Чтобы суждение было обоснованным, требуются следующие условия:
 > 1. действие, которое мы проецируем в будущее, когда его
 > делаем; 2. стандарты, которые мы держим в отношении этого
 > проецируемого будущего действия; 3. домен наблюдения, в
@@ -60,8 +87,7 @@ judgment) от утверждения (assertion) и рассматривают 
 > предоставляем в отношении этих стандартов; 5. тот факт, что
 > мы находим недостаточные основания для поддержки
 > противоположного суждения. […] Суждения, которые не
-> удовлетворяют этим пяти условиям, мы называем "необоснованными"»
-> (raw/echarria/..., index_split_012.html, гл. 4).
+> удовлетворяют этим пяти условиям, мы называем "необоснованными"».
 
 Структурно практикующий берёт конкретную сделанную им (или
 услышанную от других) оценку и проводит её через эти пять шагов
@@ -71,14 +97,24 @@ judgment) от утверждения (assertion) и рассматривают 
 первым же ставит вопрос «для чего». Оценка вне проецируемого
 будущего действия лишена смысла:
 
-> «Мы всегда делаем суждение "для или о чём-то". Мы всегда
+> «We always make a judgment "for or about something." We always
+> envision a future in which our judgment will open or close
+> possibilities. Depending on the judgment we make, some actions will
+> be possible, others will not. […] The "for or about something" is
+> an essential dimension of judgments. If we say, for example, "David
+> is a bad driver," the judgment will be very different if the action
+> we are imagining is the Indianapolis 400 or delivering Domino's
+> pizzas.»
+> (raw/echarria/extract/index_split_012.html, гл. 4).
+
+> *Перевод:* «Мы всегда делаем суждение "для или о чём-то". Мы всегда
 > воображаем будущее, в котором наше суждение откроет или
 > закроет возможности. Зависит от суждения, какие действия будут
 > возможны, а какие — нет. […] "Для или о чём-то" — существенное
 > измерение суждений. Если, например, мы скажем "Давид плохой
 > водитель", суждение будет совершенно разным, если действие,
 > которое мы представляем, — это Indianapolis 400 или доставка
-> пиццы Domino's» (raw/echarria/..., index_split_012.html, гл. 4).
+> пиццы Domino's».
 
 Практикующий формулирует, какое будущее действие у него на горизонте
 в связи с этой оценкой. Если действия нет — оценка скорее всего
@@ -101,7 +137,18 @@ judgment) от утверждения (assertion) и рассматривают 
 ключевой пример того, как расширение оценки за пределы её домена
 делает её необоснованной:
 
-> «Если, например, кто-то систематически нарушает свои обещания
+> «If, for example, someone systematically breaks their promises to
+> pay us back money we have lent them, we have good reason to say
+> that this person is unreliable in the domain of money. However, we
+> often extend our judgments beyond our domain of observation. Based
+> on the judgment that someone is untrustworthy in matters of money,
+> we may assume that that person is unreliable in relation to their
+> work or family responsibilities. The generalized judgment is
+> unfounded even if the judgment in the domain of money is well
+> founded.»
+> (raw/echarria/extract/index_split_012.html, гл. 4).
+
+> *Перевод:* «Если, например, кто-то систематически нарушает свои обещания
 > вернуть нам деньги, которые мы одолжили, у нас есть веские
 > основания сказать, что этот человек ненадёжен в домене денег.
 > Однако мы часто распространяем наши суждения за пределы
@@ -109,8 +156,7 @@ judgment) от утверждения (assertion) и рассматривают 
 > ненадёжен в денежных делах, мы можем предположить, что этот
 > человек ненадёжен в отношении своей работы или семейных
 > обязанностей. Обобщённое суждение необоснованно, даже если
-> суждение в домене денег обоснованно»
-> (raw/echarria/..., index_split_012.html, гл. 4).
+> суждение в домене денег обоснованно».
 
 Практикующий проверяет: домен наблюдения тот же, в котором
 оценка делает прогноз? Если домены разные — оценка ungrounded,
@@ -121,7 +167,28 @@ judgment) от утверждения (assertion) и рассматривают 
 Эчеверрия проводит чёткую границу между обоснованием и
 переименованием:
 
-> «Когда нас спрашивают, почему мы говорим "Изабель —
+> «When asked why we say "Isabel is an efficient executive" and we
+> respond "Well, because she has a strong sense of leadership and has
+> brought about very positive changes in the company," what we have
+> done so far is to exchange one judgment for another. We have not
+> yet established the first one.
+>
+> On the contrary, if we are asked why we say "Catalina is very
+> competent at leading meetings" and we respond: "In the last five
+> meetings she has led, all the items on the agenda were addressed,
+> as shown in the meeting reports. This has never happened in the
+> past" or "Since she has been in charge of leading these meetings,
+> her department has been spending less time in meetings and
+> receiving fewer complaints from its customers," or "Roberto, Tina,
+> and Pablo, who also participate in these meetings, have informed me
+> that they all want Catalina to continue leading them," we may want
+> to know more about these meetings before endorsing the initial
+> judgment, but we must recognize that it sounds different when we
+> introduce statements to support our judgments than when we add new
+> judgments about them.»
+> (raw/echarria/extract/index_split_012.html, гл. 4).
+
+> *Перевод:* «Когда нас спрашивают, почему мы говорим "Изабель —
 > эффективная руководительница", и мы отвечаем "Ну, потому что у
 > неё сильное чувство лидерства и она привела к очень
 > положительным изменениям в компании", — то, что мы сделали,
@@ -140,8 +207,7 @@ judgment) от утверждения (assertion) и рассматривают 
 > больше об этих встречах, прежде чем поддержать исходное
 > суждение, но мы должны признать, что это звучит иначе, когда
 > мы вводим утверждения для поддержки нашего суждения, чем когда
-> мы добавляем новые суждения о нём»
-> (raw/echarria/..., index_split_012.html, гл. 4).
+> мы добавляем новые суждения о нём».
 
 Практикующий выписывает не дальнейшие оценки, а конкретные
 проверяемые утверждения о наблюдаемых фактах. Если в качестве
@@ -154,7 +220,17 @@ judgment) от утверждения (assertion) и рассматривают 
 *обратное* суждение. Часто оказывается, что оснований для
 обратной оценки больше или столько же.
 
-> «Если, например, мы хотим обосновать суждение "Педро скучен
+> «For example, if we want to base the judgment "Pedro is boring in
+> meetings," we should also examine the basis for the judgment "Pedro
+> is not boring in meetings." We may well discover that, although we
+> can produce several instances (statements) in which Pedro has been
+> boring in meetings, there have been many more instances in which he
+> has been quite entertaining. Can we reasonably say that the
+> judgment "Pedro is boring in meetings" was well-founded? No, we
+> cannot. This was not a well-founded judgment.»
+> (raw/echarria/extract/index_split_012.html, гл. 4).
+
+> *Перевод:* «Если, например, мы хотим обосновать суждение "Педро скучен
 > на встречах", нам следует также рассмотреть основания
 > суждения "Педро не скучен на встречах". Мы вполне можем
 > обнаружить, что хотя мы можем привести несколько случаев
@@ -162,8 +238,7 @@ judgment) от утверждения (assertion) и рассматривают 
 > гораздо больше случаев, в которых он был довольно интересен.
 > Можем ли мы разумно сказать, что суждение "Педро скучен на
 > встречах" было хорошо обоснованным? Нет, не можем. Это не было
-> хорошо обоснованное суждение»
-> (raw/echarria/..., index_split_012.html, гл. 4).
+> хорошо обоснованное суждение».
 
 Если на этом шаге обнаруживается, что противоположная оценка
 заземлена не хуже — исходная оценка фактически ungrounded и
@@ -194,10 +269,14 @@ judgment) от утверждения (assertion) и рассматривают 
 **Заземление возвращает оценкам полезность для действия.**
 Эчеверрия:
 
-> «Утверждения играют важную роль в процессе обоснования наших
+> «Statements, therefore, play an important role in the process of
+> grounding our judgments. If we are unable to provide statements, we
+> cannot ground our judgments.»
+> (raw/echarria/extract/index_split_012.html, гл. 4).
+
+> *Перевод:* «Утверждения играют важную роль в процессе обоснования наших
 > суждений. Если мы не способны предоставить утверждения, мы не
-> можем обосновать наши суждения»
-> (raw/echarria/..., index_split_012.html, гл. 4).
+> можем обосновать наши суждения».
 
 Необоснованная оценка не даёт оснований ни для собственного
 действия, ни для согласования действия с другими. Заземление —
@@ -207,11 +286,16 @@ judgment) от утверждения (assertion) и рассматривают 
 **Заземление различает оценочное суждение и личность того, о ком
 оно сделано.** Эчеверрия особо подчёркивает:
 
-> «Суждение всегда говорит о тех, кто его делает. […]
+> «Judgments always speak about those who make them. […] A
+> fundamental aspect of the discipline of "ontological coaching" is
+> learning to treat the judgments that people make as windows into
+> the human soul.»
+> (raw/echarria/extract/index_split_012.html, гл. 4).
+
+> *Перевод:* «Суждение всегда говорит о тех, кто его делает. […]
 > Фундаментальный аспект дисциплины онтологического коучинга —
 > научиться обращаться с суждениями, которые люди делают, как с
-> окнами в человеческую душу»
-> (raw/echarria/..., index_split_012.html, гл. 4).
+> окнами в человеческую душу».
 
 Это значит, что выявленная как ungrounded оценка часто оказывается
 не описанием объекта, а свидетельством о наблюдателе, его

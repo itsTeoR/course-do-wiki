@@ -15,23 +15,33 @@ related: [[moods_and_trust]], [[assessments_vs_assertions]], [[four_types_of_con
 действию, которая живёт фоном и определяет, что человеку в принципе
 кажется возможным или невозможным (см. [[moods_and_trust]]).
 
-> «Настроения живут на фоне, с которого мы действуем. Они
+> «Moods live in the background from which we act. They refer to
+> those emotional states from which actions are performed. […] A
+> mood, therefore, defines a space of possible actions.»
+> (raw/echarria/extract/index_split_020.html, гл. 8).
+
+> *Перевод:* «Настроения живут на фоне, с которого мы действуем. Они
 > относятся к тем эмоциональным состояниям, из которых
 > совершаются действия. […] Каждое настроение, следовательно,
-> определяет пространство возможных действий»
-> (raw/echarria/..., index_split_020.html, гл. 8).
+> определяет пространство возможных действий».
 
 Ключевое для упражнения свойство настроения: оно почти всегда
 прозрачно для самого человека, в нём находящегося. Эчеверрия:
 
-> «Одна из проблем, с которыми мы сталкиваемся, состоит в том,
+> «One of the problems we face is that moods are often transparent
+> to us. We don't notice them, and therefore we judge that what
+> belongs to our moods is the property of our world. We normally
+> assume that the world "is" as we observe it, without stopping to
+> examine the role that the observer plays in what he observes.»
+> (raw/echarria/extract/index_split_020.html, гл. 8).
+
+> *Перевод:* «Одна из проблем, с которыми мы сталкиваемся, состоит в том,
 > что настроения часто прозрачны для нас. Мы их не замечаем и
 > потому судим, что то, что принадлежит нашим настроениям,
 > является свойством нашего мира. Мы обычно полагаем, что мир
 > "таков", каким мы его наблюдаем, не останавливаясь, чтобы
 > рассмотреть роль, которую играет наблюдатель в том, что он
-> наблюдает»
-> (raw/echarria/..., index_split_020.html, гл. 8).
+> наблюдает».
 
 Именно эта прозрачность делает инвентаризацию настроения отдельной
 дискретной процедурой: настроение не обнаруживает себя само, его
@@ -42,7 +52,18 @@ related: [[moods_and_trust]], [[assessments_vs_assertions]], [[four_types_of_con
 Процедура опирается на ход, который Эчеверрия называет
 *лингвистической реконструкцией настроения*:
 
-> «Теперь мы можем рассматривать настроения как автоматические
+> «We can now treat moods as automatic judgments of the world (and
+> of the future possibilities that world brings us). We call them
+> automatic because we know that they are not judgments that we make.
+> In fact, we don't normally make them. Moods precede action; they
+> are already there when we are about to act. We find ourselves
+> immersed in them. […] When we speak of moods as automatic judgments
+> of the world, we are not describing what moods are, but rather we
+> are doing a linguistic reconstruction, that is, a translation of
+> the phenomenon of moods into a linguistic code.»
+> (raw/echarria/extract/index_split_020.html, гл. 8).
+
+> *Перевод:* «Теперь мы можем рассматривать настроения как автоматические
 > суждения о мире (и о будущих возможностях, которые этот мир
 > нам несёт). Мы называем их автоматическими, потому что
 > знаем, что это не суждения, которые мы делаем. На самом деле,
@@ -51,8 +72,7 @@ related: [[moods_and_trust]], [[assessments_vs_assertions]], [[four_types_of_con
 > погружёнными в них. […] Когда мы говорим о настроениях как об
 > автоматических суждениях о мире, мы не описываем, что такое
 > настроения, а делаем лингвистическую реконструкцию — то есть
-> перевод феномена настроений в лингвистический код»
-> (raw/echarria/..., index_split_020.html, гл. 8).
+> перевод феномена настроений в лингвистический код».
 
 Лингвистическая реконструкция позволяет инвентаризировать
 настроение через его подлежащую структуру: какие assertions
@@ -62,35 +82,51 @@ related: [[moods_and_trust]], [[assessments_vs_assertions]], [[four_types_of_con
 
 Энтузиазм:
 
-> «— *Я утверждаю, что X происходит*
-> — *Я сужу, что X расширит мои возможности в будущем*»
-> (raw/echarria/..., index_split_020.html, гл. 8).
+> «— *I assert that X is happening*
+> — *I judge that X will expand my possibilities in the future*»
+> (raw/echarria/extract/index_split_020.html, гл. 8).
+
+> *Перевод:* «— *Я утверждаю, что X происходит*
+> — *Я сужу, что X расширит мои возможности в будущем*».
 
 Скука:
 
-> «— *Я утверждаю, что X происходит*
+> «— *I assert that X is happening*
+> — *I judge that X will not open or close any possibilities for me in the future.*»
+> (raw/echarria/extract/index_split_020.html, гл. 8).
+
+> *Перевод:* «— *Я утверждаю, что X происходит*
 > — *Я сужу, что X не откроет и не закроет для меня никаких
-> возможностей в будущем*»
-> (raw/echarria/..., index_split_020.html, гл. 8).
+> возможностей в будущем*».
 
 Печаль:
 
-> «— *Я утверждаю, что X произошло (или происходит)*
+> «— *I assert that X has happened (or is happening)*
+> — *I judge that X represents a loss for me (I judge that some possibilities have diminished).*
+> — *I accept that loss as a fact*»
+> (raw/echarria/extract/index_split_020.html, гл. 8).
+
+> *Перевод:* «— *Я утверждаю, что X произошло (или происходит)*
 > — *Я сужу, что X представляет потерю для меня (я сужу, что
 > некоторые возможности уменьшились)*
-> — *Я принимаю эту потерю как факт*»
-> (raw/echarria/..., index_split_020.html, гл. 8).
+> — *Я принимаю эту потерю как факт*».
 
 В гл. 9 Эчеверрия разворачивает четыре базовых настроения через их
 отношение к двум осям суждения — фактичности (что не может быть
 изменено) и возможности (что может быть изменено). Получается
 крест:
 
-> «Далее мы используем только что развитые различения, чтобы
+> «Next, we will use the distinctions we have just developed to
+> examine four closely related states of mind that we consider
+> fundamental in the life of every human being. We refer to the
+> states of mind of resentment, acceptance or peace, resignation, and
+> ambition.»
+> (raw/echarria/extract/index_split_022.html, гл. 9).
+
+> *Перевод:* «Далее мы используем только что развитые различения, чтобы
 > рассмотреть четыре тесно связанных настроения, которые мы
 > считаем фундаментальными в жизни каждого человека: настроения
-> resentment, acceptance or peace, resignation и ambition»
-> (raw/echarria/..., index_split_022.html, гл. 9).
+> resentment, acceptance or peace, resignation и ambition».
 
 Соответствие осям такое (raw/echarria/..., index_split_022.html,
 гл. 9):
@@ -105,7 +141,17 @@ related: [[moods_and_trust]], [[assessments_vs_assertions]], [[four_types_of_con
 
 Полная лингвистическая реконструкция resentment у Эчеверрии:
 
-> «— Я утверждаю, что X случилось (или не случилось)
+> «— I affirm that X happened (or did not happen)
+> — I judge that this implies the breach of a promise or a legitimate expectation
+> — I judge that X caused me harm and restricted my current possibilities
+> — I judge that this is unfair
+> — I declare that "A" is responsible for this ("A" can be a person, a group of people, an institution, etc.)
+> — I judge that there is nothing I can do now to make "A" repair the damage caused to me
+> — I declare that this is not right (it should not be, or it should be different)
+> — I declare that at some point, somewhere, in some way, "A" will pay for this»
+> (raw/echarria/extract/index_split_022.html, гл. 9).
+
+> *Перевод:* «— Я утверждаю, что X случилось (или не случилось)
 > — Я сужу, что это влечёт нарушение обещания или законного
 > ожидания
 > — Я сужу, что X причинил мне вред и ограничил мои текущие
@@ -117,8 +163,7 @@ related: [[moods_and_trust]], [[assessments_vs_assertions]], [[four_types_of_con
 > — Я заявляю, что это не должно быть так (это должно быть
 > иначе)
 > — Я заявляю, что когда-нибудь, где-нибудь, как-нибудь "A" за
-> это заплатит»
-> (raw/echarria/..., index_split_022.html, гл. 9).
+> это заплатит».
 
 Процедурно практикующий действует так. Он останавливается в
 конкретный момент дня и задаётся вопросом: в каком настроении я
@@ -144,10 +189,14 @@ resignation, ambition, страх, доверие/недоверие, удивл
 Четвёртый шаг — посмотреть, какие действия это настроение делает
 возможными и какие — закрывает. Эчеверрия:
 
-> «Настроения не только обусловливают действия, которые возможны
+> «Moods not only condition the actions that are possible or
+> impossible to perform. They also condition the way in which we will
+> carry out those actions.»
+> (raw/echarria/extract/index_split_020.html, гл. 8).
+
+> *Перевод:* «Настроения не только обусловливают действия, которые возможны
 > или невозможны для выполнения. Они также обусловливают то,
-> каким образом мы будем выполнять эти действия»
-> (raw/echarria/..., index_split_020.html, гл. 8).
+> каким образом мы будем выполнять эти действия».
 
 Resignation закрывает запросы и инициативу. Resentment закрывает
 открытое выяснение и поддерживает скрытую жалобу. Ambition

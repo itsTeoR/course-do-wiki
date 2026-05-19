@@ -259,6 +259,8 @@ index_do_course.md».
 - [Вечерний разбор дня — examen (стоики, пифагорейцы, Адо)](exercises/evening_examen.md)
 - [Добровольный дискомфорт (стоики, Адо)](exercises/voluntary_discomfort.md)
 - [Инвентаризация bird-in-hand (Сарасвати и соавторы)](exercises/bird_in_hand_inventory.md)
+- [Протокол решения по affordable loss (Сарасвати и соавторы)](exercises/affordable_loss_decision.md)
+- [Pearl Habit — раздражение как стартовый якорь (Fogg)](exercises/pearl_habit.md)
 - [Запрос с conditions of satisfaction (Флорес, Эчеверрия)](exercises/making_a_request.md)
 - [Обещание с conditions of satisfaction (Флорес, Эчеверрия)](exercises/making_a_promise.md)
 - [Заземление оценки (Эчеверрия, Флорес)](exercises/grounding_an_assessment.md)

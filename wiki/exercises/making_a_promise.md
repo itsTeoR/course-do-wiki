@@ -15,10 +15,15 @@ related: [[speech_acts]], [[conditions_of_satisfaction]], [[conversations_for_ac
 запросу со стороны клиента (см. [[making_a_request]]). Большинство
 организационных «да» обещаниями в этом смысле не являются: слушающий не проверил COS, не оценил собственную способность их выполнить, не назвал свою sincerity, не оговорил срок. Получившееся «обещание» оказывается, по Эчеверрии,
 
-> «обещанием, основанным на необоснованных допущениях или ожиданиях
+> «Whenever we make promises that give rise to unfounded assumptions
+> or expectations about the agreed conditions of satisfaction and the
+> standards implicit in those conditions of satisfaction, we run the
+> risk of creating resentment.»
+> (raw/echarria/extract/index_split_022.html, гл. 9),
+
+> *Перевод:* «обещанием, основанным на необоснованных допущениях или ожиданиях
 > о согласованных conditions of satisfaction и стандартах,
-> неявных в этих conditions of satisfaction»
-> (raw/echarria/..., index_split_010.html, гл. 3),
+> неявных в этих conditions of satisfaction»,
 
 что почти гарантированно порождает потом resentment у одной из
 сторон.
@@ -37,7 +42,20 @@ related: [[speech_acts]], [[conditions_of_satisfaction]], [[conversations_for_ac
 > missing: a new possibility. 8. Presupposition of speaker's
 > ability to fulfill. 9. Sincerity. 10. The speaker and hearer
 > share concerns that make the conditions of satisfaction
-> relevant» (raw/flores/..., part0009.html).
+> relevant.»
+> (raw/flores/extract/text/part0009.html).
+
+> *Перевод:* «Акты предложения и обещания требуют, чтобы все следующие
+> элементы присутствовали в слышании соответствующих сторон:
+> 1. Говорящий (конкретная идентичность). 2. Слушающий (конкретная
+> идентичность). 3. Conditions of satisfaction (COS), сформулированные
+> в соответствии со стандартными практиками сообщества. 4. Background
+> of obviousness, достаточный для предложения/обещания. 5. Указанное
+> время для исполнения предложения/обещания. 6. Будущее действие,
+> которое выполнит говорящий. 7. Выносит наружу нечто отсутствующее:
+> новую возможность. 8. Презумпция способности говорящего исполнить.
+> 9. Sincerity. 10. Говорящий и слушающий разделяют concerns, которые
+> делают conditions of satisfaction релевантными».
 
 ## Что делается
 
@@ -50,7 +68,21 @@ related: [[speech_acts]], [[conditions_of_satisfaction]], [[conversations_for_ac
 есть несколько структурно различных ходов, а не один. Флорес в гл.
 2 перечисляет их полностью:
 
-> «Если вы не в состоянии выполнить просьбу клиента, вы можете
+> «If you're unable to fulfill the customer's request, you may
+> decline to do so. Declining is a speech act that functions like a
+> promise: you're committing yourself to not providing the requested
+> conditions of satisfaction. Similarly, if you've already promised
+> but are unable to fulfill, you may revoke your prior commitment.
+> Although we typically don't like to do either, declining and
+> revoking are important moves in coordinating action with others.
+> […] Another possibility, both in the original negotiation and when
+> problems arise, is to counteroffer. […] Finally, when you first
+> receive a request, you may also commit to commit; that is, notify
+> the customer that you can't commit now, but promise to give him or
+> her a commitment later.»
+> (raw/flores/extract/text/part0010.html).
+
+> *Перевод:* «Если вы не в состоянии выполнить просьбу клиента, вы можете
 > отказаться. Отказ — это речевой акт, функционирующий как
 > обещание: вы обязуетесь не предоставлять запрошенные conditions
 > of satisfaction. Точно так же, если вы уже пообещали, но
@@ -62,8 +94,7 @@ related: [[speech_acts]], [[conditions_of_satisfaction]], [[conversations_for_ac
 > проблем, — контрпредложение. […] Наконец, получая запрос
 > впервые, вы можете обязаться обязаться (commit to commit); то
 > есть уведомить клиента, что вы не можете дать обязательство
-> сейчас, но обещаете дать его позже»
-> (raw/flores/..., part0010.html).
+> сейчас, но обещаете дать его позже».
 
 В сумме у перформера в ответ на запрос есть пять структурно
 разных ходов:
@@ -78,12 +109,19 @@ related: [[speech_acts]], [[conditions_of_satisfaction]], [[conversations_for_ac
 элемент неясен, принятию должна предшествовать переговорная
 фаза, в которой COS уточняются. Эчеверрия:
 
-> «Очень часто бывает, что интерпретация conditions of
+> «It's not unusual that the customer's interpretation of his or her
+> conditions of satisfaction changes as a result of a conversation
+> with the performer. The important thing during the negotiation
+> stage is listening to the customer's concerns and helping them to
+> design the conditions of satisfaction that will best address those
+> concerns.»
+> (raw/flores/extract/text/part0010.html).
+
+> *Перевод:* «Очень часто бывает, что интерпретация conditions of
 > satisfaction клиентом меняется в результате разговора с
 > перформером. Важное в фазе переговоров — слушать concerns
 > клиента и помогать им спроектировать те conditions of
-> satisfaction, которые этим concerns лучше всего отвечают»
-> (raw/flores/..., part0010.html).
+> satisfaction, которые этим concerns лучше всего отвечают».
 
 — **Отказаться.** Эчеверрия настаивает, что «нет» — фундаментальная
 личная декларация, не нарушение приличий (см.
@@ -101,12 +139,18 @@ related: [[speech_acts]], [[conditions_of_satisfaction]], [[conversations_for_ac
 способность контрпредложить, когда не можешь выполнить запрос, —
 один из самых сильных строителей доверия:
 
-> «Простой пример — когда мы что-то ищем в магазине, а человек
+> «A simple example is when we're looking for something in a store,
+> and the person behind the counter has to say it's not in stock, but
+> directs us to a competitor. That's a store we're going to return to
+> again, because its service extends even beyond its own shelves and
+> profits.»
+> (raw/flores/extract/text/part0010.html).
+
+> *Перевод:* «Простой пример — когда мы что-то ищем в магазине, а человек
 > за прилавком вынужден сказать, что этого нет в наличии, но
 > направляет нас к конкуренту. Это магазин, в который мы
 > вернёмся, потому что его сервис простирается даже за пределы
-> его собственных полок и прибыли»
-> (raw/flores/..., part0010.html).
+> его собственных полок и прибыли».
 
 — **Обязаться обязаться (commit to commit).** Когда запрос
 поступает прямо сейчас, а перформер ещё не может проверить
@@ -114,15 +158,25 @@ related: [[speech_acts]], [[conditions_of_satisfaction]], [[conversations_for_ac
 говорит ни «да», ни «нет», но обязуется в названный срок дать
 ответ. Это не уклонение, а отдельный речевой акт. Флорес:
 
-> «Получая запрос, мы часто чувствуем, что нас "ставят к стенке"
+> «Often when we receive a request, we feel that we're "on the spot"
+> and have to commit right away one way or the other. This is an
+> enormous source of hidden waste in our coordination, because often
+> we make promises we really can't fulfill under this pressure, or
+> miss opportunities out of an automatic sense that we "just have too
+> much to do." By committing to commit, we can give ourselves a
+> little breathing room to examine our own concerns, commitments, and
+> priorities, and coordinate with other people who might be
+> affected.»
+> (raw/flores/extract/text/part0010.html).
+
+> *Перевод:* «Получая запрос, мы часто чувствуем, что нас "ставят к стенке"
 > и нужно немедленно как-то обязаться. Это огромный источник
 > скрытых потерь в координации, поскольку мы часто даём обещания,
 > которые на самом деле не можем выполнить под этим давлением,
 > или упускаем возможности из автоматического ощущения, что у нас
 > "просто слишком много дел". Обязываясь обязаться, мы даём себе
 > немного передышки, чтобы рассмотреть наши собственные concerns,
-> commitments и приоритеты»
-> (raw/flores/..., part0010.html).
+> commitments и приоритеты».
 
 — **Отменить запрос** (если оказывается, что нужное уже не нужно)
 или **отозвать обещание** (если перформер уже обязался, но
@@ -134,12 +188,18 @@ related: [[speech_acts]], [[conditions_of_satisfaction]], [[conversations_for_ac
 завершается не объявлением перформера «готово», а декларацией
 удовлетворения клиента:
 
-> «Выполнение обещания, таким образом, завершено только когда
+> «The fulfillment of a promise, therefore, is only complete when
+> the conditions of satisfaction are met and, again, when the
+> listener declares their satisfaction. Before that happens, it is a
+> pending promise, waiting for the moment when the conditions of
+> satisfaction will be met.»
+> (raw/echarria/extract/index_split_010.html, гл. 3).
+
+> *Перевод:* «Выполнение обещания, таким образом, завершено только когда
 > conditions of satisfaction выполнены и, опять же, когда
 > слушающий объявляет свою удовлетворённость. До тех пор это
 > отложенное обещание, ожидающее момента, когда conditions of
-> satisfaction будут выполнены»
-> (raw/echarria/..., index_split_010.html, гл. 3).
+> satisfaction будут выполнены».
 
 ### Аудит ранее данных обещаний
 
@@ -147,12 +207,18 @@ related: [[speech_acts]], [[conditions_of_satisfaction]], [[conversations_for_ac
 пройти по уже данным обещаниям и проверить их на структурную
 полноту.
 
-> «Учитывая важность обещаний в нашей жизни, стоит остановиться
+> «Given the importance of promises in our lives, it is worth
+> pausing to examine how competent we are at making them and
+> identifying the types of problems we usually encounter. The four
+> elements mentioned above allow us to refer to the four most
+> important problems.»
+> (raw/echarria/extract/index_split_010.html, гл. 3).
+
+> *Перевод:* «Учитывая важность обещаний в нашей жизни, стоит остановиться
 > и рассмотреть, насколько мы компетентны в их совершении, и
 > определить типы проблем, с которыми мы обычно сталкиваемся.
 > Четыре названных выше элемента позволяют нам сослаться на
-> четыре наиболее важные проблемы»
-> (raw/echarria/..., index_split_010.html, гл. 3).
+> четыре наиболее важные проблемы».
 
 Эчеверрия перечисляет эти проблемы по элементам:
 
@@ -164,13 +230,21 @@ related: [[speech_acts]], [[conditions_of_satisfaction]], [[conversations_for_ac
 — **На стороне слушающего.** Неумение принимать предложения и
 неумение отказывать в запросах:
 
-> «На стороне слушающего тоже могут возникать проблемы.
+> «From the listener's side of a request or offer, problems can also
+> arise. Particularly when we do not know how to accept offers or
+> refuse requests. How many times, for example, do we say "Yes" to a
+> request that we feel we should not have accepted? What price do we
+> pay in terms of identity, self-esteem, and dignity when we are
+> unable to say "No"?»
+> (raw/echarria/extract/index_split_010.html, гл. 3).
+
+> *Перевод:* «На стороне слушающего тоже могут возникать проблемы.
 > Особенно когда мы не умеем принимать предложения или
 > отказываться от запросов. Сколько раз, например, мы говорим
 > "да" на запрос, на который, как мы чувствуем, не должны были
 > соглашаться? Какую цену мы платим в смысле идентичности,
 > самоуважения и достоинства, когда мы не способны сказать
-> "нет"?» (raw/echarria/..., index_split_010.html, гл. 3).
+> "нет"?».
 
 — **На стороне действия и COS.** Запрос был сделан и принят, но
 говорящий и слушающий поняли разное; оба действуют, исходя из
@@ -197,13 +271,20 @@ sincerity; разделены ли concerns. Обещания, у которых
 
 **Обещание держит координацию.** Эчеверрия:
 
-> «Когда кто-то обещает мне, что выполнит определённое действие
+> «When someone promises me that he or she will perform a certain
+> action in the future, I can make commitments and perform actions
+> that would previously have been impossible. If my boss tells me,
+> "I'm going to give you a $700 bonus next Friday," or a coworker
+> tells me, "I'll be at tomorrow's meeting," I can now act on the
+> basis of those promises.»
+> (raw/echarria/extract/index_split_010.html, гл. 3).
+
+> *Перевод:* «Когда кто-то обещает мне, что выполнит определённое действие
 > в будущем, я могу брать обязательства и совершать действия,
 > которые были бы невозможны прежде. Если мой начальник говорит
 > мне: "В пятницу я дам тебе премию в 700 долларов", или коллега
 > говорит: "Я буду на завтрашней встрече", я теперь могу
-> действовать на основе этих обещаний»
-> (raw/echarria/..., index_split_010.html, гл. 3).
+> действовать на основе этих обещаний».
 
 Без устойчивых обещаний человек не может действовать на основании
 чужих заявлений и вынужден страховаться, дублировать, проверять —

@@ -7,7 +7,7 @@ author: [seneca, epictetus, musonius_rufus, hadot]
 density: high
 related: [[spiritual_exercises]], [[praemeditatio_malorum]], [[evening_examen]], [[dichotomy_of_control]], [[hadot]], [[epictetus]], [[enchiridion_epictetus]], [[three_disciplines]]
 ---
-
+ 
 # Добровольный дискомфорт (практика лишений)
 
 Стоическое упражнение в добровольной нужде: скромная пища, простая
@@ -112,10 +112,14 @@ related: [[spiritual_exercises]], [[praemeditatio_malorum]], [[evening_examen]],
 
 И в §33 — норма повседневности:
 
-> «Тело снабжай только в той мере, в какой это нужно для
-> употребления: едой, питьём, одеждой, домом, прислугой. Но всё,
-> что относится к показу и роскоши, отсекай и отбрасывай»
+> «Provide things relating to the body no further than mere use; as
+> meat, drink, clothing, house, family. But strike off and reject
+> everything relating to show and delicacy.»
 > (raw/epictetus/epicench.1b.txt, §33).
+
+> *Перевод:* «Тело снабжай только в той мере, в какой это нужно для
+> употребления: едой, питьём, одеждой, домом, прислугой. Но всё,
+> что относится к показу и роскоши, отсекай и отбрасывай».
 
 Структурно процедура у Эпиктета такова:
 
@@ -138,12 +142,18 @@ related: [[spiritual_exercises]], [[praemeditatio_malorum]], [[evening_examen]],
 §29 даёт связанную, но самостоятельную процедуру — расчёт того, что
 предстоит, прежде чем взяться за дело. Эпиктет описывает атлета:
 
-> «В отношении всякого дела рассмотри, что ему предшествует и что
+> «In every affair consider what precedes and follows, and then
+> undertake it… You must conform to rules, submit to a diet, refrain
+> from dainties; exercise your body, whether you choose it or not, at a
+> stated hour, in heat and cold; you must drink no cold water, nor
+> sometimes even wine.»
+> (raw/epictetus/epicench.1b.txt, §29).
+
+> *Перевод:* «В отношении всякого дела рассмотри, что ему предшествует и что
 > за ним следует, и тогда возьмись за него… Ты должен подчиняться
 > правилам, держать диету, воздерживаться от изысков; упражнять
 > своё тело, хочешь ты этого или нет, в установленный час, в жаре
-> и в холоде; тебе нельзя пить холодную воду, иногда даже вино»
-> (raw/epictetus/epicench.1b.txt, §29).
+> и в холоде; тебе нельзя пить холодную воду, иногда даже вино».
 
 §29 встраивает добровольный дискомфорт в более широкую дисциплину:
 прежде чем взять на себя обязательство, человек проходит
@@ -162,9 +172,13 @@ related: [[spiritual_exercises]], [[praemeditatio_malorum]], [[evening_examen]],
 
 Адо формулирует общую цель в выражении, цитированном выше:
 
-> «К этому добавляется простой образ жизни — чтобы не привыкнуть к
-> тому, что излишне, в тот день, когда придётся с ним расстаться»
-> (raw/hadot/..., с. 23).
+> «To this is joined a simple mode of life, in order not to be
+> accustomed to what is superfluous the day it will be necessary to
+> separate oneself from it.»
+> (raw/hadot/hadot.txt, с. 23).
+
+> *Перевод:* «К этому добавляется простой образ жизни — чтобы не привыкнуть к
+> тому, что излишне, в тот день, когда придётся с ним расстаться».
 
 «В тот день, когда придётся с ним расстаться» — это формула
 неизбежности утраты, общая для стоической этики. Болезнь, изгнание,

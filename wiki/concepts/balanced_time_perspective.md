@@ -63,7 +63,15 @@ ZTPI, 150 человек, попавших в этот профиль (выше 
 > done and it is time for pleasure, the present-hedonistic time
 > perspective will surface. During the holidays, the past-
 > positive time perspective may be most appropriate.
-> (raw/zimbardo/time-paradox.epub, ch. 11)
+> (raw/zimbardo/time-paradox.epub, ch. 11).
+
+> *Перевод:* «В зависимости от требований конкретной ситуации
+> одна временная перспектива должна выйти на первый план, а
+> другие — временно отступить. Когда есть работа, которую нужно
+> закончить, на передний план должна выйти future-перспектива.
+> Когда работа сделана и пришло время удовольствия, всплывает
+> present-hedonistic перспектива. На каникулах, возможно, более
+> всего подходит past-positive перспектива».
 
 То есть оператор — *переключение*, а не *усреднение*. Структурный
 аналог гибкости в концепциях flow и творческой личности:

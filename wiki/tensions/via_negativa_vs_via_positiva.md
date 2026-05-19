@@ -273,7 +273,29 @@ nourishers. Но в 12 000 дневниковых записях они обна
 > about five times stronger than the connection between mood
 > and positive events.
 > (raw/amabile/progress-principle.mobi, врезка «The Power of
-> Negative Events», гл. 5)
+> Negative Events», гл. 5).
+
+> *Перевод:* «Если хочешь способствовать хорошей inner work
+> life — сосредоточься в первую очередь на устранении
+> препятствий, вызывающих setbacks. Почему? Потому что один
+> setback имеет больше силы повлиять на inner work life, чем
+> один progress incident. Несколько неожиданных свидетельств:
+>
+> Воздействие setbacks на эмоции сильнее, чем воздействие
+> progress. Хотя progress увеличивает счастье и уменьшает
+> фрустрацию, эффект setbacks не только противоположен на
+> обоих типах эмоций — он *больше*. Сила setbacks уменьшать
+> счастье более чем вдвое сильнее силы progress его
+> увеличивать. Сила setbacks увеличивать фрустрацию более чем
+> втрое сильнее силы progress её уменьшать.
+>
+> Маленькие потери могут перевесить маленькие победы. […]
+> Точно так же мелкие повседневные hassles на работе имеют
+> больше веса, чем мелкие повседневные supports. […]
+>
+> Связь между настроением и негативными рабочими событиями
+> примерно в пять раз сильнее, чем связь между настроением и
+> позитивными событиями».
 
 Прикладной вывод, который они формулируют прямо следом, —
 заимствование медицинского принципа:
@@ -281,7 +303,11 @@ nourishers. Но в 12 000 дневниковых записях они обна
 > Because negative triggers can have such a disproportionate
 > effect on inner work life, you might do well to adopt the
 > physician's creed: First, do no harm.
-> (raw/amabile/progress-principle.mobi, та же врезка)
+> (raw/amabile/progress-principle.mobi, та же врезка).
+
+> *Перевод:* «Поскольку негативные триггеры могут оказывать
+> такое непропорциональное воздействие на inner work life, не
+> помешает принять врачебное кредо: First, do no harm».
 
 Операционально это требование последовательности: сначала убрать
 setbacks, inhibitors и toxins; только после этого добавлять
@@ -292,7 +318,12 @@ catalysts и nourishers. Даже *числом* маленькие хороши
 > Precisely because they are less powerful in affecting inner
 > work life, try to ensure that good events at work outnumber
 > the bad. In particular, try to reduce daily hassles.
-> (там же)
+> (там же).
+
+> *Перевод:* «Именно потому, что они слабее в воздействии на
+> inner work life — постарайся обеспечить, чтобы хорошие
+> события на работе превосходили плохие числом. В частности —
+> постарайся снизить количество daily hassles».
 
 Tаким образом Амабиле и Крамер эмпирически подтверждают именно
 ту асимметрию, из которой Талеб выводит via negativa: вред и

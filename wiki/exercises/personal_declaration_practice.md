@@ -18,11 +18,17 @@ related: [[personal_declarations]], [[speech_acts]], [[observer_and_interpretati
 «ты вице-президент по маркетингу» — мир после декларации не тот,
 что до неё, и эта разница произведена самим речевым актом.
 
-> «Когда мы делаем декларации, мы не говорим о мире; мы создаём
-> новый мир для себя. Слово порождает иную реальность. После
-> того как сказанное было сказано, мир уже не такой, как
-> прежде. Он трансформирован силой слова»
+> «When we make declarations, we are not talking about the world;
+> we are creating a new world for ourselves. The word generates a
+> different reality. After what was said has been said, the world
+> is no longer the same as before. It has been transformed by the
+> power of the word.»
 > (raw/echarria/..., index_split_010.html, гл. 3).
+
+> *Перевод:* «Когда мы делаем декларации, мы не говорим о мире;
+> мы создаём новый мир для себя. Слово порождает иную реальность.
+> После того как сказанное было сказано, мир уже не такой, как
+> прежде. Он трансформирован силой слова».
 
 Институциональные декларации зависят от мандата, который сообщество
 выдало говорящему: без авторитета они невалидны. Эчеверрия и
@@ -31,13 +37,20 @@ related: [[personal_declarations]], [[speech_acts]], [[observer_and_interpretati
 человеческой персоны. Они доступны каждому в его собственной жизни
 (подробно — [[personal_declarations]]).
 
-> «Каждый человек обладает властью делать определённые
+> «Every human person has the power to make certain statements in
+> the sphere of their own personal life, and insofar as they
+> exercise that power, they establish their dignity as a person. A
+> society of free men and women is precisely that society which
+> recognizes and socially sanctions the rights related to human
+> dignity.»
+> (raw/echarria/..., index_split_010.html, гл. 3).
+
+> *Перевод:* «Каждый человек обладает властью делать определённые
 > декларации в сфере своей личной жизни, и в той мере, в какой
 > он эту власть осуществляет, он устанавливает своё достоинство
 > как персоны. Общество свободных мужчин и женщин — это именно
 > то общество, которое признаёт и социально санкционирует
-> права, связанные с человеческим достоинством»
-> (raw/echarria/..., index_split_010.html, гл. 3).
+> права, связанные с человеческим достоинством».
 
 Упражнение — процедура формулирования и произнесения такой
 декларации в конкретной застрявшей точке собственной жизни.
@@ -74,13 +87,19 @@ related: [[personal_declarations]], [[speech_acts]], [[observer_and_interpretati
 4. **«Спасибо».** Не формальность хороших манер, а декларация
 признания того, что жизнь дала и что другие сделали для нас:
 
-> «Мы можем смотреть на утверждение "спасибо" как на возможность
-> отпраздновать всё, что жизнь нам дала, и признать других за
-> то, что они для нас делают и что они значат в нашей жизни. […]
-> Не выражать благодарность мы можем породить resentment, и те,
-> кто проявил усилие, чтобы нам помочь, в конце говорят: "И
-> даже спасибо не сказали"»
+> «We cannot fail to recognize the generative power of the action
+> we perform when we say "Thank you." […] By not expressing
+> gratitude, we can generate resentment, and those who went out
+> of their way to serve us and be there for us end up saying,
+> "And they didn't even say thank you."»
 > (raw/echarria/..., index_split_010.html, гл. 3).
+
+> *Перевод:* «Мы можем смотреть на утверждение "спасибо" как на
+> возможность отпраздновать всё, что жизнь нам дала, и признать
+> других за то, что они для нас делают и что они значат в нашей
+> жизни. […] Не выражать благодарность мы можем породить
+> resentment, и те, кто проявил усилие, чтобы нам помочь, в конце
+> говорят: "И даже спасибо не сказали"».
 
 5. **Декларации прощения (три отдельных акта).**
 
@@ -95,14 +114,22 @@ related: [[personal_declarations]], [[speech_acts]], [[observer_and_interpretati
 
 — «Прощаю» — отдельный декларативный акт. Эчеверрия:
 
-> «Прощение — не акт милости к тем, кто нам навредил, хотя
-> может быть и им. Прощение — декларативный акт личного
+> «Forgiveness is not an act of grace for those who have hurt us,
+> although it can also be that. Forgiveness is a declarative act
+> of personal liberation. By forgiving, we break the chain that
+> binds us to the perpetrator and keeps us as victims. By
+> forgiving, we take charge of ourselves and resolve to end an
+> open-ended process that continues to reproduce the harm that was
+> originally done to us.»
+> (raw/echarria/..., index_split_010.html, гл. 3).
+
+> *Перевод:* «Прощение — не акт милости к тем, кто нам навредил,
+> хотя может быть и им. Прощение — декларативный акт личного
 > освобождения. Прощая, мы разрываем цепь, которая связывает нас
 > с обидчиком и удерживает нас в положении жертвы. Прощая, мы
 > берём на себя заботу о себе и решаем закончить открытый
 > процесс, который продолжает воспроизводить вред, изначально
-> нам причинённый»
-> (raw/echarria/..., index_split_010.html, гл. 3).
+> нам причинённый».
 
 — «Прощаю себя» — та же работа, направленная внутрь: «единственный
 способ выйти из постоянной войны со своей собственной историей»
@@ -111,11 +138,17 @@ related: [[personal_declarations]], [[speech_acts]], [[observer_and_interpretati
 6. **«Я люблю тебя».** Декларация, конституирующая особый тип
 отношений. Эчеверрия:
 
-> «Объявить "я тебя люблю" или "ты мне дорог" участвует в
-> построении моих отношений с другим и является частью создания
-> общего мира. […] Важно не забывать, как говорение — и,
-> следовательно, также молчание — создаёт наш мир»
+> «Declaring "I love you" or "I care for you" participates in the
+> construction of my relationship with the other and is part of
+> the creation of a shared world. […] It is important not to
+> forget how speaking — and, therefore, also remaining silent —
+> creates our world.»
 > (raw/echarria/..., index_split_010.html, гл. 3).
+
+> *Перевод:* «Объявить "я тебя люблю" или "ты мне дорог" участвует
+> в построении моих отношений с другим и является частью создания
+> общего мира. […] Важно не забывать, как говорение — и,
+> следовательно, также молчание — создаёт наш мир».
 
 ### Процедура
 
@@ -167,13 +200,19 @@ related: [[personal_declarations]], [[speech_acts]], [[observer_and_interpretati
 подчёркивает: декларация, не подкреплённая согласованным
 поведением, разрушает идентичность говорящего:
 
-> «Когда мы делаем декларацию, мы также обязуемся вести себя
-> согласно с новой реальностью, которую мы декларировали.
-> Официальное лицо, проведшее церемонию, например, не может
-> потом сказать, что на самом деле не имело в виду того, что
-> декларировало, не претерпев последствий несогласованного
-> поведения»
+> «When we declare something, we commit ourselves to behave
+> consistently with the new reality we have declared. The
+> official who performed the ceremony, for example, cannot later
+> say that he did not really mean what he declared, without
+> suffering the consequences of inconsistent behavior.»
 > (raw/echarria/..., index_split_010.html, гл. 3).
+
+> *Перевод:* «Когда мы делаем декларацию, мы также обязуемся
+> вести себя согласно с новой реальностью, которую мы
+> декларировали. Официальное лицо, проведшее церемонию, например,
+> не может потом сказать, что на самом деле не имело в виду того,
+> что декларировало, не претерпев последствий несогласованного
+> поведения».
 
 То есть декларация «я больше не…» требует затем поведения,
 согласованного с этим «не». «Прощаю» требует не возвращаться к
@@ -189,10 +228,14 @@ related: [[personal_declarations]], [[speech_acts]], [[observer_and_interpretati
 *приносит* новое положение дел самим фактом её произнесения,
 если она сделана с должным авторитетом. Эчеверрия:
 
-> «В каждом из этих случаев слова трансформируют мир. После
-> того как утверждение сделано, вещи уже не такие, как
-> прежде»
+> «In each of these cases, words transform the world. Once a
+> statement has been made, things are no longer as they were
+> before.»
 > (raw/echarria/..., index_split_010.html, гл. 3).
+
+> *Перевод:* «В каждом из этих случаев слова трансформируют мир.
+> После того как утверждение сделано, вещи уже не такие, как
+> прежде».
 
 Это значит, что застрявшая точка часто не может быть «решена»
 действием в обычном смысле — её нужно произнести в виде
@@ -203,10 +246,13 @@ related: [[personal_declarations]], [[speech_acts]], [[observer_and_interpretati
 внешних причин, а от не-произнесения тех деклараций, которые
 человек чувствует обязанным произнести:
 
-> «Каждый раз, когда мы чувствуем, что должны сказать "нет", и
-> не говорим, мы видим, как наше достоинство
-> компрометируется»
+> «Every time we feel we should say "No" and don't, we see our
+> dignity compromised.»
 > (raw/echarria/..., index_split_010.html, гл. 3).
+
+> *Перевод:* «Каждый раз, когда мы чувствуем, что должны сказать
+> "нет", и не говорим, мы видим, как наше достоинство
+> компрометируется».
 
 В этой логике практика декларации — не риторическое упражнение, а
 работа возврата самого себя к самому себе.

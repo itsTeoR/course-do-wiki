@@ -40,7 +40,13 @@ related: [[procrastination_puzzle]], [[pychyl]], [[task_triage]]
 > because it was done in such a short amount of time. And, of
 > course, if the task is done very well, it looks exceptionally
 > good for the individual.
-> (там же)
+> (там же).
+
+> *Перевод:* «Задаче, сделанной в последнюю минуту, можно
+> простить низкое качество, потому что она была сделана за
+> такое короткое время. А если задача сделана очень хорошо —
+> это, конечно, выглядит исключительно выигрышно для самого
+> человека».
 
 Эта стратегия особенно характерна для **хронических
 прокрастинаторов**. Исследования Joseph Ferrari (DePaul) показали:
@@ -64,7 +70,14 @@ but not all delay is procrastination»). Self-handicapping в виде
 > self-esteem, [...] Of course, delay of this sort has begged the
 > question of whether this is truly procrastination at all,
 > because it can be seen as a strategic use of delay.
-> (raw/pychyl/procrastination_puzzle.epub, гл. 5)
+> (raw/pychyl/procrastination_puzzle.epub, гл. 5).
+
+> *Перевод:* «Из этого следует, что бесполезная отсрочка задачи,
+> которую мы определили как прокрастинацию, на самом деле может
+> закрывать некую потребность. Она может защищать самооценку,
+> […] Конечно, отсрочка такого рода поднимает вопрос, в самом
+> ли деле это прокрастинация, — потому что её можно увидеть как
+> стратегическое использование задержки».
 
 Но Пычил оставляет self-handicapping в каталоге прокрастинации,
 потому что **сама стратегическая функция плохо осознаётся**.

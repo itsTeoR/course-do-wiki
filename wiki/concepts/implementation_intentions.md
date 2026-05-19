@@ -38,7 +38,10 @@ related: [[procrastination_puzzle]], [[giving_in_to_feel_good]], [[pychyl]], [[t
 
 > «In situation X, I will do behavior Y to achieve my goal Z»; or
 > «If this happens, then I'll do this».
-> (raw/pychyl/procrastination_puzzle.epub, гл. 8)
+> (raw/pychyl/procrastination_puzzle.epub, гл. 8).
+
+> *Перевод:* «В ситуации X я выполню поведение Y, чтобы достичь
+> своей цели Z»; или «если случается это, то я сделаю то».
 
 X — это **внешний или внутренний стимул**: время («когда часы
 покажут 9»), место («когда сяду за стол»), мысль или эмоция
@@ -56,7 +59,12 @@ X — это **внешний или внутренний стимул**: вре
 > predecision so that you do not get caught up in thinking,
 > choosing, deciding. You have already made the decision. Now is
 > the time to act.
-> (raw/pychyl/procrastination_puzzle.epub, гл. 6)
+> (raw/pychyl/procrastination_puzzle.epub, гл. 6).
+
+> *Перевод:* «Имплементационная интенция помогает тебе начать.
+> Это твоё предрешение — чтобы ты не застрял в думании, выборе,
+> принятии решения. Решение уже принято. Сейчас время
+> действовать».
 
 Экспериментально это работает **независимо от мотивации**. В
 исследованиях Голлвитцера и его студентов: участники, истощённые
@@ -74,25 +82,41 @@ X — это **внешний или внутренний стимул**: вре
 > IF I say to myself things like «I'll feel more like doing this
 > later» or «I don't feel like doing this now», THEN I will just
 > get started on some aspect of the task.
-> (raw/pychyl/procrastination_puzzle.epub, гл. 6)
+> (raw/pychyl/procrastination_puzzle.epub, гл. 6).
+
+> *Перевод:* «ЕСЛИ я говорю себе что-то вроде «мне больше будет
+> хотеться этим заняться позже» или «сейчас мне не хочется это
+> делать», ТО я просто возьмусь за какой-нибудь аспект этой
+> задачи».
 
 **Против негативных эмоций в момент задачи:**
 
 > IF I feel negative emotions when I face the task at hand, THEN
 > I will stay put and not stop, put off a task, or run away.
-> (раздел гл. 3)
+> (раздел гл. 3).
+
+> *Перевод:* «ЕСЛИ я чувствую негативные эмоции, когда сталкиваюсь
+> с задачей, ТО я останусь на месте — не остановлюсь, не отложу
+> задачу, не уйду».
 
 **Против дистракторов (для импульсивных):**
 
 > If an alternative intention arises, such as an invitation to go
 > out, I will say that I will make my decision in ten minutes.
-> (гл. 9)
+> (гл. 9).
+
+> *Перевод:* «Если возникает альтернативное намерение — например,
+> приглашение пойти куда-нибудь, — я скажу, что приму решение
+> через десять минут».
 
 **Для жесткой рутины упражнений:**
 
 > If the kids are in bed, then I will go directly to the
 > treadmill.
-> (гл. 8)
+> (гл. 8).
+
+> *Перевод:* «Если дети уложены, то я сразу иду к беговой
+> дорожке».
 
 ## Что отличает от «просто to-do list»
 

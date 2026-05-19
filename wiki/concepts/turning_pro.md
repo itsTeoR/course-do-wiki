@@ -19,7 +19,11 @@ turning pro» и «после».
 > When I say professional, I don't mean doctors and lawyers,
 > those of «the professions». I mean the Professional as an
 > ideal.
-> (там же, «Professionals and Amateurs»)
+> (там же, «Professionals and Amateurs»).
+
+> *Перевод:* «Когда я говорю профессионал, я не имею в виду
+> докторов и юристов, людей «из профессий». Я имею в виду
+> Профессионала как идеал».
 
 Это **позиция**, не профессия. Прессфилд строит её через серию
 противопоставлений любителю. Этимологический довод: amateur — от
@@ -30,6 +34,12 @@ turning pro» и «после».
 > not pursue it as a sideline, distinct from his «real»
 > vocation. The professional loves it so much he dedicates his
 > life to it.
+> (там же).
+
+> *Перевод:* «Любитель любит игру недостаточно. Если бы любил
+> достаточно, он не занимался бы ею как побочным делом, в
+> стороне от своего «настоящего» призвания. Профессионал любит
+> её настолько, что посвящает ей жизнь».
 
 ## Каркас профессионала
 
